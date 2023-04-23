@@ -12,7 +12,7 @@ Hi! I am currently a fourth-year B.S student at the [University of Science and T
 
 Previously, I have been fortunate enough to have opportunities to conduct research on [The Innovation Academy for Precision Measurement Science and Technology (APM) of the Chinese Academy of Sciences (CAS)](http://www.apm.cas.cn) and [School of Metallurgical and Ecological Engineering, USTB](https://metall.ustb.edu.cn/). I am also lucky to learn research from [Prof. Fuchun Lin](https://people.ucas.edu.cn/~linfuchun) and [Lecturer Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm).
 
-I will join the [School of Life Science, Westlake University](http://sls.westlake.edu.cn) in August 2023 as a Ph.D. Student. Feel free to email me for rotation if you are interested.
+**I will join the [School of Life Science, Westlake University](http://sls.westlake.edu.cn) in August 2023 as a Ph.D. Student. Feel free to email me for rotation if you are interested.**
 
 
 ***
@@ -25,3 +25,8 @@ I will join the [School of Life Science, Westlake University](http://sls.westlak
 
 **Central South University**
 + Exchange Student, School of Automation, 2021.09-2022.01
+
+
+# Open Source Projects
+
+<img align="left" width="70%" src="https://github-readme-stats.vercel.app/api?username=RookieJunChen&show_icons=true">
