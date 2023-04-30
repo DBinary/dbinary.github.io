@@ -16,4 +16,4 @@ This paper is in submitting.
 
 *: co-first author
 
-Recommended citation: Zehua Zeng^*^, Cencan Xing^*^, **Lei Hu^*^**, Shah Roshan, Tongbiao Zhao, Yuanyan Xiong, Hongwu Du. "Identify the origin and end cells and infer the trajectory of cellular fate automatically." <i>in submitting</i>. 
+Recommended citation: Zehua Zeng*, Cengcan Xin*, **Lei Hu***, Shah Roshan, Tongbiao Zhao, Yuanyan Xiong, Hongwu Du. (2022)"Identify the origin and end cells and infer the trajectory of cellular fate automatically." <i>in submitting</i>. 

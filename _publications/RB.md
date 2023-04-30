@@ -14,4 +14,4 @@ This paper is in submitting.
 
 *: co-first author
 
-Recommended citation: Yihan Zhao^*^, Peng Liu^*^，Lei Hu^*^, Yu Shi, Yan Li, Nan Min, Mingxi Ke, Zehua Zeng, Hongwu Du. "Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution." <i>in submitting</i>. 
+Recommended citation: Yihan Zhao*, Peng Liu*, **Lei Hu***, Yu Shi, Yan Li, Nan Min, Mingxi Ke, Zehua Zeng, Hongwu Du. (2023) "Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution." <i>in submitting</i>. 
