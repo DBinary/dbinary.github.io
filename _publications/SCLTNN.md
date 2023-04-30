@@ -3,7 +3,7 @@ title: "Identify the origin and end cells and infer the trajectory of cellular f
 collection: publications
 permalink: /publication/SCLTNN
 excerpt: 
-date: in submitting
+date: 2022-9-28
 venue: 
 paperurl: 
 citation: 
