@@ -29,4 +29,4 @@ Previously, I have been fortunate enough to have opportunities to conduct resear
 
 # Open Source Projects
 
-<img align="left" width="70%" src="https://github-readme-stats.vercel.app/api?username=RookieJunChen&show_icons=true">
+<img align="left" width="70%" src="https://github-readme-stats.vercel.app/api?username=DBinary&show_icons=true">
