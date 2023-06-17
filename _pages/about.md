@@ -26,7 +26,7 @@ Previously, I have been fortunate enough to have opportunities to conduct resear
 
 # Recent Publications
 
-$\mit{Preprint}$**  
+$\mit{Preprint}$
 
 [1] Zehua Zeng\*, Yuqing Ma\*, Lei Hu, Yuanyan Xiong, Hongwu Du, **Leveraging Domain Relations for Domain Generalization**, *bioRxiv, 2023: 2023.06. 06.543913.*. [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)]
 
