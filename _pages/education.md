@@ -11,7 +11,7 @@ author_profile: true
 <img src="../images/ustb.jpg" alt="USTB" style="width: 50px; height: 50px;" />&emsp; [University of Science and Technology Beijing](https://en.ustb.edu.cn//)  
 &emsp; B.S. in Biotechnology. 2020.09-2023.06
 
-<img src="../images/csu.jpg" alt="CSU" style="width: 50px; height: 50px;" />&emsp; [Central South University](https://en.csu.edu.cn//) （GPA: 3.96/4.0）    
+<img src="../images/csu.jpg" alt="CSU" style="width: 50px; height: 50px;" />&emsp; [Central South University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）    
 &emsp; Exchanged Student. 2021.09-2022.01
 
 # Research Experience

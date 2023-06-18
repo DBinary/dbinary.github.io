@@ -22,17 +22,17 @@ Previously, I have been fortunate enough to have opportunities to conduct resear
 + B.S. in Biotechnology, School of Chemistry and Biological Engineering, 2020.09-2023.06
 
 **Central South University**
-+ Exchange Student, School of Automation, 2021.09-2022.01
++ Exchanged Student, School of Automation, 2021.09-2022.01
 
 # Recent Publications
 
 $\mit{Preprint}$
 
-[1] Zehua Zeng\*, Yuqing Ma\*, Lei Hu, Yuanyan Xiong, Hongwu Du, **Leveraging Domain Relations for Domain Generalization**, *bioRxiv, 2023: 2023.06. 06.543913.*. [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)]
+[1] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu**, Yuanyan Xiong, Hongwu Du, **OmicVerse: A single pipeline for exploring the entire transcriptome universe**, *bioRxiv, 2023: 2023.06. 06.543913.*. [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)]
 
-[2] Yihan Zhao\*, Peng Liu\*, Lei Hu\*, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.*. [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
+[2] Yihan Zhao\*, Peng Liu\*, **Lei Hu**\*, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.*. [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
 
-[3] Zehua Zeng\*, Cencang Xing\*, Lei Hu\*, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.*. [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)]
+[3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu**\*, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.*. [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)]
 
 # Open Source Projects
 
