@@ -34,6 +34,12 @@ $\mit{Preprint}$
 
 [3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu**\*, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.*. [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)]
 
-# Open Source Projects
-
-<img align="left" width="70%" src="https://github-readme-stats.vercel.app/api?username=DBinary&show_icons=true">
+# Award
++ Dean Award 
++ "San Hao" Graduates
++ Outstanding Graduation Thesis of USTB
++ Tongda Scholarship **(1/146)**
++ Zhongtian Steel Scholarship
++ Huawei Intelligent Base Scholarship
++ People Scholarship (First Class)
++ Outstanding "San Hao" Student 
