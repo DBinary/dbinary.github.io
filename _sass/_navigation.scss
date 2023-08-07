@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: $westlake-color;
 
   a {
     display: block;
@@ -201,6 +201,19 @@
     cursor: pointer;
   }
 
+  @media screen and (max-width: 600px) {
+    img {
+      visibility: hidden;
+    }
+  }
+  @media screen and (min-width: 601px) {
+    img {
+      position: absolute;
+      right: 0px;
+    }
+  }
+
+
   .visible-links {
     display: table;
 
@@ -225,14 +238,14 @@
 
     a {
       position: relative;
-
+      color: $westlake-text;
       &:before {
         content: "";
         position: absolute;
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: mix(#fff, $westlake-color, 75%);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
