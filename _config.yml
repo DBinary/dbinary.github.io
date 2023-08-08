@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lei Hu"
   avatar           : "lei.png"
-  bio              : "Undergraduate Student <br> Research intern at [<a href='https://air.tsinghua.edu.cn//'>AIR</a>]"
-  location         : "Beijing, China"
+  bio              : "Incoming Ph.D. student <br> at [<a href='https://en.westlake.edu.cn/'>Westlake University</a>]"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "41918117@xs.ustb.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=AmbiOvQAAAAJ"
+  email            : "hulei@westlake.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
