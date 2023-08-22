@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lei Hu (胡磊), A first year Ph.D. student in [School of Life Sciences](https://sls.westlake.edu.cn), [Westlake University](https://www.westlake.edu.cn). My academic journey began at the [School of Advanced Engineering](https://gcsxy.ustb.edu.cn) at [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn), where I successfully earned my bachelor's degree in science and engineering. My research interests include Bioinformatics, Single-Cell Multiomics Data Analysis, AI for Drug Discovery and AI for Science (Especially AI for Life Science).
+Hi! I am Lei Hu (胡磊), a first year Ph.D. student in [School of Life Sciences](https://sls.westlake.edu.cn), [Westlake University](https://www.westlake.edu.cn). My academic journey began at the [School of Advanced Engineering](https://gcsxy.ustb.edu.cn) at [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn), where I successfully earned my bachelor's degree in science and engineering. My research interests include Bioinformatics, Single-Cell Multiomics Data Analysis, AI for Drug Discovery and AI for Science (Especially AI for Life Science).
 
 In the realm of bioinformatics research, I had the honor of serving as a research intern at [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/) advised by [Dr. Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm), and  visiting scholar at [School of Chemistry and Biological Engineering, USTB](http://huasheng.ustb.edu.cn/) advised by [Ph.D. Student Zehua Zeng](https://github.com/Starlitnightly) and [Prof. Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html). 
 
