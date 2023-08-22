@@ -4,6 +4,8 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
+<img src="../images/westlake_logo.jpg" alt="Westlake" style="width: 50px; height: 50px;" />&emsp; [Westlake University](https://www.westlake.edu.cn//)
+&emsp; Ph.D. in Biology. 2023.08-Present
 
 <img src="../images/ustb.jpg" alt="USTB" style="width: 50px; height: 50px;" />&emsp; [University of Science and Technology Beijing](https://en.ustb.edu.cn//) （GPA: 3.76/4.0）   
 &emsp; B.E. in Automation. 2019.09-2023.06
@@ -17,7 +19,7 @@ author_profile: true
 # Research Experience
 
 <img src="../images/tsinghua.jpg" alt="Tsinghua" style="width: 50px; height: 50px;" />&emsp; [Tsinghua University]((https://www.tsinghua.edu.cn/))  
-&emsp; Research Intern at [AIR](https://air.tsinghua.edu.cn/), advised by Prof. [Zaiqing Nie](https://air.tsinghua.edu.cn/info/1046/1203.htm) and Postdoc [Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm). 2023.03 - Present
+&emsp; Research Intern at [AIR](https://air.tsinghua.edu.cn/), advised by Prof. [Zaiqing Nie](https://air.tsinghua.edu.cn/info/1046/1203.htm) and Postdoc [Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm). 2023.03 - 2023.07
 
 <img src="../images/ustb.jpg" alt="USTB" style="width: 50px; height: 50px;" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/)  
 &emsp; Research Intern at [112Lab](http://huasheng.ustb.edu.cn/), advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) and Ph.D. Student [Zehua Zeng](https://github.com/Starlitnightly) . 2021.11 - Present

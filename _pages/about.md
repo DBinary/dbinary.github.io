@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lei Hu (胡磊), an undergraduate from [School of Advanced Engineering](https://gcsxy.ustb.edu.cn), [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn). Currently, I am an research intern at [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/) advised by [Dr. Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm), and  visiting scholar at [School of Chemistry and Biological Engineering, USTB](http://huasheng.ustb.edu.cn/) advised by [Ph.D. Student Zehua Zeng](https://github.com/Starlitnightly) and [Prof. Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html). My research interests include Bioinformatics, Single-Cell Multiomics Data Analysis, AI for Drug Discovery and AI for Science (Especially AI for Life Science).
+Hi! I am Lei Hu (胡磊), A first year Ph.D. student in [School of Life Sciences](https://sls.westlake.edu.cn), [Westlake University](https://www.westlake.edu.cn). My academic journey began at the [School of Advanced Engineering](https://gcsxy.ustb.edu.cn) at [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn), where I successfully earned my bachelor's degree in science and engineering. My research interests include Bioinformatics, Single-Cell Multiomics Data Analysis, AI for Drug Discovery and AI for Science (Especially AI for Life Science).
 
-Previously, I have been fortunate enough to have opportunities to conduct research on [The Innovation Academy for Precision Measurement Science and Technology (APM) of the Chinese Academy of Sciences (CAS)](http://www.apm.cas.cn) and [School of Metallurgical and Ecological Engineering, USTB](https://metall.ustb.edu.cn/). I am also lucky to learn research from [Prof. Fuchun Lin](https://people.ucas.edu.cn/~linfuchun) and [Lecturer Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm).
+In the realm of bioinformatics research, I had the honor of serving as a research intern at [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/) advised by [Dr. Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm), and  visiting scholar at [School of Chemistry and Biological Engineering, USTB](http://huasheng.ustb.edu.cn/) advised by [Ph.D. Student Zehua Zeng](https://github.com/Starlitnightly) and [Prof. Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html). 
+
+Perviously, I have been fortunate enough to have opportunities to conduct research on [The Innovation Academy for Precision Measurement Science and Technology (APM) of the Chinese Academy of Sciences (CAS)](http://www.apm.cas.cn) and [School of Metallurgical and Ecological Engineering, USTB](https://metall.ustb.edu.cn/). I am also lucky to learn research from [Prof. Fuchun Lin](https://people.ucas.edu.cn/~linfuchun) and [Lecturer Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm).
 
 
 ***
 
 # Education
+
+**Westlake University**
++ Ph.D. in Biology, School of Life Sciences, 2023.08-Present
 
 **University of Science and Technology Beijing**
 + B.E. in Automation, School of Advanced Engineering, 2019.09-2023.06
@@ -35,7 +40,7 @@ $\mit{Preprint}$
 [3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu**\*, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.*. [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)]
 
 # Award
-+ Dean Award 
++ Dean Award (Top Award of Undergraduate Students)
 + "San Hao" Graduates
 + Outstanding Graduation Thesis of USTB
 + Tongda Scholarship **(1/146)**
