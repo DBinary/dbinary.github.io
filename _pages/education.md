@@ -4,7 +4,7 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-<img src="../images/westlake_logo.jpg" alt="Westlake" style="width: 50px; height: 50px;" />&emsp; [Westlake University](https://www.westlake.edu.cn//)
+<img src="../images/westlake_logo.png" alt="Westlake" style="width: 50px; height: 50px;" />&emsp; [Westlake University](https://www.westlake.edu.cn//)
 &emsp; Ph.D. in Biology. 2023.08-Present
 
 <img src="../images/ustb.jpg" alt="USTB" style="width: 50px; height: 50px;" />&emsp; [University of Science and Technology Beijing](https://en.ustb.edu.cn//) （GPA: 3.76/4.0）   
