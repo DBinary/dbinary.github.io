@@ -7,7 +7,7 @@ author_profile: true
 <img src="../images/westlake_logo.png" alt="westlake" style="width: 50px; height: 50px;" />&emsp; [Westlake University](https://www.westlake.edu.cn/)    
 &emsp; Ph.D. Student Rotation Program, advised by Prof. [Yanmei Dou](https://www.westlake.edu.cn/faculty/yanmei-dou.html). 2023.09 - 2023.10
 
-<img src="../images/tsinghua.jpg" alt="Tsinghua" style="width: 50px; height: 50px;" />&emsp; [Tsinghua University](https://www.tsinghua.edu.cn/)
+<img src="../images/tsinghua.jpg" alt="Tsinghua" style="width: 50px; height: 50px;" />&emsp; [Tsinghua University](https://www.tsinghua.edu.cn/)    
 &emsp; Research Intern at [AIR](https://air.tsinghua.edu.cn/), advised by Prof. [Zaiqing Nie](https://air.tsinghua.edu.cn/info/1046/1203.htm) and Postdoc [Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm). 2023.03 - 2023.07
 
 <img src="../images/ustb.png" alt="USTB" style="width: 50px; height: 50px;" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/)  
