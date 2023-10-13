@@ -19,7 +19,8 @@ Perviously, I have been fortunate enough to have opportunities to conduct resear
 
 # Education
 
-<img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)    
+<img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)               
+
 &emsp; Ph.D. student in Biology, School of Life Sciences. 2023.08 - Present
 
 <img src="../images/ustb.png" alt="ustb" style="zoom:28%; float: left" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/) （GPA: 3.76/4.0）      
