@@ -19,16 +19,16 @@ Perviously, I have been fortunate enough to have opportunities to conduct resear
 
 # Education
 
-<img src="../images/westlake_logo.png" alt="westlake" style="zoom:24%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)    
+<img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)    
 &emsp; Ph.D. student in Biology, School of Life Sciences. 2023.08 - Present
 
-<img src="../images/ustb.png" alt="ustb" style="zoom:24%; float: left" />&emsp; [Westlake University](http://en.ustb.edu.cn/) （GPA: 3.76/4.0）      
+<img src="../images/ustb.png" alt="ustb" style="zoom:9%; float: left" />&emsp; [Westlake University](http://en.ustb.edu.cn/) （GPA: 3.76/4.0）      
 &emsp; B.E. in Automation, School of Advanced Engineering, advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) and Lecturer [Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm). 2019.09-2023.06
 
-<img src="../images/ustb.png" alt="westlake" style="zoom:24%; float: left" />&emsp; [Westlake University](http://en.ustb.edu.cn/)    
+<img src="../images/ustb.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](http://en.ustb.edu.cn/)    
 &emsp; B.S. in Biotechnology, School of Chemistry and Biological Engineering. 2020.09-2023.06
 
-<img src="../images/csu.jpg" alt="westlake" style="zoom:24%; float: left" />&emsp; [Westlake University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）   
+<img src="../images/csu.jpg" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）   
 &emsp; Exchanged Student, School of Automation, 2021.09-2022.01
 
 
