@@ -46,7 +46,7 @@ $\mit{Preprint}$
 ***
 
 # Award
-+ Dean Award (Top Award of Undergraduate Students)
++ Dean Award **(Top Award of Undergraduate Students)**
 + "San Hao" Graduates
 + Outstanding Graduation Thesis of USTB
 + Tongda Scholarship **(1/146)**
