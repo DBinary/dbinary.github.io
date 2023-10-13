@@ -26,7 +26,7 @@ Perviously, I have been fortunate enough to have opportunities to conduct resear
 &emsp; B.E. in Automation, School of Advanced Engineering, advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) and Lecturer [Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm). 2019.09-2023.06
 
 <img src="../images/ustb.png" alt="westlake" style="zoom:28%; float: left" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/)    
-&emsp; B.S. in Biotechnology, School of Chemistry and Biological Engineering. 2020.09-2023.06
+&emsp; B.S. in Biotechnology, School of Chem. and Bio. Engineering. 2020.09-2023.06
 
 <img src="../images/csu.jpg" alt="westlake" style="zoom:24%; float: left" />&emsp; [Central South University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）   
 &emsp; Exchanged Student, School of Automation, 2021.09-2022.01
