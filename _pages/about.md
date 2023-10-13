@@ -31,6 +31,7 @@ Perviously, I have been fortunate enough to have opportunities to conduct resear
 <img src="../images/csu.jpg" alt="westlake" style="zoom:24%; float: left" />&emsp; [Central South University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）   
 &emsp; Exchanged Student, School of Automation, 2021.09-2022.01
 
+***
 
 # Recent Publications
 
@@ -41,6 +42,8 @@ $\mit{Preprint}$
 [2] Yihan Zhao\*, Peng Liu\*, **Lei Hu**\*, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.*. [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
 
 [3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu**\*, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.*. [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)]
+
+***
 
 # Award
 + Dean Award (Top Award of Undergraduate Students)
