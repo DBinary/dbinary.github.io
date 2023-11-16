@@ -5,6 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 <img src="../images/westlake_logo.png" alt="westlake" style="width: 50px; height: 50px;" />&emsp; [Westlake University](https://www.westlake.edu.cn/)    
+&emsp; Ph.D. Student Rotation Program, advised by Prof. [Jian Yang](https://www.westlake.edu.cn/faculty/jian-yang.html). 2023.10 - 2023.11
+
+<img src="../images/westlake_logo.png" alt="westlake" style="width: 50px; height: 50px;" />&emsp; [Westlake University](https://www.westlake.edu.cn/)    
 &emsp; Ph.D. Student Rotation Program, advised by Prof. [Yanmei Dou](https://www.westlake.edu.cn/faculty/yanmei-dou.html). 2023.09 - 2023.10
 
 <img src="../images/tsinghua.jpg" alt="Tsinghua" style="width: 50px; height: 50px;" />&emsp; [Tsinghua University](https://www.tsinghua.edu.cn/)    
