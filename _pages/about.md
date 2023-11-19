@@ -57,4 +57,4 @@ $\mit{Preprint}$
 + People Scholarship (First Class)
 + Outstanding "San Hao" Student 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=JVtBKfgVFvggHIuMnP1Gv3Un3BtkiguY-dm7mDeMzvE&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
