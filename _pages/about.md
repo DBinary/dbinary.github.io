@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lei Hu (胡磊), a first year Ph.D. student in [School of Life Sciences](https://sls.westlake.edu.cn), [Westlake University](https://www.westlake.edu.cn). I am also a member of Artificial Intelligence and Computational Biology (AICB) Lab in [School of Engineering](https://en-soe.westlake.edu.cn/), advised by Professor [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 
+Hi! I am Lei Hu (胡磊), a first year Ph.D. student in [School of Life Sciences](https://sls.westlake.edu.cn), [Westlake University](https://www.westlake.edu.cn). I am also a member of [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/) in [School of Engineering](https://en-soe.westlake.edu.cn/), advised by Professor [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 
 
 My academic journey began at the [School of Advanced Engineering](https://gcsxy.ustb.edu.cn) at [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn), where I successfully earned my bachelor's degree in science and engineering. My research interests include Bioinformatics, Single-Cell Multiomics Data Analysis, AI for Drug Discovery and AI for Science (Especially AI for Life Science).
 
