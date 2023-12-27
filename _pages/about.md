@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Lei Hu (胡磊), the first year Ph.D. student in [School of Life Sciences](https://sls.westlake.edu.cn/en/), [Westlake University](https://en.westlake.edu.cn/), advised by Professor [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html). I am also the Ph.D. student of [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/) in [School of Engineering](https://en-soe.westlake.edu.cn/), co-advised by Professor [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 
 
-My research interests include **bioinformatics**, **single-cell multiomics and spatial transcriptomics data analysis**, **the application of statistical and deep learning methods to omics data** and **AI for life sciences**.
+My research interests include bioinformatics, single-cell multiomics and spatial transcriptomics data analysis, the application of statistical and deep learning methods to omics data and AI for life sciences.
 
 My academic journey began at the [School of Advanced Engineering](https://gcsxy.ustb.edu.cn) at [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn), where I successfully earned my bachelor's degree in science and engineering. 
 
