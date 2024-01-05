@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <img src="../images/westlake_logo.png" alt="westlake" style="width: 50px; height: 50px;" />&emsp; [Westlake University](https://www.westlake.edu.cn/)    
-&emsp; Ph.D. Student Training, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 2023.07 - Present
+&emsp; Ph.D. Training, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 2023.07 - Present
 
 <img src="../images/westlake_logo.png" alt="westlake" style="width: 50px; height: 50px;" />&emsp; [Westlake University](https://www.westlake.edu.cn/)    
 &emsp; Ph.D. Student Rotation Program and Training, advised by Prof. [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html). 2023.11 - Present
