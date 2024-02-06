@@ -56,7 +56,7 @@ $\mit{Prepare for publication}$
 ***
 
 # Award
-+ Dean Award **(Top Award of Undergraduate Students)**
++ Dean Award **(Top Award of Undergraduates)**
 + "San Hao" Graduates
 + Outstanding Graduation Thesis of USTB
 + Tongda Scholarship **(1/146)**
