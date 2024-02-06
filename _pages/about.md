@@ -47,6 +47,12 @@ $\mit{Preprint}$
 
 [3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu\***, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.* [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)] **(Briefings In Bioinformatics in review.)**
 
+$\mit{Prepare for publication}$
+
+[1] Yushuai Wu, Hanwen Sunchu, **Lei Hu**, Suyuan Zhao, Jiahuan Zhang, Tingting Huang, Shenshen Li, Yizhen Luo, Zaiqing Nie, **Multi-Drug Transfer Learning Models for Efficient Pre-clinical Drug Discovery**.
+
+[2] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*,…… Zehua Zeng, Hongwu Du. **Single cell RNA-seq reveales the immune suppression caused by Helicobacter pylori infection**.
+
 ***
 
 # Award
