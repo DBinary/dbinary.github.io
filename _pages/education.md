@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 <img src="../images/westlake_logo.png" alt="Westlake" style="width: 50px; height: 50px;" />&emsp; [Westlake University](https://www.westlake.edu.cn//)                 
-&emsp; Ph.D. in Biology, School of Life Sciences. 2023.08-Present
+&emsp; Ph.D. student in Biology, School of Life Sciences, advised by Prof. [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html) and Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 2023.08 - Present
 
 <img src="../images/ustb.png" alt="USTB" style="width: 50px; height: 50px;" />&emsp; [University of Science and Technology Beijing](https://en.ustb.edu.cn//) （GPA: 3.76/4.0）   
 &emsp; B.E. in Automation, School of Advanced Engineering. 2019.09-2023.06
