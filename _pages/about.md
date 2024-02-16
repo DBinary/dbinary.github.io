@@ -12,7 +12,7 @@ Hi! I am Lei Hu (胡磊), the first year Ph.D. student in [School of Life Scienc
 
 My main research interest focus on AI for life sciences.
 
-My academic journey began at the [School of Advanced Engineering](https://gcsxy.ustb.edu.cn) at [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn), where I successfully earned my bachelor's degree in science and engineering. 
+My academic journey began at the [School of Advanced Engineering](https://gcsxy.ustb.edu.cn) at [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn), where I successfully earned degree of Bachelor of Science and Bachelor of Engineering. 
 
 In the realm of bioinformatics research, I had the honor of working as a research intern at [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/) advised by [Dr. Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm), and  visiting scholar at [School of Chemistry and Biological Engineering, USTB](http://huasheng.ustb.edu.cn/) advised by [Ph.D. Student Zehua Zeng](https://github.com/Starlitnightly) and [Prof. Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html). 
 
@@ -49,7 +49,7 @@ $\mit{Preprint}$
 
 $\mit{Prepare  for  publication}$
 
-[1] Yushuai Wu, Hanwen Sunchu, **Lei Hu**, Suyuan Zhao, Jiahuan Zhang, Tingting Huang, Shenshen Li, Yizhen Luo, Zaiqing Nie, **Multi-Drug Transfer Learning Models for Efficient Pre-clinical Drug Discovery**. **(Intern at AIR, tsinghua university.)**
+[1] Yushuai Wu, Hanwen Sunchu, **Lei Hu**, Suyuan Zhao, Jiahuan Zhang, Tingting Huang, Shenshen Li, Yizhen Luo, Zaiqing Nie, **Multi-Drug Transfer Learning Models for Efficient Pre-clinical Drug Discovery**. **(Intern at AIR, Tsinghua University.)**
 
 [2] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*,…… Zehua Zeng, Hongwu Du. **Single cell RNA-seq reveales the immune suppression caused by Helicobacter pylori infection**. **(Finished at undergraduate stage.)**
 
