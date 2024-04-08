@@ -41,7 +41,7 @@ Perviously, I have been fortunate enough to have opportunities to conduct resear
 
 $\mit{Preprint}$
 
-[1] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Peng Liu, Bowen Tan, Yixuan Wang, Yuanyan Xiong, Hongwu Du, **OmicVerse: A single pipeline for exploring the entire transcriptome universe**, *bioRxiv, 2023: 2023.06. 06.543913.* [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] **(Nature Communications, major revision.)**
+[1] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Peng Liu, Bowen Tan, Yixuan Wang, Yuanyan Xiong, Hongwu Du, **OmicVerse: A single pipeline for exploring the entire transcriptome universe**, *bioRxiv, 2023: 2023.06. 06.543913.* [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] **(Nature Communications, revision.)**
 
 [2] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
 
