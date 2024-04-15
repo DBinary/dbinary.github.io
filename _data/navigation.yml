@@ -12,6 +12,9 @@ main:
   - title: "Research"
     url: /research/    
 
+  - title: "Miscellaneous"
+    url: /misc/   
+
   #- title: "Projects"
   #  url: /projects/  
 
