@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lei Hu's Homepage"
 title_separator          : "-"
-name                     : &name "Lei Hu"
+name                     : &name "Lei Hu (胡磊)"
 description              : &description "personal description"
 url                      : https://dbinary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
