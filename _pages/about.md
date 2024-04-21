@@ -27,7 +27,7 @@ My main research interest focus on **AI for Life Sciences**.
 &emsp; B.S. in Biotechnology, School of Chem. and Bio. Engineering. 2020.09-2023.06
 
 <img src="../images/csu.jpg" alt="westlake" style="zoom:24%; float: left" />&emsp; [Central South University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）   
-&emsp; Exchanged Student, School of Automation, 2021.09-2022.01
+&emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
 ***
 
