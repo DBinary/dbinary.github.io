@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lei Hu (胡磊), the first year Ph.D. student in [School of Life Sciences](https://sls.westlake.edu.cn/en/), [Westlake University](https://en.westlake.edu.cn/), advised by professor [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html). I am also the Ph.D. student of [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/) in the program of artificial intelligence and data science, [School of Engineering](https://en-soe.westlake.edu.cn/), co-advised by professor [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 
+Hi! I am Lei Hu (胡磊), the first year Ph.D. student in [School of Life Sciences](https://sls.westlake.edu.cn/en/), [Westlake University](https://en.westlake.edu.cn/), advised by Chair professor [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html). I am also the Ph.D. student of [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/) in the program of artificial intelligence and data science, [School of Engineering](https://en-soe.westlake.edu.cn/), co-advised by professor [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 
 
 My main research interest focus on **AI for Life Sciences**.
 
@@ -52,5 +52,15 @@ $\mit{Preprint}$
 + Huawei Intelligent Base Scholarship
 + People Scholarship (First Class)
 + Outstanding "San Hao" Student 
+
+***
+
+# Co-working Students
+(* * I am working with some visiting/undergraduate/doctoral students/postdocs at Westlake University with Chair professor Hongtao Yu and Professor Jianyang Zeng*)
+  * Peng Liu (Undergraduate student at USTB)
+  * Yihan Zhao (Undergraduate student at USTB, incoming MS student at Fudan University)
+  * Zheming Zhang (Undergraduate student at Central South University)
+  * Fenglei Zhang (MS student at NPU)
+
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
