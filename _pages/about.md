@@ -35,11 +35,15 @@ My main research interest focus on **AI for Life Sciences**.
 
 $\mit{Preprint}$
 
-[1] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Peng Liu, Bowen Tan, Yixuan Wang, Yuanyan Xiong, Hongwu Du, **OmicVerse: A single pipeline for exploring the entire transcriptome universe**, *bioRxiv, 2023: 2023.06. 06.543913.* [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] **(Nature Communications, revision.)**
 
-[2] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
+[1] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Zehua Zeng, Hongwu Du, **ScRNA-seq of gastric mucosa discovers the immune suppressive mechanisms in helicobacter\* pylori\* infection**, 2024: [BioRxiv] [PDF] [Code]
 
-[3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu\***, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.* [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)] **(Briefings In Bioinformatics, major revision.)**
+
+[2] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Peng Liu, Bowen Tan, Yixuan Wang, Yuanyan Xiong, Hongwu Du, **OmicVerse: A single pipeline for exploring the entire transcriptome universe**, *bioRxiv, 2023: 2023.06. 06.543913.* [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] **(Nature Communications, revision.)**
+
+[3] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
+
+[4] Zehua Zeng\*, Cencang Xing\*, **Lei Hu\***, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.* [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)] **(Briefings In Bioinformatics, major revision.)**
 
 ***
 
