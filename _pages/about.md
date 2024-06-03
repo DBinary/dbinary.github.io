@@ -36,7 +36,7 @@ My main research interest focus on **AI for Life Sciences**.
 $\mit{Preprint}$
 
 
-[1] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Zehua Zeng, Hongwu Du, **ScRNA-seq of gastric mucosa discovers the immune suppressive mechanisms in \*helicobacter \*pylori infection**, 2024: [BioRxiv] [PDF] [Code] (Coming soon)
+[1] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Zehua Zeng, Hongwu Du, **ScRNA-seq of gastric mucosa discovers the immune suppressive mechanisms in helicobacter pylori infection**, 2024: [BioRxiv] [PDF] [Code] (Coming soon)
 
 
 [2] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Peng Liu, Bowen Tan, Yixuan Wang, Yuanyan Xiong, Hongwu Du, **OmicVerse: A single pipeline for exploring the entire transcriptome universe**, *bioRxiv, 2023: 2023.06. 06.543913.* [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] [[Code](https://github.com/Starlitnightly/omicverse)] [[Tutorials](https://omicverse.readthedocs.io/en/stable/)] **(Nature Communications, revision.)**
