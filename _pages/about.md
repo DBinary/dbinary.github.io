@@ -14,7 +14,7 @@ My main research interest focus on **AI for Life Sciences**.
 
 
 ***
-**I am pleased to recommand my collaborator Peng Liu, an outstanding undergraduate student at University of Science and Technology Beijing, who has finished with two co-first research article, obtained national scholarship, achieved a top 2% ranking of his class. Peng is currently looking for a Ph.D. position of 2025 Fall. Feel free to email me if you have interest.**
+**I am pleased to recommand my collaborator Peng Liu, an outstanding undergraduate student at University of Science and Technology Beijing, who has finished two co-first research article, obtained national scholarship, and achieved a top 2% ranking of his class. Peng is currently looking for a Ph.D. position major in Computer Science and Technology for Fall 2025. Feel free to email me if you have interest.**
 
 ***
 
