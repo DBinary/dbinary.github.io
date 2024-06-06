@@ -14,7 +14,7 @@ My main research interest focus on **AI for Life Sciences**.
 
 
 ***
-**I am pleased to recommand my collaborator Peng Liu, an outstanding undergraduate student at University of Science and Technology Beijing, who has finished two co-first research article, participated in a forthcoming paper as a contributor in Nature Communications (currently under revision), obtained national scholarship, and achieved a top 2% ranking of his class. Peng is currently looking for a Ph.D. position major in Computer Science and Technology for Fall 2025. Feel free to email me if you have interest.**
+**I am pleased to recommand my collaborator Peng Liu, an outstanding undergraduate student at University of Science and Technology Beijing, who has finished two co-first research article, participated in a forthcoming paper as a contributor in Nature Communications (currently under revision), obtained national scholarship, and achieved a top 2% ranking of his class. Peng is currently looking for a Ph.D. position major in Computer Science and Technology for Fall 2025. Feel free to email me if you have interest (hulei@westlake.edu.cn).**
 
 ***
 
