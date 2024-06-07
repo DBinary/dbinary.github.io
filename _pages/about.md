@@ -20,6 +20,18 @@ My main research interest focus on **AI for Life Sciences**.
 
 ***
 
+# Recent Publications
+
+$\mit{Preprint}$
+
+[1] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
+
+[2] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Peng Liu, Bowen Tan, Yixuan Wang, Yuanyan Xiong, Hongwu Du, **OmicVerse: A single pipeline for exploring the entire transcriptome universe**, *bioRxiv, 2023: 2023.06. 06.543913.* [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] [[Code](https://github.com/Starlitnightly/omicverse)] [[Tutorials](https://omicverse.readthedocs.io/en/stable/)] **(Nature Communications, revision.)**
+
+[3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu\***, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.* [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)] **(Briefings In Bioinformatics, major revision.)**
+
+***
+
 # Education
 
 <img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)                           
@@ -33,18 +45,6 @@ My main research interest focus on **AI for Life Sciences**.
 
 <img src="../images/csu.jpg" alt="westlake" style="zoom:24%; float: left" />&emsp; [Central South University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）   
 &emsp; Exchange Student, School of Automation, 2021.09-2022.01
-
-***
-
-# Recent Publications
-
-$\mit{Preprint}$
-
-[1] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Peng Liu, Bowen Tan, Yixuan Wang, Yuanyan Xiong, Hongwu Du, **OmicVerse: A single pipeline for exploring the entire transcriptome universe**, *bioRxiv, 2023: 2023.06. 06.543913.* [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] [[Code](https://github.com/Starlitnightly/omicverse)] [[Tutorials](https://omicverse.readthedocs.io/en/stable/)] **(Nature Communications, revision.)**
-
-[2] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
-
-[3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu\***, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.* [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)] **(Briefings In Bioinformatics, major revision.)**
 
 ***
 
