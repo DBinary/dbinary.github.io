@@ -38,7 +38,7 @@ $\mit{Preprint}$
 &emsp; Ph.D. student in Biology, School of Life Sciences, advised by Prof. [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html) and Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 2023.08 - Present
 
 <img src="../images/ustb.png" alt="ustb" style="zoom:28%; float: left" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/) （GPA: 3.76/4.0）      
-&emsp; B.E. in Automation, School of Advanced Engineering, advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) at 112lab(https://112lab.asia/people) and Lecturer [Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm). 2019.09-2023.06
+&emsp; B.E. in Automation, School of Advanced Engineering, advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) at [112lab](https://112lab.asia/people) and Lecturer [Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm). 2019.09-2023.06
 
 <img src="../images/ustb.png" alt="westlake" style="zoom:28%; float: left" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/)    
 &emsp; B.S. in Biotechnology, School of Chem. and Bio. Engineering. 2020.09-2023.06
