@@ -20,7 +20,7 @@ author_profile: true
 &emsp; Research Intern at [AIR](https://air.tsinghua.edu.cn/), advised by Prof. [Zaiqing Nie](https://air.tsinghua.edu.cn/info/1046/1203.htm) and Postdoc [Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm). 2023.03 - 2023.07
 
 <img src="../images/ustb.png" alt="USTB" style="width: 50px; height: 50px;" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/)  
-&emsp; Research Intern at [112Lab](http://huasheng.ustb.edu.cn/), advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) and Ph.D. Student [Zehua Zeng](https://github.com/Starlitnightly) . 2021.11 - Present
+&emsp; Research Intern at [112Lab](http://huasheng.ustb.edu.cn/), advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) and Ph.D. Student [Zehua Zeng](https://github.com/Starlitnightly) . 2021.11 - 2023.08
 
 <img src="../images/ucas.jpg" alt="UCAS" style="width: 50px; height: 50px;" />&emsp; [Chinese Academy of Sciences](http://www.apm.cas.cn)  
 &emsp; Research Intern at [APM](http://www.apm.cas.cn), advised by Prof. [Fuchun Lin](https://people.ucas.edu.cn/~linfuchun). 2021.07 - 2022.07
