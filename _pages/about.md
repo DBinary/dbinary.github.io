@@ -13,18 +13,18 @@ Hi! I am Lei Hu (胡磊), the first year Ph.D. student in [School of Life Scienc
 My main research interest focus on **AI for Life Sciences**.
 
 ***
-### 💬 Recent News
+## 💬 Recent News
   * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://doi.org/10.1101/2023.06.06.543913) accepted to **Nature Communications** !
 
 
 ***
-### 📢 Advertisement
+## 📢 Advertisement
 
   **I am pleased to recommand my collaborator Peng Liu, an outstanding undergraduate student at University of Science and Technology Beijing, who has finished two co-first research articles, participated in a forthcoming paper as a contributor in Nature Communications (currently under revision), obtained national scholarship, and achieved a top 2% ranking of his class. Peng is currently looking for a Ph.D. position major in Computer Science and Technology for Fall 2025. Feel free to email me if you have interest (hulei@westlake.edu.cn).** [honour_1](https://mp.weixin.qq.com/s/L0MvmBzMOwLtM8Mmww-pSw) [honour_2](https://mp.weixin.qq.com/s/kEeCO7zJN67Y-FH-u42GOw) [honour_3](https://mp.weixin.qq.com/s/CpEP6xngsluSuIVExhC_TA)
 
 ***
 
-### 📝 Recent Publications
+## 📝 Recent Publications
 
 $\mit{Preprint}$
 
@@ -36,7 +36,7 @@ $\mit{Preprint}$
 
 ***
 
-### 📖 Education
+## 📖 Education
 
   <img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)                           
   &emsp; Ph.D. student in Biology, School of Life Sciences, advised by Prof. [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html) and Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 2023.08 - Present
@@ -52,7 +52,7 @@ $\mit{Preprint}$
 
 ***
 
-### 👑 Award
+## 👑 Award
   + Dean Award **(Top Award of Undergraduate Students)**
   + "San Hao" Graduates
   + Outstanding Graduation Thesis of USTB
@@ -63,13 +63,13 @@ $\mit{Preprint}$
   + Outstanding "San Hao" Student 
 
 ***
-### 💻 Internships
+## 💻 Internships
   * 2023.03 - 2023.07 Research Intern at [AIR](https://air.tsinghua.edu.cn/), advised by Prof. [Zaiqing Nie](https://air.tsinghua.edu.cn/info/1046/1203.htm) and Postdoc [Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm).
   * 2021.11 - 2023.08 Research Intern at [112Lab](https://112lab.asia/people), advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) and Ph.D. Student [Zehua Zeng](https://github.com/Starlitnightly) .
   * 2021.07 - 2022.07 Research Intern at [APM](http://www.apm.cas.cn), advised by Prof. [Fuchun Lin](https://people.ucas.edu.cn/~linfuchun). 
   * 2020.09 - 2021.09 Research Intern at [Metall](https://metall.ustb.edu.cn/), advised by Lecturer [Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm). 
 
-### 🔗 Co-working Students
+## 🔗 Co-working Students
 (**I am working with some visiting/undergraduate/doctoral students and postdocs at Westlake University with chair professor Hongtao Yu and professor Jianyang Zeng*)
   * Peng Liu (Undergraduate student at USTB)
   * Yihan Zhao (Undergraduate student at USTB, incoming MS student at Fudan University)
