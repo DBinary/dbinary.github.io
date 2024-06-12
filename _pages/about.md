@@ -14,7 +14,7 @@ My main research interest focus on **AI for Life Sciences**.
 
 ***
 # 💬 Recent News
-  * Jun,* 2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://doi.org/10.1101/2023.06.06.543913) accepted to Nature\* Communications\*!
+  * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://doi.org/10.1101/2023.06.06.543913) accepted to **Nature Communications** !
 
 
 ***
