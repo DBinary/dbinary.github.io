@@ -13,7 +13,7 @@ Hi! I am Lei Hu (胡磊), the first year Ph.D. student of Cell Biology Lab (细�
 My main research interest focus on **AI for Life Sciences**.
 
 ## 💬 Recent News
-  * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://doi.org/10.1101/2023.06.06.543913) accepted to **Nature Communications** !
+  * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://doi.org/10.1101/2023.06.06.543913) accepted to **Nature Communications !**
 
 ## 📢 Advertisement
   **I am pleased to recommand my collaborator Peng Liu, an outstanding undergraduate student at University of Science and Technology Beijing, who has finished two co-first research articles, participated in a forthcoming paper as a contributor in Nature Communications (currently under revision), obtained national scholarship, and achieved a top 2% ranking of his class. Peng is currently looking for a Ph.D. position major in Computer Science and Technology for Fall 2025. Feel free to email me if you have interest (hulei@westlake.edu.cn).** [honour_1](https://mp.weixin.qq.com/s/L0MvmBzMOwLtM8Mmww-pSw) [honour_2](https://mp.weixin.qq.com/s/kEeCO7zJN67Y-FH-u42GOw) [honour_3](https://mp.weixin.qq.com/s/CpEP6xngsluSuIVExhC_TA)
