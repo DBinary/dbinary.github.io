@@ -40,15 +40,15 @@ When visiting Central South University as an exchange student in Fall 2021, I wa
         }
     </style>
 </head>
-<body>  
+<body> 
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <img src="images/csu_2103.jpg" alt="Image 1">
+                <img src="../images/csu_2103.jpg" alt="Image 1">
                 <div class="caption">Caption for Image 1</div>
             </div>
             <div class="swiper-slide">
-                <img src="images/ustb_graduation.png" alt="Image 2">
+                <img src="../images/ustb_graduation.png" alt="Image 2">
                 <div class="caption">Caption for Image 2</div>
             </div>
         </div>
