@@ -15,7 +15,7 @@ author_profile: true
             width: 100%;
             height: 60vh; /* Adjust the height as needed */
             position: relative;
-            margin-top: 3vh; /* Push the gallery lower on the page */
+            margin-top: 0vh; /* Push the gallery lower on the page */
         }
         .swiper-slide {
             display: flex;
