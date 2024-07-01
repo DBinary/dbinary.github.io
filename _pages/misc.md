@@ -14,9 +14,9 @@ author_profile: true
     <style>
         .swiper-container {
             width: 100%;
-            height: 80vh; /* Adjust the height as needed */
+            height: 60vh; /* Adjust the height as needed */
             position: relative;
-            margin-top: 20vh; /* Push the gallery lower on the page */
+            margin-top: 5vh; /* Push the gallery lower on the page */
         }
         .swiper-slide {
             display: flex;
