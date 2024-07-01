@@ -15,7 +15,7 @@ author_profile: true
             width: 100%;
             height: 60vh; /* Adjust the height as needed */
             position: relative;
-            margin-top: 0vh; /* Push the gallery lower on the page */
+            margin-top: 3vh; /* Push the gallery lower on the page */
         }
         .swiper-slide {
             display: flex;
@@ -57,6 +57,10 @@ author_profile: true
                 <img src="../images/ustb_graduation.png" alt="Image 2">
                 <div class="caption">Graduating from University of Science and Technology Beijing.</div>
             </div>
+            <div class="swiper-slide">
+                <img src="../images/westlake_bar.jpg" alt="Image 2">
+                <div class="caption">'Westlake Bar', nice to meet the gifted youngs.</div>
+            </div>
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>
@@ -82,7 +86,7 @@ author_profile: true
                 crossFade: true
             },
             autoplay: {
-                delay: 2500,
+                delay: 10000,
                 disableOnInteraction: false,
             },
             pagination: {
