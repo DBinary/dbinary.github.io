@@ -5,7 +5,6 @@ permalink: /misc/
 author_profile: true
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,7 +15,7 @@ author_profile: true
             width: 100%;
             height: 60vh; /* Adjust the height as needed */
             position: relative;
-            margin-top: 5vh; /* Push the gallery lower on the page */
+            margin-top: 3vh; /* Push the gallery lower on the page */
         }
         .swiper-slide {
             display: flex;
@@ -39,7 +38,8 @@ author_profile: true
             background-color: rgba(0, 0, 0, 0.5);
             padding: 5px;
             border-radius: 3px;
-            display: none;
+            opacity: 0; /* Hide caption initially */
+            transition: opacity 0.3s; /* Smooth transition for showing/hiding caption */
         }
         .swiper-slide:hover .caption {
             opacity: 1; /* Show caption on hover */
