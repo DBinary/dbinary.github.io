@@ -5,15 +5,6 @@ permalink: /misc/
 author_profile: true
 ---
 
-# Undergraduate period
-
-When visiting Central South University as an exchange student in Fall 2021, I was honored and pleased to become the header student of Class 2103 at School of Automation.
-
-![Class of 2103, central south university](../images/csu_2103.jpg)
-
-
-# Gallery
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,6 +22,7 @@ When visiting Central South University as an exchange student in Fall 2021, I wa
             align-items: center;
             justify-content: center;
             position: relative;
+            cursor: pointer;
         }
         .swiper-slide img {
             width: 100%;
@@ -44,6 +36,7 @@ When visiting Central South University as an exchange student in Fall 2021, I wa
             background-color: rgba(0, 0, 0, 0.5);
             padding: 5px;
             border-radius: 3px;
+            display: none;
         }
     </style>
 </head>
@@ -52,11 +45,11 @@ When visiting Central South University as an exchange student in Fall 2021, I wa
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <img src="../images/csu_2103.jpg" alt="Image 1">
-                <div class="caption">Caption for Image 1</div>
+                <div class="caption">When visiting Central South University as an exchange student in Fall 2021, I was honored and pleased to become the header student of Class 2103 at School of Automation.</div>
             </div>
             <div class="swiper-slide">
                 <img src="../images/ustb_graduation.png" alt="Image 2">
-                <div class="caption">Caption for Image 2</div>
+                <div class="caption">Graduating from University of Science and Technology Beijing.</div>
             </div>
         </div>
         <!-- Add Pagination -->
@@ -68,6 +61,15 @@ When visiting Central South University as an exchange student in Fall 2021, I wa
 
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     <script>
+        function toggleCaption(element) {
+            const caption = element.querySelector('.caption');
+            if (caption.style.display === 'none' || caption.style.display === '') {
+                caption.style.display = 'block';
+            } else {
+                caption.style.display = 'none';
+            }
+        }
+
         var swiper = new Swiper('.swiper-container', {
             effect: 'fade',
             fadeEffect: {
