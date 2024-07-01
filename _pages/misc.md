@@ -14,8 +14,9 @@ author_profile: true
     <style>
         .swiper-container {
             width: 100%;
-            height: 400px;
+            height: 80vh; /* Adjust the height as needed */
             position: relative;
+            margin-top: 20vh; /* Push the gallery lower on the page */
         }
         .swiper-slide {
             display: flex;
@@ -23,10 +24,12 @@ author_profile: true
             justify-content: center;
             position: relative;
             cursor: pointer;
+            overflow: hidden; /* Ensure images fit within the slide */
         }
         .swiper-slide img {
             width: 100%;
-            height: auto;
+            height: 100%;
+            object-fit: cover; /* Maintain aspect ratio */
         }
         .caption {
             position: absolute;
@@ -91,5 +94,3 @@ author_profile: true
     </script>
 </body>
 </html>
-
-
