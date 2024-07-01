@@ -81,13 +81,3 @@ When visiting Central South University as an exchange student in Fall 2021, I wa
 </body>
 </html>
 
-
-![Image 1](../images/csu_2103.jpg)
-![Image 2](../images/ustb_graduation.png)
-
-<style>
-img {
-    width: 200px; /* Adjust the width as needed */
-    margin: 5px;
-}
-</style>
