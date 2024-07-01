@@ -41,6 +41,9 @@ author_profile: true
             border-radius: 3px;
             display: none;
         }
+        .swiper-slide:hover .caption {
+            opacity: 1; /* Show caption on hover */
+        }
     </style>
 </head>
 <body>
