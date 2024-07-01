@@ -24,11 +24,17 @@ When visiting Central South University as an exchange student in Fall 2021, I wa
         .swiper-container {
             width: 100%;
             height: 400px;
+            position: relative;
         }
         .swiper-slide {
             display: flex;
             align-items: center;
             justify-content: center;
+            position: relative;
+        }
+        .swiper-slide img {
+            width: 100%;
+            height: auto;
         }
         .caption {
             position: absolute;
@@ -37,10 +43,11 @@ When visiting Central South University as an exchange student in Fall 2021, I wa
             color: white;
             background-color: rgba(0, 0, 0, 0.5);
             padding: 5px;
+            border-radius: 3px;
         }
     </style>
 </head>
-<body> 
+<body>
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
@@ -62,8 +69,10 @@ When visiting Central South University as an exchange student in Fall 2021, I wa
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     <script>
         var swiper = new Swiper('.swiper-container', {
-            spaceBetween: 30,
-            centeredSlides: true,
+            effect: 'fade',
+            fadeEffect: {
+                crossFade: true
+            },
             autoplay: {
                 delay: 2500,
                 disableOnInteraction: false,
@@ -80,4 +89,3 @@ When visiting Central South University as an exchange student in Fall 2021, I wa
     </script>
 </body>
 </html>
-
