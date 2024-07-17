@@ -20,7 +20,7 @@ My main research interest focus on **AI for Life Sciences**.
 
 ## 📝 Recent Publications
 $\mit{Publications}$
-  [1] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du, **OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing**, **Nature Communcations** 15, 5983 (2024).[[Paper](https://www.nature.com/articles/s41467-024-50194-3)] [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] [[Code](https://github.com/Starlitnightly/omicverse)] [[Tutorials](starlitnightly.github.io/omicverse/)] 
+  [1] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du, **OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing**, **Nature Communcations** 15, 5983 (2024). [[Paper](https://www.nature.com/articles/s41467-024-50194-3)] [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] [[Code](https://github.com/Starlitnightly/omicverse)] [[Reproducibility](https://github.com/Starlitnightly/omicverse-reproducibility)] [[Tutorials](starlitnightly.github.io/omicverse/)] 
 
 $\mit{Preprints}$
 
