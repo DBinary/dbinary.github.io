@@ -20,6 +20,7 @@ My main research interest focus on **AI for Life Sciences**.
 
 ## 📝 Recent Publications
 $\mit{Publications}$
+$\mit{Publications}$
 
   <table style="border: none; border-collapse: collapse;">
 
