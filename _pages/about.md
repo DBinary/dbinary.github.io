@@ -32,7 +32,7 @@ My main research interest focus on **AI for Life Sciences**.
       <img src="../images/omicverse.png" width="850" />
     </td>
     <td style="border: 1px solid black; padding: 10px;">
-      <b><i>OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing</i><b><br>
+      <b><i>OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing</i></b><br>
       Zehua Zeng*, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du.<br>
       <b>Nature Communications</b>, 15, 5983 (2024).<br>
       <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
