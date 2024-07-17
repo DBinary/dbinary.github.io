@@ -44,8 +44,6 @@ My main research interest focus on **AI for Life Sciences**.
 </table>
 
 
-  </table>
-
 ## 📝 Preprints
 
   [1] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng, Hongwu Du, **ScRNA-seq of gastric mucosa discovers the immune suppressive mechanisms in *helicobacter pylori* infection**.
