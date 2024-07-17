@@ -29,7 +29,7 @@ My main research interest focus on **AI for Life Sciences**.
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: 1px solid black; padding: 10px;">
-      <img src="../images/omicverse.png" width="800" />
+      <img src="../images/omicverse.png" width="1000" />
     </td>
     <td style="border: 1px solid black; padding: 10px;">
       Zehua Zeng*, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du.
