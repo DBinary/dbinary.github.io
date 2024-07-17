@@ -29,7 +29,7 @@ My main research interest focus on **AI for Life Sciences**.
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: 1px solid black; padding: 10px;">
-      <img src="../images/omicverse.png" width="850" />
+      <img src="../images/omicverse.png" width="700" />
     </td>
     <td style="border: 1px solid black; padding: 10px;">
       <b><i>OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing</i></b><br>
