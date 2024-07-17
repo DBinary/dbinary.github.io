@@ -20,7 +20,6 @@ My main research interest focus on **AI for Life Sciences**.
 
 ## 📝 Recent Publications
 $\mit{Publications}$
-$\mit{Publications}$
 
   <table style="border: none; border-collapse: collapse;">
 
@@ -29,7 +28,7 @@ $\mit{Publications}$
     <img src="../images/omicverse.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    Zehua Zeng*, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du.
+    Zehua Zeng*, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du.<br>
     "<i>OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing</i>".
     <b>Nature Communications</b>, 15, 5983 (2024).<br>
     <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
