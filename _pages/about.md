@@ -19,14 +19,20 @@ My main research interest focus on **AI for Life Sciences**.
   **I am pleased to recommand my collaborator Peng Liu, an outstanding undergraduate student at University of Science and Technology Beijing, who has finished two co-first research articles, participated in a published paper as a contributor in Nature Communications, obtained national scholarship, and achieved a top 2% ranking of his class. Peng is currently looking for a Ph.D. position major in Computer Science and Technology for Fall 2025. Feel free to email me if you have interest (hulei@westlake.edu.cn).** [honour_1](https://mp.weixin.qq.com/s/L0MvmBzMOwLtM8Mmww-pSw) [honour_2](https://mp.weixin.qq.com/s/kEeCO7zJN67Y-FH-u42GOw) [honour_3](https://mp.weixin.qq.com/s/CpEP6xngsluSuIVExhC_TA)
 
 ## 📝 Recent Publications
-  <table style="border: none; border-collapse: collapse;">
+<style>
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+</style>
 
-  <tr style="border-collapse: separate; border-spacing:none;">
-    <td style="border-collapse: collapse; border: none;">
-      <img src="../images/omicverse.png" width="600" />
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: 1px solid black; padding: 10px;">
+      <img src="../images/omicverse.png" width="800" />
     </td>
-    <td style="border-collapse: collapse; border: none;">
-      Zehua Zeng*, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du.<br>
+    <td style="border: 1px solid black; padding: 10px;">
+      Zehua Zeng*, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du.
       "<i>OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing</i>".
       <b>Nature Communications</b>, 15, 5983 (2024).<br>
       <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -35,8 +41,8 @@ My main research interest focus on **AI for Life Sciences**.
       <span><a href="https://github.com/Starlitnightly/omicverse">Code</a>, <a href="https://github.com/Starlitnightly/omicverse-reproducibility">Reproducibility</a>, <a href="https://starlitnightly.github.io/omicverse/">Tutorials</a></span><br>
     </td>
   </tr>
+</table>
 
-  </table>
 
 ## 📝 Preprints
 
