@@ -25,7 +25,7 @@ $\mit{Publications}$
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="../images/omicverse.png" width="800" />
+    <img src="../images/omicverse.png" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Zehua Zeng*, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du.<br>
@@ -40,8 +40,6 @@ $\mit{Publications}$
 
 
 </table>
-
-  [1] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du, **OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing. Nature Communcations** 15, 5983 (2024). [[Paper](https://www.nature.com/articles/s41467-024-50194-3)] [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] [[Code](https://github.com/Starlitnightly/omicverse)] [[Reproducibility](https://github.com/Starlitnightly/omicverse-reproducibility)] [[Tutorials](starlitnightly.github.io/omicverse/)] 
 
 $\mit{Preprints}$
 
