@@ -32,7 +32,7 @@ My main research interest focus on **AI for Life Sciences**.
       <img src="../images/omicverse.png" width="700" />
     </td>
     <td style="border: 1px solid black; padding: 10px;">
-      <b><i>OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing</i></b><br>
+      <b><i>OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing.</i></b><br>
       Zehua Zeng*, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing, Yuanyan Xiong, Hongwu Du.<br>
       <b>Nature Communications</b>, 15, 5983 (2024).<br>
       <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -76,15 +76,15 @@ My main research interest focus on **AI for Life Sciences**.
   + Outstanding "San Hao" Student 
 
 ## 💻 Internships
-  * 2023.03 - 2023.07 Research Intern at [AIR](https://air.tsinghua.edu.cn/), advised by Prof. [Zaiqing Nie](https://air.tsinghua.edu.cn/info/1046/1203.htm) and Postdoc [Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm).
-  * 2021.11 - 2023.08 Research Intern at [112Lab](https://112lab.asia/people), advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) and Ph.D. Student [Zehua Zeng](https://github.com/Starlitnightly) .
-  * 2021.07 - 2022.07 Research Intern at [APM](http://www.apm.cas.cn), advised by Prof. [Fuchun Lin](https://people.ucas.edu.cn/~linfuchun). 
-  * 2020.09 - 2021.09 Research Intern at [Metall](https://metall.ustb.edu.cn/), advised by Lecturer [Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm). 
+  * 2023.03 - 2023.07 Research Intern at [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Zaiqing Nie](https://air.tsinghua.edu.cn/info/1046/1203.htm) and Postdoc [Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm).
+  * 2021.11 - 2023.08 Research Intern at [112Lab](https://112lab.asia/people), University of Science and Techonology Beijing, advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) and Ph.D. Student [Zehua Zeng](https://github.com/Starlitnightly) .
+  * 2021.07 - 2022.07 Research Intern at [APM](http://www.apm.cas.cn), Chinese Academy of Science, advised by Prof. [Fuchun Lin](https://people.ucas.edu.cn/~linfuchun). 
+  * 2020.09 - 2021.09 Research Intern at [Metall](https://metall.ustb.edu.cn/), University of Science and Techonology Beijing, advised by Lecturer [Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm). 
 
 ## 🔗 Co-working Students
 (**I am working with some visiting/undergraduate/doctoral students and postdocs at Westlake University with chair professor Hongtao Yu and professor Jianyang Zeng*)
   * Peng Liu (Undergraduate student at USTB)
-  * Yihan Zhao (Undergraduate student at USTB, incoming MS student at Fudan University)
+  * Yihan Zhao (MS student at Fudan University)
   * Zheming Zhang (Undergraduate student at Central South University)
   * Fenglei Zhang (MS student at NPU)
 
