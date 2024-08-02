@@ -1,10 +1,9 @@
 ---
 layout: archive
+title: "Teaching experience"
 permalink: /teaching/
 author_profile: true
 ---
-
-# Teaching experience
 
   + Westlake University, Summer 2024, TA for [PEBBLE BioFusion Summer Camp](https://cis.westlake.edu.cn/en/info/1033/1052.htm).
   
