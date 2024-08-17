@@ -61,6 +61,10 @@ author_profile: true
                 <img src="../images/westlake_bar.jpg" alt="Image 2">
                 <div class="caption">'Westlake Bar', nice to meet the gifted youngs.</div>
             </div>
+            <div class="swiper-slide">
+                <img src="../images/PEBBLE_2024.jpg" alt="Image 2">
+                <div class="caption">Teaching assiant for PEBBLE BioFusion summer camp.</div>
+            </div>
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>

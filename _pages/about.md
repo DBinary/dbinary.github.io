@@ -16,7 +16,9 @@ My main research interest focus on **AI for Life Sciences**.
   * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications !**
 
 ## 📢 Advertisement
-  **I am pleased to recommand my collaborator Peng Liu, an outstanding undergraduate student at University of Science and Technology Beijing, who has finished two co-first research articles, participated in a published paper as a contributor in Nature Communications, obtained national scholarship, and achieved a top 2% ranking of his class. Peng is currently looking for a Ph.D. position major in Computer Science and Technology for Fall 2025. Feel free to email me if you have interest (hulei@westlake.edu.cn).** [honour_1](https://mp.weixin.qq.com/s/L0MvmBzMOwLtM8Mmww-pSw) [honour_2](https://mp.weixin.qq.com/s/kEeCO7zJN67Y-FH-u42GOw) [honour_3](https://mp.weixin.qq.com/s/CpEP6xngsluSuIVExhC_TA)
+  **I am pleased to recommand my collaborator Peng Liu, an outstanding undergraduate student at University of Science and Technology Beijing, who has finished two co-first research articles, participated in a published paper as a contributor in Nature Communications, obtained national scholarship, and achieved a top 2% ranking of his class. Peng is currently looking for a Ph.D. position major in Computer Science and Technology for Fall 2025. Feel free to email me if you have interest (hulei@westlake.edu.cn).** [honour_1](https://mp.weixin.qq.com/s/L0MvmBzMOwLtM8Mmww-pSw) [honour_2](https://mp.weixin.qq.com/s/kEeCO7zJN67Y-FH-u42GOw) [honour_3](https://mp.weixin.qq.com/s/CpEP6xngsluSuIVExhC_TA) 
+
+  **By the way, Peng has obtained the Ph.D offer of Peking University. If you have the Ph.D. position major in Computer Science and Technology of Peking University or Tsinghua University, you can email me.**
 
 ## 📝 Recent Publications
 <style>
@@ -82,7 +84,7 @@ My main research interest focus on **AI for Life Sciences**.
   * 2020.09 - 2021.09 Research Intern at [Metall](https://metall.ustb.edu.cn/), University of Science and Techonology Beijing, advised by Lecturer [Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm). 
 
 ## 🔗 Co-working Students
-(**I am working with some visiting/undergraduate/doctoral students and postdocs at Westlake University with chair professor Hongtao Yu and professor Jianyang Zeng*)
+(*I am working with some visiting/undergraduate/doctoral students and postdocs at Westlake University with chair professor Hongtao Yu and professor Jianyang Zeng*)
   * Peng Liu (Undergraduate student at USTB)
   * Yihan Zhao (MS student at Fudan University)
   * Zheming Zhang (Undergraduate student at Central South University)

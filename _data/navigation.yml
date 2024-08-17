@@ -12,14 +12,14 @@ main:
   - title: "Research"
     url: /research/    
 
+  - title: "Teaching"
+    url: /teaching/    
+    
   - title: "Miscellaneous"
     url: /misc/   
 
   #- title: "Projects"
   #  url: /projects/  
-
-  - title: "Teaching"
-    url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
