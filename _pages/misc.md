@@ -63,7 +63,7 @@ author_profile: true
             </div>
             <div class="swiper-slide">
                 <img src="../images/PEBBLE_2024.jpg" alt="Image 2">
-                <div class="caption">Teaching assiant for PEBBLE BioFusion summer camp.</div>
+                <div class="caption">Teaching assistant for PEBBLE BioFusion summer camp.</div>
             </div>
         </div>
         <!-- Add Pagination -->
