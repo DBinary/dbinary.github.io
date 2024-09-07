@@ -67,7 +67,7 @@ My main research interest focus on **AI for Life Sciences**.
   <img src="../images/csu.jpg" alt="westlake" style="zoom:24%; float: left" />&emsp; [Central South University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）   
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
-## 👑 Award
+## 👑 Awards
   + Dean Award **(Top Award of Undergraduate Students)**
   + "San Hao" Graduates
   + Outstanding Graduation Thesis of USTB
@@ -76,6 +76,9 @@ My main research interest focus on **AI for Life Sciences**.
   + Huawei Intelligent Base Scholarship
   + People Scholarship (First Class)
   + Outstanding "San Hao" Student 
+
+## 🎤 Talks
+  + [OmicVerse - Introduction to the python based framework for transcriptome data analysis](https://mp.weixin.qq.com/s/PHE8vePsRMs9HouJTGsf9Q), BiolinkX, Online, September 2023.
 
 ## 💻 Internships
   * 2023.03 - 2023.07 Research Intern at [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Zaiqing Nie](https://air.tsinghua.edu.cn/info/1046/1203.htm) and Postdoc [Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm).
@@ -89,6 +92,7 @@ My main research interest focus on **AI for Life Sciences**.
   * Yihan Zhao (MS student at Fudan University)
   * Zheming Zhang (Undergraduate student at Central South University)
   * Fenglei Zhang (MS student at NPU)
+  * Zhaorui Jiang (Undergraduate student at Ocean University of China)
 
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
