@@ -54,6 +54,8 @@ My main research interest focus on **AI for Life Sciences**.
 
   [3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu\***, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.* [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)]
 
+  [4] Yushuai Wu, Ting Zhang, Hao Zhou, Hainan Wu, Hanwen Sunchu, **Lei Hu**, Xiaofang Chen, Suyuan Zhao, Gaochao Liu, Chao Sun, Jiahuan Zhang, Yizhen Luo, Peng Liu, Zaiqing Nie, Yushuai Wu, **DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation**, *arXiv preprint arXiv:2403.03768, 2024.* [[arXiv](https://arxiv.org/abs/2403.03768)]
+  
 ## 📖 Education
   <img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)                           
   &emsp; Ph.D. student in Biology, School of Life Sciences, advised by Prof. [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html) and Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 2023.08 - Present
