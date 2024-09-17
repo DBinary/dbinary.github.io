@@ -80,7 +80,7 @@ My main research interest focus on **AI for Life Sciences**.
   + Outstanding "San Hao" Student 
 
 ## 🎤 Talks
-  + [New functions and progress of OmicVerse, the python based framework for transcriptome data analysis](hhttps://mp.weixin.qq.com/s/JX0BKKMCkBkDO-JRq7lKpA), BiolinkX, Zhejiang University, September 2024.
+  + [New functions and progress of OmicVerse, the python based framework for transcriptome data analysis](https://mp.weixin.qq.com/s/JX0BKKMCkBkDO-JRq7lKpA), BiolinkX, Zhejiang University, September 2024.
   + [OmicVerse - Introduction to the python based framework for transcriptome data analysis](https://mp.weixin.qq.com/s/PHE8vePsRMs9HouJTGsf9Q), BiolinkX, Online, September 2023.
 
 ## 💻 Internships
