@@ -13,12 +13,13 @@ Hi! I am Lei Hu (胡磊), the second year Ph.D. student of Cell Biology Lab (细
 My main research interest focus on **AI for Life Sciences**.
 
 ## 💬 Recent News
+  * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to the Department of Automation, Tsinghua University!**
   * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications !**
 
 ## 📢 Advertisement
   **I am pleased to recommand my collaborator Peng Liu, an outstanding undergraduate student at University of Science and Technology Beijing, who has finished two co-first research articles, participated in a published paper as a contributor in Nature Communications, obtained national scholarship, and achieved a top 2% ranking of his class. Peng is currently looking for a Ph.D. position major in Computer Science and Technology for Fall 2025. Feel free to email me if you have interest (hulei@westlake.edu.cn).** [honour_1](https://mp.weixin.qq.com/s/L0MvmBzMOwLtM8Mmww-pSw) [honour_2](https://mp.weixin.qq.com/s/kEeCO7zJN67Y-FH-u42GOw) [honour_3](https://mp.weixin.qq.com/s/CpEP6xngsluSuIVExhC_TA) 
 
-  **By the way, Peng has obtained the Ph.D offer of Peking University. If you have the Ph.D. position major in Computer Science and Technology of Peking University or Tsinghua University, you can email me.**
+  **Congratulations! Peng has been admitted to the Department of Automation, Tsinghua University!**
 
 ## 📝 Recent Publications
 <style>
@@ -91,11 +92,11 @@ My main research interest focus on **AI for Life Sciences**.
 
 ## 🔗 Co-working Students
 (*I am working with some visiting/undergraduate/doctoral students and postdocs at Westlake University with chair professor Hongtao Yu and professor Jianyang Zeng*)
-  * Peng Liu (Undergraduate student at USTB)
+  * Peng Liu (Undergraduate student at USTB, incoming MS student at Tsinghua University)
   * Yihan Zhao (MS student at Fudan University)
   * Zheming Zhang (Undergraduate student at Central South University)
   * Fenglei Zhang (MS student at NPU)
-  * Zhaorui Jiang (Undergraduate student at Ocean University of China)
+  * Zhaorui Jiang (Undergraduate student at Ocean University of China, incoming MS student at Peking University)
 
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
