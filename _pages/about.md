@@ -66,6 +66,7 @@ My main research interest focus on **AI for Life Sciences**.
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
 ## 👑 Awards
+  + National Scholarship
   + Dean Award **(Top Award of Undergraduate Students)**
   + "San Hao" Graduates
   + Outstanding Graduation Thesis of USTB
