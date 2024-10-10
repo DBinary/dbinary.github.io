@@ -13,6 +13,7 @@ Hi! I am Lei Hu (胡磊), the second year Ph.D. student of Cell Biology Lab (细
 My main research interest focus on **AI for Life Sciences**.
 
 ## 💬 Recent News
+  * *October,* *2024*. I am honored to receive the **National Scholarship**.
   * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to **Department of Automation, Tsinghua University!**
   * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications !**
 
