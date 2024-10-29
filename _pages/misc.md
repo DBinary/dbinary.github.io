@@ -109,4 +109,31 @@
     const totalSlides = slides.length;
     const delay = 3000; // Change image every 3 seconds
 
-    functi
+    function showSlide(index) {
+        const slidesContainer = document.querySelector('.slides');
+        slidesContainer.style.transform = `translateX(-${index * 100}%)`;
+    }
+
+    showSlide(index);
+
+    function nextSlide() {
+        index = (index + 1) % totalSlides;
+        showSlide(index);
+    }
+
+    const interval = setInterval(nextSlide, delay);
+
+    // Handle manual navigation
+    document.querySelectorAll('.manual-btn').forEach((btn, i) => {
+        btn.onclick = function() {
+            clearInterval(interval); // Stop auto play when manual navigation happens
+            index = i;
+            showSlide(index); // Go to the slide
+            setTimeout(() => {
+                interval = setInterval(nextSlide, delay); // Restart auto play after a while
+            }, delay);
+        };
+    });
+</script>
+</body>
+</html>
