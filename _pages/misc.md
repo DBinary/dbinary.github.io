@@ -5,6 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -58,11 +59,11 @@ author_profile: true
                 <div class="caption">Graduating from University of Science and Technology Beijing.</div>
             </div>
             <div class="swiper-slide">
-                <img src="../images/westlake_bar.jpg" alt="Image 2">
+                <img src="../images/westlake_bar.jpg" alt="Image 3">
                 <div class="caption">'Westlake Bar', nice to meet the gifted youngs.</div>
             </div>
             <div class="swiper-slide">
-                <img src="../images/PEBBLE_2024.jpg" alt="Image 2">
+                <img src="../images/PEBBLE_2024.jpg" alt="Image 4">
                 <div class="caption">Teaching assistant for PEBBLE BioFusion summer camp.</div>
             </div>
         </div>
@@ -73,22 +74,14 @@ author_profile: true
         <div class="swiper-button-prev"></div>
     </div>
 
-    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script> 
     <script>
-        function toggleCaption(element) {
-            const caption = element.querySelector('.caption');
-            if (caption.style.display === 'none' || caption.style.display === '') {
-                caption.style.display = 'block';
-            } else {
-                caption.style.display = 'none';
-            }
-        }
-
         var swiper = new Swiper('.swiper-container', {
             effect: 'fade',
             fadeEffect: {
                 crossFade: true
             },
+            loop: true, // Enable loop mode
             autoplay: {
                 delay: 10000,
                 disableOnInteraction: false,
