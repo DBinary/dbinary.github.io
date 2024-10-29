@@ -1,11 +1,3 @@
----
-layout: archive
-title: "Miscellaneous"
-permalink: /misc/
-author_profile: true
----
-
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,11 +13,12 @@ author_profile: true
 
         .slides {
             display: flex;
+            width: 400%; /* 4 slides */
             transition: transform 0.5s ease;
         }
 
         .slide {
-            width: 100%;
+            width: 25%; /* Each slide takes up 25% of the container */
             flex-shrink: 0;
             position: relative;
         }
@@ -116,31 +109,4 @@ author_profile: true
     const totalSlides = slides.length;
     const delay = 3000; // Change image every 3 seconds
 
-    function showSlide(index) {
-        slides.forEach((slide, i) => {
-            slide.style.transform = `translateX(-${100 * i}%)`;
-        });
-    }
-
-    showSlide(index);
-
-    function nextSlide() {
-        index = (index + 1) % totalSlides;
-        showSlide(index);
-    }
-
-    setInterval(nextSlide, delay);
-
-    // Handle manual navigation
-    document.querySelectorAll('.manual-btn').forEach((btn, i) => {
-        btn.onclick = function() {
-            clearInterval(setInterval(nextSlide, delay)); // Stop auto play when manual navigation happens
-            nextSlide(); // Go to the slide
-            setTimeout(() => {
-                setInterval(nextSlide, delay); // Restart auto play after a while
-            }, delay);
-        };
-    });
-</script>
-</body>
-</html>
+    functi
