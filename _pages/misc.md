@@ -15,15 +15,27 @@ author_profile: true
         .swiper-container {
             width: 100%;
             height: 60vh; /* Adjust the height as needed */
-            position: relative;
             margin-top: 3vh; /* Push the gallery lower on the page */
         }
         .swiper-slide {
+            text-align: center;
+            font-size: 18px;
+            background: #fff;
+        
+            /* Center slide text vertically */
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
             display: flex;
-            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
             justify-content: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            -webkit-align-items: center;
+            align-items: center;
             position: relative;
-            cursor: pointer;
             overflow: hidden; /* Ensure images fit within the slide */
         }
         .swiper-slide img {
@@ -94,6 +106,7 @@ author_profile: true
                 nextEl: '.swiper-button-next',
                 prevEl: '.swiper-button-prev',
             },
+            touchRatio: 1, // Adjust touch ratio for better touch滑动效果
         });
     </script>
 </body>
