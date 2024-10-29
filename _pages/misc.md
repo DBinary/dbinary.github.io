@@ -132,6 +132,7 @@ author_profile: true
 
     // Handle manual navigation
     document.querySelectorAll('.manual-btn').forEach((btn, i) => {
+        btn.htmlFor = `radio${i + 1}`;
         btn.onclick = function() {
             clearInterval(interval); // Stop auto play when manual navigation happens
             index = i;
