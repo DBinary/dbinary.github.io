@@ -71,12 +71,12 @@ My main research interest focus on **AI for Life Sciences**, supported by the Fu
   + 2024: Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士研究生))
   + 2024: National Scholarship
   + 2024: Innovation Awards, Westlake University
-  + 2023: Dean Award **(Top Award of Undergraduate Students)**
+  + 2023: Dean Award (Top Award of Undergraduate Students)
   + 2023: "San Hao" Graduate
   + 2023: Outstanding Graduation Thesis of USTB
   + 2022: Zhongtian Steel Scholarship
   + 2022: Huawei Intelligent Base Scholarship
-  + 2021 Tongda Scholarship **(1/146)**
+  + 2021 Tongda Scholarship (1/146)
   + 2021: Outstanding "San Hao" Student 
   + 2020: People Scholarship (First Class)
 
