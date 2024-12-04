@@ -10,10 +10,10 @@ redirect_from:
 
 Hi! I am Lei Hu (胡磊), the second year Ph.D. student of Cell Biology Lab (细胞生物学实验室) at [School of Life Sciences](https://sls.westlake.edu.cn/en/), [Westlake University](https://en.westlake.edu.cn/), advised by chair professor [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html). I am also the Ph.D. student of [Artificial Intelligence and Computational Biology (AICB) Lab (人工智能与计算生物学实验室)](https://aicb.lab.westlake.edu.cn/) at the Department of Artificial Intelligence, [School of Engineering](https://en-soe.westlake.edu.cn/), co-advised by professor [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 
 
-My main research interest focus on **AI for Life Sciences**, supported by the Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士研究生)).
+My main research interest focus on **AI for Life Sciences**, supported by the Fundamental Research Project for Young Ph.D. Students from NSFC (国家自然科学基金青年学生基础研究项目(博士研究生)).
 
 ## 💬 Recent News
-  * *December,* *2024*. I am honored to be supported by the **Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士研究生))**.
+  * *December,* *2024*. I am honored to be supported by the **Fundamental Research Project for Young Ph.D. Students from NSFC (国家自然科学基金青年学生基础研究项目(博士研究生))**.
   * *October,* *2024*. I am honored to receive the **National Scholarship !**
   * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to **Department of Automation, Tsinghua University !**
   * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications !**
@@ -68,7 +68,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Fu
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
 ## 👑 Awards and Honors
-  + 2024: Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士研究生))
+  + 2024: Fundamental Research Project for Young Ph.D. Students from NSFC (国家自然科学基金青年学生基础研究项目(博士研究生))
   + 2024: National Scholarship
   + 2024: Innovation Awards, Westlake University
   + 2023: Dean Award (Top Award of Undergraduate Students)
