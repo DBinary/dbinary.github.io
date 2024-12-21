@@ -76,7 +76,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Fu
   + 2023: Outstanding Graduation Thesis of USTB
   + 2022: Zhongtian Steel Scholarship
   + 2022: Huawei Intelligent Base Scholarship
-  + 2021 Tongda Scholarship (1/146)
+  + 2021: Tongda Scholarship (1/146)
   + 2021: Outstanding "San Hao" Student 
   + 2020: People Scholarship (First Class)
 
@@ -92,11 +92,12 @@ My main research interest focus on **AI for Life Sciences**, supported by the Fu
 
 ## 🔗 Co-working Students
 (*I am working with some visiting/undergraduate/doctoral students and postdocs at Westlake University with chair professor Hongtao Yu and professor Jianyang Zeng*)
-  * Peng Liu (Undergraduate student at Univeristy of Science and Technology Beijing, incoming MS student at Tsinghua University)
-  * Yihan Zhao (MS student at Fudan University)
-  * Zheming Zhang (Undergraduate student at Central South University)
-  * Fenglei Zhang (MS student at Northwestern Polytechnical University)
-  * Zhaorui Jiang (Undergraduate student at Ocean University of China, incoming MS student at Peking University)
-
+  * Peng Liu (undergraduate student at USTB → THU)
+  * Yihan Zhao (undergraduate student at USTB → FDU)
+  * Zheming Zhang (undergraduate student at CSU)
+  * Fenglei Zhang (undergraduate student at SXU → NPU)
+  * Zhaorui Jiang (undergraduate student at OUC → PKU)
+  * Haoteng Gu (undergraduate student at BJUT)
+  * Peiran Ling (undergraduate student at SDU → Westlake)
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
