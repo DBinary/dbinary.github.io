@@ -94,7 +94,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Fu
 (*I am working with some visiting/undergraduate/doctoral students and postdocs at Westlake University with chair professor Hongtao Yu and professor Jianyang Zeng*)
   * Peng Liu (undergraduate student at USTB → THU)
   * Yihan Zhao (undergraduate student at USTB → FDU)
-  * Zheming Zhang (undergraduate student at CSU)
+  * [Zheming Zhang](https://zhaorui-bi.github.io/) (undergraduate student at CSU)
   * Fenglei Zhang (undergraduate student at SXU → NPU)
   * Zhaorui Jiang (undergraduate student at OUC → PKU)
   * Haoteng Gu (undergraduate student at BJUT)
