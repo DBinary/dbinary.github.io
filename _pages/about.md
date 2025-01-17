@@ -46,7 +46,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Fu
 
 ## 📝 Preprints
 
-  [1] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng, Hongwu Du, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**.
+  [1] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng, Hongwu Du, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**. (iMetaOmics, under review)
 
   [2] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
 
