@@ -46,11 +46,11 @@ My main research interest focus on **AI for Life Sciences**, supported by the Fu
 
 ## 📝 Preprints
 
-  [1] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng, Hongwu Du, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**. (iMetaOmics, under review)
+  [1] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng, Hongwu Du, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**. (iMetaOmics, major revision)
 
   [2] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
 
-  [3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu\***, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.* [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)]
+  [3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu\***, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.* [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)] (Bioinformatics Advances, accepted)
 
   [4] Yushuai Wu, Ting Zhang, Hao Zhou, Hainan Wu, Hanwen Sunchu, **Lei Hu**, Xiaofang Chen, Suyuan Zhao, Gaochao Liu, Chao Sun, Jiahuan Zhang, Yizhen Luo, Peng Liu, Zaiqing Nie, Yushuai Wu, **DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation**, *arXiv preprint arXiv:2403.03768, 2024.* [[arXiv](https://arxiv.org/abs/2403.03768)]
   
