@@ -37,7 +37,6 @@ author_profile: true
   const slider = document.querySelector('.carousel-slider');
   const dots = document.querySelectorAll('.dot');
   const items = document.querySelectorAll('.carousel-item');
-  const itemWidth = items[0].offsetWidth;
   let currentIndex = 0;
   let autoScrollInterval;
 
@@ -62,7 +61,7 @@ author_profile: true
 
   // 更新轮播位置
   function updateCarousel() {
-    slider.style.transform = `translateX(-${currentIndex * itemWidth}px)`;
+    slider.style.transform = `translateX(-${currentIndex * 100}vw)`;
     dots.forEach((dot, index) => {
       dot.classList.remove('active');
       if (index === currentIndex) {
@@ -98,7 +97,7 @@ author_profile: true
   }
 
   .carousel-item {
-    min-width: 100%;
+    min-width: 100vw; /* 每张图片占据全屏宽度 */
     flex: 0 0 auto;
     position: relative;
   }
@@ -145,13 +144,13 @@ author_profile: true
     background-color: black;
   }
 
-  /* 确保页面宽度能够适应图片 */
+  /* 确保图片适应不同屏幕尺寸 */
   .carousel-container {
     max-width: 100%;
   }
 
   .carousel-slider {
-    width: 100vw; /* 确保滑动条占据全屏宽度 */
+    width: calc(100vw * 4); /* 假设四张图片 */
   }
 
   .carousel-item {
