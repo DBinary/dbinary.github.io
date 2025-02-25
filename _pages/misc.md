@@ -42,10 +42,7 @@ author_profile: true
 
   // 自动滚动
   function autoScroll() {
-    currentIndex++;
-    if (currentIndex >= items.length) {
-      currentIndex = 0;
-    }
+    currentIndex = (currentIndex + 1) % items.length;
     updateCarousel();
   }
 
@@ -61,7 +58,7 @@ author_profile: true
 
   // 更新轮播位置
   function updateCarousel() {
-    slider.style.transform = `translateX(-${currentIndex * 50}vw)`;
+    slider.style.transform = `translateX(-${currentIndex * 100}%)`;
     dots.forEach((dot, index) => {
       dot.classList.remove('active');
       if (index === currentIndex) {
@@ -94,12 +91,11 @@ author_profile: true
 
   .carousel-slider {
     display: flex;
-    height: 100%; /* 确保滑动条高度与容器一致 */
     transition: transform 0.5s ease-in-out;
   }
 
   .carousel-item {
-    min-width: 50%; /* 每张图片占据50%的宽度 */
+    min-width: 100%; /* 每张图片占据100%的宽度 */
     flex: 0 0 auto;
     height: 100%; /* 确保每张图片高度与容器一致 */
     display: flex;
