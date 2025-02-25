@@ -9,7 +9,7 @@ author_profile: true
   <div class="carousel-slider">
     <div class="carousel-item">
       <img src="../images/csu_2103.jpg" alt="CSU, 2021" />
-      <div class="caption">When visiting Central South University as an exchange student...</div>
+      <div class="caption">When visiting Central South University as an exchange student in Fall 2021, I was honored and pleased to become the header student of Class 2103 at School of Automation.</div>
     </div>
     <div class="carousel-item">
       <img src="../images/ustb_graduation.png" alt="USTB,2024" />
@@ -21,7 +21,7 @@ author_profile: true
     </div>
     <div class="carousel-item">
       <img src="../images/PEBBLE_2024.jpg" alt="PEBBLE 2024" />
-      <div class="caption">I am honored to serve as a teaching assistant...</div>
+      <div class="caption">I am honored to serve as a teaching assistant for PEBBLE BioFusion summer camp in 2024. Our team has enjoyed a truly wonderful experience together.</div>
     </div>
   </div>
 
@@ -85,8 +85,8 @@ author_profile: true
   .carousel-container {
     position: relative;
     overflow: hidden;
-    width: 50%;
-    height: 5vh; /* 设置为视口高度，确保图片完整显示 */
+    width: 100%;
+    height: 50vh; /* 设置为视口高度的50%，确保图片完整显示 */
   }
 
   .carousel-slider {
@@ -95,17 +95,17 @@ author_profile: true
   }
 
   .carousel-item {
-    min-width: 50%; /* 每张图片占据100%的宽度 */
+    min-width: 100%; /* 每张图片占据100%的宽度 */
     flex: 0 0 auto;
-    height: 50%; /* 确保每张图片高度与容器一致 */
+    height: 100%; /* 确保每张图片高度与容器一致 */
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
   .carousel-item img {
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 100%;
+    max-height: 100%;
     height: auto;
     width: auto;
     display: block;
@@ -115,7 +115,7 @@ author_profile: true
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 50%;
+    width: 100%;
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.7);
     color: white;
