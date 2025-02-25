@@ -5,86 +5,119 @@ permalink: /misc/
 author_profile: true
 ---
 
-<div class="scroll-container">
+<div id="scroll-container">
   <div class="scroll-item">
-    <img src="../images/csu_2103.jpg" alt="CSU, 2021" title="When visiting Central South University as an exchange student in Fall 2021, I was honored and pleased to become the header student of Class 2103 at School of Automation." />
+    <img src="../images/csu_2103.jpg" alt="CSU, 2021" />
+    <div class="caption">When visiting Central South University as an exchange student...</div>
   </div>
   <div class="scroll-item">
-    <img src="../images/ustb_graduation.png" alt="USTB,2024" title="Graduating from University of Science and Technology Beijing." />
+    <img src="../images/ustb_graduation.png" alt="USTB,2024" />
+    <div class="caption">Graduating from University of Science and Technology Beijing.</div>
   </div>
   <div class="scroll-item">
-    <img src="../images/westlake_bar.jpg" alt="Westlake Bar" title="'Westlake Bar', nice to meet the gifted youngs." />
+    <img src="../images/westlake_bar.jpg" alt="Westlake Bar" />
+    <div class="caption">'Westlake Bar', nice to meet the gifted youngs.</div>
   </div>
   <div class="scroll-item">
-    <img src="../images/PEBBLE_2024.jpg" alt="PEBBLE 2024" title="I am honored to serve as a teaching assistant for PEBBLE BioFusion summer camp in 2024. Our team has enjoyed a truly wonderful experience together." />
+    <img src="../images/PEBBLE_2024.jpg" alt="PEBBLE 2024" />
+    <div class="caption">I am honored to serve as a teaching assistant...</div>
   </div>
 </div>
 
+<button id="prev-btn">Previous</button>
+<button id="next-btn">Next</button>
+
 <script>
-  // 控制滚动栏
+  const scrollContainer = document.getElementById('scroll-container');
+  const scrollItems = document.querySelectorAll('.scroll-item');
+  const itemWidth = scrollItems[0].offsetWidth;
   let scrollPosition = 0;
-  const container = document.querySelector('.scroll-container');
-  const items = document.querySelectorAll('.scroll-item');
-  const itemWidth = items[0].offsetWidth;
 
-  // 滚动到下一张图片
-  function scrollRight() {
+  // 自动滚动图片
+  let autoScrollInterval;
+
+  function autoScroll() {
     scrollPosition -= itemWidth;
-    container.style.transform = `translateX(${scrollPosition}px)`;
+    scrollContainer.style.transform = `translateX(${scrollPosition}px)`;
+    if (Math.abs(scrollPosition) >= itemWidth * (scrollItems.length - 1)) {
+      scrollPosition = 0;
+    }
   }
 
-  // 滚动到上一张图片
-  function scrollLeft() {
-    scrollPosition += itemWidth;
-    container.style.transform = `translateX(${scrollPosition}px)`;
+  // 启动自动滚动
+  function startAutoScroll() {
+    autoScrollInterval = setInterval(autoScroll, 3000); // 每3秒滚动一次
   }
 
-  // 添加鼠标悬停事件
-  items.forEach(item => {
-    item.addEventListener('mouseenter', function() {
-      const title = this.querySelector('img').title;
-      alert(title); // 或者用其他方式显示，例如悬浮提示框
-    });
+  // 停止自动滚动
+  function stopAutoScroll() {
+    clearInterval(autoScrollInterval);
+  }
+
+  scrollContainer.addEventListener('mouseenter', () => {
+    stopAutoScroll();
   });
+
+  scrollContainer.addEventListener('mouseleave', () => {
+    startAutoScroll();
+  });
+
+  // 手动滚动
+  document.getElementById('next-btn').addEventListener('click', function() {
+    autoScroll();
+  });
+
+  document.getElementById('prev-btn').addEventListener('click', function() {
+    scrollPosition += itemWidth;
+    scrollContainer.style.transform = `translateX(${scrollPosition}px)`;
+    if (scrollPosition >= 0) {
+      scrollPosition = -itemWidth * (scrollItems.length - 1);
+    }
+  });
+
+  // 初始化
+  startAutoScroll();
 </script>
 
 <style>
-  .scroll-container {
+  #scroll-container {
     display: flex;
-    overflow-x: auto;
-    scroll-behavior: smooth;
-    padding: 10px;
-    scroll-snap-type: x mandatory;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    transition: transform 0.5s ease-in-out;
   }
 
   .scroll-item {
+    min-width: 100%;
     flex: 0 0 auto;
-    width: 100%;
-    scroll-snap-align: start;
-    margin-right: 10px;
     position: relative;
   }
 
   .scroll-item img {
     width: 100%;
     height: auto;
-    cursor: pointer;
   }
 
-  .scroll-item::before {
-    content: attr(data-text);
+  .caption {
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
-    padding: 5px;
+    padding: 10px;
     background-color: rgba(0, 0, 0, 0.7);
     color: white;
     opacity: 0;
     transition: opacity 0.3s;
   }
 
-  .scroll-item:hover::before {
+  .scroll-item:hover .caption {
     opacity: 1;
+  }
+
+  button {
+    margin: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
   }
 </style>
