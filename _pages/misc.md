@@ -89,22 +89,30 @@ author_profile: true
     position: relative;
     overflow: hidden;
     width: 100%;
+    height: 100vh; /* 设置为视口高度，确保图片完整显示 */
   }
 
   .carousel-slider {
     display: flex;
+    height: 100%; /* 确保滑动条高度与容器一致 */
     transition: transform 0.5s ease-in-out;
   }
 
   .carousel-item {
-    min-width: 100vw; /* 每张图片占据全屏宽度 */
+    min-width: 100%;
     flex: 0 0 auto;
-    position: relative;
+    height: 100%; /* 确保每张图片高度与容器一致 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .carousel-item img {
-    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
     height: auto;
+    width: auto;
+    display: block;
   }
 
   .caption {
@@ -142,18 +150,5 @@ author_profile: true
 
   .dot.active {
     background-color: black;
-  }
-
-  /* 确保图片适应不同屏幕尺寸 */
-  .carousel-container {
-    max-width: 100%;
-  }
-
-  .carousel-slider {
-    width: calc(100vw * 4); /* 假设四张图片 */
-  }
-
-  .carousel-item {
-    width: 100vw; /* 每张图片占据全屏宽度 */
   }
 </style>
