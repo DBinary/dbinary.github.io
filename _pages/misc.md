@@ -5,48 +5,54 @@ permalink: /misc/
 author_profile: true
 ---
 
-<div id="scroll-container">
-  <div class="scroll-item">
-    <img src="../images/csu_2103.jpg" alt="CSU, 2021" />
-    <div class="caption">When visiting Central South University as an exchange student...</div>
+<div class="carousel-container">
+  <div class="carousel-slider">
+    <div class="carousel-item">
+      <img src="../images/csu_2103.jpg" alt="CSU, 2021" />
+      <div class="caption">When visiting Central South University as an exchange student...</div>
+    </div>
+    <div class="carousel-item">
+      <img src="../images/ustb_graduation.png" alt="USTB,2024" />
+      <div class="caption">Graduating from University of Science and Technology Beijing.</div>
+    </div>
+    <div class="carousel-item">
+      <img src="../images/westlake_bar.jpg" alt="Westlake Bar" />
+      <div class="caption">'Westlake Bar', nice to meet the gifted youngs.</div>
+    </div>
+    <div class="carousel-item">
+      <img src="../images/PEBBLE_2024.jpg" alt="PEBBLE 2024" />
+      <div class="caption">I am honored to serve as a teaching assistant...</div>
+    </div>
   </div>
-  <div class="scroll-item">
-    <img src="../images/ustb_graduation.png" alt="USTB,2024" />
-    <div class="caption">Graduating from University of Science and Technology Beijing.</div>
-  </div>
-  <div class="scroll-item">
-    <img src="../images/westlake_bar.jpg" alt="Westlake Bar" />
-    <div class="caption">'Westlake Bar', nice to meet the gifted youngs.</div>
-  </div>
-  <div class="scroll-item">
-    <img src="../images/PEBBLE_2024.jpg" alt="PEBBLE 2024" />
-    <div class="caption">I am honored to serve as a teaching assistant...</div>
+
+  <div class="carousel-dots">
+    <span class="dot active"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
   </div>
 </div>
 
-<button id="prev-btn">Previous</button>
-<button id="next-btn">Next</button>
-
 <script>
-  const scrollContainer = document.getElementById('scroll-container');
-  const scrollItems = document.querySelectorAll('.scroll-item');
-  const itemWidth = scrollItems[0].offsetWidth;
-  let scrollPosition = 0;
-
-  // 自动滚动图片
+  const slider = document.querySelector('.carousel-slider');
+  const dots = document.querySelectorAll('.dot');
+  const items = document.querySelectorAll('.carousel-item');
+  const itemWidth = items[0].offsetWidth;
+  let currentIndex = 0;
   let autoScrollInterval;
 
+  // 自动滚动
   function autoScroll() {
-    scrollPosition -= itemWidth;
-    scrollContainer.style.transform = `translateX(${scrollPosition}px)`;
-    if (Math.abs(scrollPosition) >= itemWidth * (scrollItems.length - 1)) {
-      scrollPosition = 0;
+    currentIndex++;
+    if (currentIndex >= items.length) {
+      currentIndex = 0;
     }
+    updateCarousel();
   }
 
   // 启动自动滚动
   function startAutoScroll() {
-    autoScrollInterval = setInterval(autoScroll, 3000); // 每3秒滚动一次
+    autoScrollInterval = setInterval(autoScroll, 10000); // 每10秒切换一次
   }
 
   // 停止自动滚动
@@ -54,25 +60,25 @@ author_profile: true
     clearInterval(autoScrollInterval);
   }
 
-  scrollContainer.addEventListener('mouseenter', () => {
-    stopAutoScroll();
-  });
+  // 更新轮播位置
+  function updateCarousel() {
+    slider.style.transform = `translateX(-${currentIndex * itemWidth}px)`;
+    dots.forEach((dot, index) => {
+      dot.classList.remove('active');
+      if (index === currentIndex) {
+        dot.classList.add('active');
+      }
+    });
+  }
 
-  scrollContainer.addEventListener('mouseleave', () => {
-    startAutoScroll();
-  });
-
-  // 手动滚动
-  document.getElementById('next-btn').addEventListener('click', function() {
-    autoScroll();
-  });
-
-  document.getElementById('prev-btn').addEventListener('click', function() {
-    scrollPosition += itemWidth;
-    scrollContainer.style.transform = `translateX(${scrollPosition}px)`;
-    if (scrollPosition >= 0) {
-      scrollPosition = -itemWidth * (scrollItems.length - 1);
-    }
+  // 点击圆点
+  dots.forEach((dot, index) => {
+    dot.addEventListener('click', () => {
+      currentIndex = index;
+      updateCarousel();
+      stopAutoScroll();
+      startAutoScroll();
+    });
   });
 
   // 初始化
@@ -80,21 +86,24 @@ author_profile: true
 </script>
 
 <style>
-  #scroll-container {
-    display: flex;
-    width: 100%;
-    overflow: hidden;
+  .carousel-container {
     position: relative;
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .carousel-slider {
+    display: flex;
     transition: transform 0.5s ease-in-out;
   }
 
-  .scroll-item {
+  .carousel-item {
     min-width: 100%;
     flex: 0 0 auto;
     position: relative;
   }
 
-  .scroll-item img {
+  .carousel-item img {
     width: 100%;
     height: auto;
   }
@@ -111,13 +120,41 @@ author_profile: true
     transition: opacity 0.3s;
   }
 
-  .scroll-item:hover .caption {
+  .carousel-item:hover .caption {
     opacity: 1;
   }
 
-  button {
-    margin: 10px;
-    padding: 5px 10px;
+  .carousel-dots {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px;
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+    border-radius: 50%;
     cursor: pointer;
+  }
+
+  .dot.active {
+    background-color: black;
+  }
+
+  /* 确保页面宽度能够适应图片 */
+  .carousel-container {
+    max-width: 100%;
+  }
+
+  .carousel-slider {
+    width: 100vw; /* 确保滑动条占据全屏宽度 */
+  }
+
+  .carousel-item {
+    width: 100vw; /* 每张图片占据全屏宽度 */
   }
 </style>
