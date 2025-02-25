@@ -85,8 +85,8 @@ author_profile: true
   .carousel-container {
     position: relative;
     overflow: hidden;
-    width: 100%;
-    height: 50vh; /* 设置为视口高度的50%，确保图片完整显示 */
+    width: 50%;
+    height: 5vh; /* 设置为视口高度，确保图片完整显示 */
   }
 
   .carousel-slider {
@@ -95,17 +95,17 @@ author_profile: true
   }
 
   .carousel-item {
-    min-width: 100%; /* 每张图片占据100%的宽度 */
+    min-width: 50%; /* 每张图片占据100%的宽度 */
     flex: 0 0 auto;
-    height: 100%; /* 确保每张图片高度与容器一致 */
+    height: 50%; /* 确保每张图片高度与容器一致 */
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
   .carousel-item img {
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 50%;
+    max-height: 50%;
     height: auto;
     width: auto;
     display: block;
@@ -115,7 +115,7 @@ author_profile: true
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 100%;
+    width: 50%;
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.7);
     color: white;
