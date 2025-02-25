@@ -61,7 +61,7 @@ author_profile: true
 
   // 更新轮播位置
   function updateCarousel() {
-    slider.style.transform = `translateX(-${currentIndex * 100}vw)`;
+    slider.style.transform = `translateX(-${currentIndex * 50}vw)`;
     dots.forEach((dot, index) => {
       dot.classList.remove('active');
       if (index === currentIndex) {
@@ -89,7 +89,7 @@ author_profile: true
     position: relative;
     overflow: hidden;
     width: 100%;
-    height: 100vh; /* 设置为视口高度，确保图片完整显示 */
+    height: 50vh; /* 设置为视口高度的50%，确保图片完整显示 */
   }
 
   .carousel-slider {
@@ -99,7 +99,7 @@ author_profile: true
   }
 
   .carousel-item {
-    min-width: 100%;
+    min-width: 50%; /* 每张图片占据50%的宽度 */
     flex: 0 0 auto;
     height: 100%; /* 确保每张图片高度与容器一致 */
     display: flex;
