@@ -53,7 +53,7 @@ Roshan, Yuanyan Xiong, Hongwu Du, Tongbiao Zhao.<br>
       <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
       <span><a href="https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf033/8043205">Paper</a>, <a href="https://doi.org/10.1101/2022.09.28.510020">Biorxiv</a></span><br>
       <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-      <span><a href="https://github.com/Starlitnightly/scLTNN">Code</a>, <a href="https://github.com/Starlitnightly/scLTNN">Tutorials</a></span><br>
+      <span><a href="https://github.com/Starlitnightly/scLTNN">Code</a>, <a href="https://scltnn.readthedocs.io/en/latest/index.html">Tutorials</a></span><br>
     </td>
   </tr>
 </table>
