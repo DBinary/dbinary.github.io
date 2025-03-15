@@ -112,6 +112,6 @@ Roshan, Yuanyan Xiong<sup>#</sup>, Hongwu Du<sup>#</sup>, Tongbiao Zhao<sup>#</s
   * [Zhaorui Jiang](https://zhaorui-bi.github.io/) (undergraduate student at OUC → PKU)
   * Haoteng Gu (undergraduate student at BJUT)
   * Peiran Ling (undergraduate student at SDU → Westlake University)
-  * [Xuting Zhang](https://lxzcpro.github.io/) (undergraduate student Westlake University)
+  * [Xuting Zhang](https://lxzcpro.github.io/) (undergraduate student at Westlake University)
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
