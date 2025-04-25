@@ -83,7 +83,7 @@ Roshan, Yuanyan Xiong<sup>#</sup>, Hongwu Du<sup>#</sup>, Tongbiao Zhao<sup>#</s
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
 ## 👑 Awards and Honors
-  + Outstanding Youth League Members of Hangzhou Education System
+  + 2024: Outstanding Youth League Members of Hangzhou Education System
   + 2024: Fundamental Research Project for Young Ph.D. Students from NSFC (国家自然科学基金青年学生基础研究项目(博士研究生))
   + 2024: National Scholarship
   + 2024: Innovation Awards, Westlake University
