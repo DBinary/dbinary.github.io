@@ -5,7 +5,6 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-
   <div class="author__avatar">
     {% assign original_avatar_src = "" %}
     {% if author.avatar contains "://" %}
@@ -27,11 +26,31 @@
          id="authorAvatarImage"
          alt="{{ author.name }}"
          {% if hover_avatar_src != "" %}
-           data-original-avatar="{{ original_avatar_src }}"
-           data-hover-avatar="{{ hover_avatar_src }}"
+           data-original="{{ original_avatar_src }}"
+           data-hover="{{ hover_avatar_src }}"
          {% endif %}
          class="author__avatar">
   </div>
+
+  <script>
+    (function() {
+      const avatar = document.getElementById('authorAvatarImage');
+      
+      if (!avatar.dataset.hover) return;
+
+      const hoverImage = new Image();
+      hoverImage.src = avatar.dataset.hover;
+
+      avatar.addEventListener('mouseenter', () => {
+        avatar.src = avatar.dataset.hover;
+      });
+      
+      avatar.addEventListener('mouseleave', () => {
+        avatar.src = avatar.dataset.original;
+      });
+    })();
+  </script>
+</div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
