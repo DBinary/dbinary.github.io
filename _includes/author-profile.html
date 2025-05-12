@@ -7,11 +7,30 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
+    {% assign original_avatar_src = "" %}
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+      {% assign original_avatar_src = author.avatar %}
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      {% assign original_avatar_src = author.avatar | prepend: "/images/" | prepend: base_path %}
     {% endif %}
+
+    {% assign hover_avatar_src = "" %}
+    {% if author.avatar_hover %}
+      {% if author.avatar_hover contains "://" %}
+        {% assign hover_avatar_src = author.avatar_hover %}
+      {% else %}
+        {% assign hover_avatar_src = author.avatar_hover | prepend: "/images/" | prepend: base_path %}
+      {% endif %}
+    {% endif %}
+
+    <img src="{{ original_avatar_src }}"
+         id="authorAvatarImage"
+         alt="{{ author.name }}"
+         {% if hover_avatar_src != "" %}
+           data-original-avatar="{{ original_avatar_src }}"
+           data-hover-avatar="{{ hover_avatar_src }}"
+         {% endif %}
+         class="author__avatar">
   </div>
 
   <div class="author__content">
