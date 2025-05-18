@@ -110,7 +110,7 @@ Roshan, Yuanyan Xiong<sup>#</sup>, Hongwu Du<sup>#</sup>, Tongbiao Zhao<sup>#</s
 (*I am working with some visiting/undergraduate/doctoral students and postdocs at Westlake University with chair professor Hongtao Yu and professor Jianyang Zeng*)
   * Peng Liu (undergraduate student at USTB → THU)
   * Yihan Zhao (undergraduate student at USTB → FDU)
-  * Zheming Zhang (undergraduate student at CSU)
+  * Zheming Zhang (undergraduate student at CSU → CSSC)
   * Fenglei Zhang (undergraduate student at SXU → NPU)
   * [Zhaorui Jiang](https://zhaorui-bi.github.io/) (undergraduate student at OUC → PKU)
   * Haoteng Gu (undergraduate student at BJUT)
