@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Miscellaneous"
+permalink: /misc/
+author_profile: true
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
