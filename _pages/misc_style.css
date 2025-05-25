@@ -291,7 +291,7 @@
   
   /* Wrapper container for intro section to limit width and add side padding */
 .intro-container {
-    max-width: 1400px;   /* controls max width of the whole block */
+    max-width: 2800px;   /* controls max width of the whole block */
     margin: 0 auto;      /* center horizontally */
     padding: 0 2rem;     /* side padding to add space from edges */
   }
@@ -369,7 +369,7 @@
   .album {
     flex: 0 0 auto;
     width: 100%;
-    max-width: 40vw;
+    max-width: 600px;
     border-radius: 12px;
     background-color: #f9f9f9;
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
