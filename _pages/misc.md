@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Miscellaneous1"
+title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
 page_specific_css: /_pages/misc_style.css # <--- 添加这一行

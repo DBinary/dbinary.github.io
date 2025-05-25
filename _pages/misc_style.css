@@ -299,7 +299,7 @@
 /* For Misc page */
 /* === Global Container === */
 .misc-container {
-    max-width: 120vw;
+    max-width: 80vw;
     margin: 0 auto;
     padding-left: clamp(1rem, 5vw, 4rem);
     padding-right: clamp(1rem, 5vw, 4rem);
@@ -358,7 +358,7 @@
     display: flex;
     gap: 2rem;
     overflow-x: auto;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
     scroll-padding: 1rem;
   }
   
@@ -384,6 +384,7 @@
     font-size: 1.1rem;
     margin-bottom: 1rem;
     color: #0072ff;
+    margin-top: 0;
   }
   
   /* === Photo Collection in Albums === */
@@ -513,6 +514,7 @@
     font-size: 2rem;
     margin-bottom: 0.3rem;
     position: relative;
+    margin-top: 1rem;
     color: #1a1a1a;
     font-family: 'Segoe UI', sans-serif;
   }
