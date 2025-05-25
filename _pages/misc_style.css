@@ -207,7 +207,7 @@
   /* for timeline viz*/
 
   .timeline-container {
-    max-width: 20%; /* or whatever fits your layout */
+    max-width: 400px; /* or whatever fits your layout */
     border: 1px solid #ddd;
     border-radius: 8px;
     overflow: hidden;
