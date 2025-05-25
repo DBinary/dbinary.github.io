@@ -299,7 +299,7 @@
 /* For Misc page */
 /* === Global Container === */
 .misc-container {
-    max-width: 1400px;
+    max-width: 80vw;
     margin: 0 auto;
     padding-left: clamp(1rem, 5vw, 4rem);
     padding-right: clamp(1rem, 5vw, 4rem);
