@@ -382,7 +382,7 @@
   .album h3 {
     font-weight: 700;
     font-size: 1.1rem;
-    margin-bottom: 0.3rem;
+    margin-bottom: 1rem;
     color: #0072ff;
   }
   
@@ -511,7 +511,7 @@
   .section-title {
     text-align: center;
     font-size: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.3rem;
     position: relative;
     color: #1a1a1a;
     font-family: 'Segoe UI', sans-serif;
