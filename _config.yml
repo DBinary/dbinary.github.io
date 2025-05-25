@@ -249,6 +249,7 @@ defaults:
       path: ""
       type: Miscellaneous
     values:
+      layout: single
       author_profile: true
       share: true
       

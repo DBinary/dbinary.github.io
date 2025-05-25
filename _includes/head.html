@@ -18,4 +18,10 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
+{% comment %} --- 开始添加的代码 --- {% endcomment %}
+{% if page.page_specific_css %}
+  <link rel="stylesheet" href="{{ page.page_specific_css | relative_url }}">
+{% endif %}
+{% comment %} --- 结束添加的代码 --- {% endcomment %}
+
 <meta http-equiv="cleartype" content="on">
