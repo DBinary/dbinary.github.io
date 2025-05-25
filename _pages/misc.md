@@ -5,30 +5,118 @@ permalink: /misc/
 author_profile: true
 ---
 
-<div class="carousel-container">
-  <div class="carousel-slider">
-    <div class="carousel-item">
-      <img src="../images/csu_2103.jpg" alt="CSU, 2021" />
-      <div class="caption">When visiting Central South University as an exchange student in Fall 2021, I was honored and pleased to become the header student of Class 2103 at School of Automation.</div>
-    </div>
-    <div class="carousel-item">
-      <img src="../images/ustb_graduation.png" alt="USTB,2024" />
-      <div class="caption">Graduating from University of Science and Technology Beijing.</div>
-    </div>
-    <div class="carousel-item">
-      <img src="../images/westlake_bar.jpg" alt="Westlake Bar" />
-      <div class="caption">'Westlake Bar', nice to meet the gifted youngs.</div>
-    </div>
-    <div class="carousel-item">
-      <img src="../images/PEBBLE_2024.jpg" alt="PEBBLE 2024" />
-      <div class="caption">I am honored to serve as a teaching assistant for PEBBLE BioFusion summer camp in 2024. Our team has enjoyed a truly wonderful experience together.</div>
-    </div>
-  </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="misc_style.css" />
+</head>
 
-  <div class="carousel-dots">
-    <span class="dot active"></span>
-    <span class="dot"></span>
-    <span class="dot"></span>
-    <span class="dot"></span>
-  </div>
-</div>
+<body>
+    <main class="misc-main">
+        <div class="misc-container">
+          <section class="gallery-wall">
+            <h2 class="section-title">
+              <span class="emoji">📷</span> <span class="text-glow">Gallery Wall (Graduation)</span>
+              <span class="subtitle">Scroll to see the moments I’ve captured from my graduation ceremony</span>
+            </h2>
+             <!-- -->
+             <!-- Photography Section -->
+            <div class="album-scroll">
+              <div class="album">
+                <h3>📍 Beijing — June 2023/2024</h3>
+                <div class="photo-collection">
+                    <div class="photo-frame">
+                        <img src="../images/ustb_graduation_1.png" alt="USTB_1" />
+                        <div class="photo-tag">Graduating from USTB (2024).</div>
+                      </div>
+                      <div class="photo-frame">
+                        <img src="../images/ustb_graduation_2.jpg" alt="USTB_2" />
+                        <div class="photo-tag">Graduating from USTB (2024).</div>
+                      </div>
+                      <div class="photo-frame">
+                        <img src="../images/ustb_graduation_4.jpg" alt="USTB_4" />
+                        <div class="photo-tag">Graduating from USTB (2024).</div>
+                      </div>
+                      <div class="photo-frame">
+                        <img src="../images/ustb_graduation_3.jpg" alt="USTB_3" />
+                        <div class="photo-tag">Graduating from USTB (2023).</div>
+                      </div>
+                </div>
+              </div>
+              <!-- -->
+             <!-- Photography Section -->
+              </div>
+          </section>
+          <!-- Section -->
+          <section class="study-table">
+            <h2 class="section-title">
+                <span class="emoji">📷</span> <span class="text-glow">Gallery Wall (TA)</span>
+                <span class="subtitle">Scroll to see the moments with my friends at PEBBLE Summer Campus.</span>
+              </h2>
+            <div class="note-grid">
+               <!-- -->
+             <!-- Photography Section -->
+            </div>
+            <div class="album-scroll">
+              <div class="album">
+                <h3>📍 Hangzhou — August 2024</h3>
+                <div class="photo-collection">
+                    <div class="photo-frame">
+                        <img src="../images/PEBBLE_2024_1.jpg" alt="PEBBLE_1" />
+                        <div class="photo-tag">TA for PEBBLE.</div>
+                      </div>
+                      <div class="photo-frame">
+                        <img src="../images/PEBBLE_2024_2.jpg" alt="PEBBLE_2" />
+                        <div class="photo-tag">TA for PEBBLE.</div>
+                      </div>
+                      <div class="photo-frame">
+                        <img src="../images/PEBBLE_2024_3.jpg" alt="PEBBLE_3" />
+                        <div class="photo-tag">TA for PEBBLE.</div>
+                      </div>
+                      <div class="photo-frame">
+                        <img src="../images/PEBBLE_2024_4.jpg" alt="PEBBLE_4" />
+                        <div class="photo-tag">TA for PEBBLE.</div>
+                      </div>
+                </div>
+              </div>
+          </section>
+          <!-- Study Notes Section -->
+          <section class="study-table">
+            <h2 class="section-title">
+                <span class="emoji">📷</span> <span class="text-glow">Gallery Wall (Friends)</span>
+                <span class="subtitle">Scroll to see the moments with my friends.</span>
+              </h2>
+            <div class="note-grid">
+               <!-- -->
+             <!-- Photography Section -->
+            </div>
+            <div class="album-scroll">
+              <div class="album">
+                <h3>📍 Anywhere in the world — 2021-now</h3>
+                <div class="photo-collection">
+                    <div class="photo-frame">
+                        <img src="../images/csu_2103.jpg" alt="csu_2103" />
+                        <div class="photo-tag">Central South University with Class 2103 (2022).</div>
+                      </div>
+                    <div class="photo-frame">
+                        <img src="../images/westlake_bar.jpg" alt="westlake_bar" />
+                        <div class="photo-tag">Meet with my friends (2024).</div>
+                      </div>
+                </div>
+              </div>
+          </section>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 Lei Hu. All rights reserved.</p>
+    </footer>
+    <div id="photo-modal" class="modal">
+      <span class="modal-close">&times;</span>
+      <img class="modal-content" id="modal-img">
+    </div>
+    <script src="misc.js"></script>
+
+</body>
+</html>

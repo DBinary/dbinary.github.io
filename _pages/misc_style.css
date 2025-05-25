@@ -1,0 +1,540 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Header Styles */
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #333;
+    padding: 1rem 2rem;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+  }
+  
+  .menu-toggle {
+    display: none;
+    font-size: 1.5rem;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* Hero Section */
+  .hero {
+    padding: 4rem 2rem;
+    background: #f4f4f4;
+    text-align: center;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background: #222;
+    color: white;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      background: #333;
+      position: absolute;
+      top: 60px;
+      right: 0;
+      width: 100%;
+    }
+  
+    .nav-links.active {
+      display: flex;
+    }
+  
+    .menu-toggle {
+      display: block;
+    }
+  }
+
+    .intro-section {
+        display: flex;
+        gap: 5rem;           /* current gap between left and right columns */
+        padding: 2rem 0;     /* reduce vertical padding to not double up */
+        flex-wrap: wrap;
+        justify-content: center; /* centers columns inside the flex container */
+      }
+  
+  /* Left column stacks photo and icons vertically */
+  .left-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;  /* center photo and icons horizontally */
+    gap: 1.5rem;
+    flex-shrink: 0;       /* prevent shrinking */
+    max-width: 320px;     /* optional max width */
+    width: 100%;
+  }
+  
+  /* Photo sizing */
+  .intro-photo {
+    width: 100%;
+    max-width: 300px;   /* Keeps it from growing too large */
+    height: auto;       /* Maintain aspect ratio */
+    border-radius: 8px;
+    object-fit: cover;
+    display: block;
+  }
+  
+  
+  
+  
+  /* Icons row */
+  .icon-links {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+  }
+  
+  /* Icons size and hover */
+  .icon-links a img {
+    width: 24px;  /* smaller width */
+    height: 24px; /* smaller height */
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  
+  .icon-links a img:hover {
+    transform: scale(1.2);
+  }
+  
+  /* Right column: intro text takes remaining space */
+  .intro-text {
+    flex: 1;  /* take remaining width */
+    min-width: 0; /* prevent overflow */
+  }
+  
+  /* Responsive for smaller screens */
+  @media (max-width: 768px) {
+    .intro-section {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    
+    .left-column {
+      max-width: 250px;
+    }
+  
+    .icon-links {
+      justify-content: center;
+    }
+  }
+  
+  /* Container for both intro and additional sections on the right */
+.right-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem; /* spacing between intro and additional text */
+    min-width: 0;
+  }
+  
+  /* Additional text section */
+  .additional-text {
+    width: 100%;
+  }
+  
+  /* Make images inside additional text responsive */
+  .additional-text img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px; /* Optional: rounded corners */
+    margin-top: 1rem;   /* Space from preceding text */
+  }
+  
+  /* Mobile adjustments */
+  @media (max-width: 768px) {
+    .right-column {
+      align-items: center;
+      text-align: center;
+    }
+  
+    .additional-text img {
+      max-width: 100%; /* Ensures image doesn't overflow on small screens */
+    }
+  }
+  
+  .highlight-quote {
+    background-color: #f5f5f5;     /* light gray background, adjust as needed */
+    padding: 1em;
+    margin: 1em 0;
+    border-left: 4px solid #0077cc;  /* optional: colored side bar for style */
+    border-radius: 6px;
+    font-style: italic;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  /* for timeline viz*/
+
+  .timeline-container {
+    max-width: 400px; /* or whatever fits your layout */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .timeline-header {
+    background-color: #f5faff; /* subtle different background */
+    padding: 1rem 1.5rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .timeline-title {
+    margin: 0;
+    font-size: 1.4rem;
+    color: #004080;
+  }
+  
+  .timeline-description {
+    margin: 0.25rem 0 0;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .timeline-vertical-wrapper {
+    max-height: 400px;          /* fixed height for scroll */
+    overflow-y: auto;           /* vertical scroll only */
+    padding: 1rem 1.5rem;
+    border-left: 2px solid #ccc;
+  }
+  
+  /* rest of timeline styles same as before */
+  .timeline-vertical {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  
+  .timeline-item {
+    position: relative;
+    padding-left: 1.5rem;
+  }
+  
+  .circle {
+    position: absolute;
+    left: -10px;
+    top: 4px;
+    width: 12px;
+    height: 12px;
+    background-color: #0077cc;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
+  
+  .timeline-label {
+    margin: 0;
+    font-size: 0.95rem;
+  }
+  
+  .timeline-label span {
+    color: #555;
+    font-size: 0.85rem;
+  }
+  
+  .timeline-icon {
+    display: block;
+    margin-top: 0.5rem;
+    max-width: 60px;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+
+  @media (max-width: 768px) {
+    .timeline-vertical-wrapper {
+      max-height: 300px;
+    }
+  }
+  
+  /* Wrapper container for intro section to limit width and add side padding */
+.intro-container {
+    max-width: 1400px;   /* controls max width of the whole block */
+    margin: 0 auto;      /* center horizontally */
+    padding: 0 2rem;     /* side padding to add space from edges */
+  }
+
+/* For Misc page */
+/* === Global Container === */
+.misc-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding-left: clamp(1rem, 5vw, 4rem);
+    padding-right: clamp(1rem, 5vw, 4rem);
+  }
+  
+  /* === Photo Scroll === */
+  .photo-scroll {
+    display: flex;
+    gap: 2rem;
+    overflow-x: auto;
+    scroll-padding: 1rem;
+    padding-bottom: 2rem;
+    white-space: nowrap;
+  }
+  
+  .photo-scroll::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* === Individual Photo Frames === */
+  .photo-frame {
+    position: relative;
+    flex: 0 0 auto;
+    min-width: 250px;
+    max-width: 300px;
+    scroll-snap-align: start;
+  }
+  
+  
+  .photo-frame img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .photo-tag {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    pointer-events: none;
+  }
+  
+  /* === Albums Section === */
+  .album-scroll {
+    display: flex;
+    gap: 2rem;
+    overflow-x: auto;
+    padding: 1rem 0;
+    scroll-padding: 1rem;
+  }
+  
+  .album-scroll::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .album {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 12px;
+    background-color: #f9f9f9;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+  }
+  
+  .album h3 {
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    color: #0072ff;
+  }
+  
+  /* === Photo Collection in Albums === */
+  
+  .photo-collection {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    padding-bottom: 1rem;
+    scroll-padding: 1rem;
+    white-space: nowrap;
+  }
+  
+  
+  .photo-collection::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .photo-frame {
+    flex: 0 0 auto;
+    width: 250px;
+    position: relative;
+  }
+  
+  .photo-frame img {
+    width: 100%;
+    height: auto;
+    display: block;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .photo-tag {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+  }
+  
+
+  .photo-collection {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    scroll-padding: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  .photo-collection::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .photo-collection img,
+  .photo-collection .photo-frame {
+    flex-shrink: 0;
+  }
+  
+  .photo-collection img {
+    height: 300px;
+    width: auto;
+    aspect-ratio: 4 / 3;
+    border-radius: 12px;
+    object-fit: cover;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .photo-collection img:hover {
+    transform: scale(1.07);
+  }
+  
+  /* === Responsive Tweaks === */
+  @media (max-width: 768px) {
+    .photo-collection img {
+      height: 200px;
+    }
+  
+    .album {
+      padding: 1rem;
+    }
+  
+    .photo-frame {
+      max-width: 200px;
+    }
+  }
+  
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    padding-top: 60px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.9);
+  }
+  
+  .modal-content {
+    margin: auto;
+    display: block;
+    max-width: 90%;
+    max-height: 80vh;
+    border-radius: 8px;
+  }
+  
+  .modal-close {
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .section-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    position: relative;
+    color: #1a1a1a;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .section-title .emoji {
+    font-size: 2.2rem;
+    vertical-align: middle;
+  }
+
+  .text-glow {
+    display: inline-block;
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+  }
+  
+  .subtitle {
+    display: block;
+    font-size: 1rem;
+    margin-top: 0.25rem;
+    color: #777;
+    font-style: italic;
+  }
+
+  .section-title:hover .text-glow {
+    animation: glowPulse 1.2s ease-in-out infinite alternate;
+  }
