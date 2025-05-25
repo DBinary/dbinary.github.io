@@ -94,11 +94,6 @@ page_specific_css: /_pages/misc_style.css # <--- 添加这一行
       </section>
     </div>
 </main>
-
-<footer>
-    <p>&copy; 2025 Lei Hu. All rights reserved.</p>
-</footer>
-
 <div id="photo-modal" class="modal">
   <span class="modal-close">&times;</span>
   <img class="modal-content" id="modal-img">
