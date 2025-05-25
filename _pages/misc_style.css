@@ -373,7 +373,10 @@
     border-radius: 12px;
     background-color: #f9f9f9;
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
-    padding: 1.5rem;
+    padding-top: 0.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 1.5rem;
   }
   
   .album h3 {
