@@ -299,7 +299,7 @@
 /* For Misc page */
 /* === Global Container === */
 .misc-container {
-    max-width: 80vw;
+    max-width: 100%;
     margin: 0 auto;
     padding-left: clamp(1rem, 5vw, 4rem);
     padding-right: clamp(1rem, 5vw, 4rem);
@@ -518,7 +518,7 @@
   }
   
   .section-title .emoji {
-    font-size: 2.2rem;
+    font-size: 3rem;
     vertical-align: middle;
   }
 
