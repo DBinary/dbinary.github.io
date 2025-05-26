@@ -5,6 +5,7 @@ permalink: /misc/
 author_profile: true
 page_specific_css: /_pages/misc_style.css # <--- 添加这一行
 ---
+<button class="menu-toggle" id="menu-toggle">☰</button>
 <main class="misc-main">
     <div class="misc-container">
       <section class="gallery-wall">
