@@ -58,8 +58,8 @@
   footer {
     text-align: center;
     padding: 1rem;
-    background: #222;
-    color: white;
+    background: #f4f4f4;
+    color: #222;
   }
   
   /* Responsive Styles */
@@ -405,7 +405,7 @@
   
   .photo-frame {
     flex: 0 0 auto;
-    width: 400px;
+    width: 500px;
     position: relative;
   }
   

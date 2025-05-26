@@ -10,7 +10,7 @@ page_specific_css: /_pages/misc_style.css # <--- 添加这一行
       <section class="gallery-wall">
         <h2 class="section-title">
           <span class="emoji">📷</span> <span class="text-glow">Gallery Wall (Graduation)</span>
-          <span class="subtitle">Scroll to see the moments I’ve captured from my graduation ceremony</span>
+          <span class="subtitle">Scroll to see the moments I’ve captured from my graduation ceremony.</span>
         </h2>
         <div class="album-scroll">
           <div class="album">
@@ -99,4 +99,4 @@ page_specific_css: /_pages/misc_style.css # <--- 添加这一行
   <img class="modal-content" id="modal-img">
 </div>
 
-<script src="misc.js"></script>
+<script src="/_pages/misc.js"></script>
