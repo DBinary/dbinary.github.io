@@ -482,7 +482,7 @@
     display: none;
     position: fixed;
     z-index: 2000;
-    padding-top: 60px;
+    padding-top: 120px;
     left: 0;
     top: 0;
     width: 100%;
@@ -501,7 +501,7 @@
   
   .modal-close {
     position: absolute;
-    top: 30px;
+    top: 100px;
     right: 40px;
     color: white;
     font-size: 2rem;
