@@ -34,7 +34,7 @@ page_specific_css: /_pages/misc_style.css # <--- 添加这一行
                   </div>
                     <div class="photo-frame">
                     <img src="../images/SXU_2023.jpg" alt="SXU" />
-                    <div class="photo-tag">Graduating from USTB (2023).</div>
+                    <div class="photo-tag">In Shanxi University (2023).</div>
                   </div>
             </div>
           </div>
