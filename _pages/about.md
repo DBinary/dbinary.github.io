@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lei Hu (胡磊), the second year Ph.D. student of Cell Biology Lab (细胞生物学实验室) at [School of Life Sciences](https://sls.westlake.edu.cn/en/), [Westlake University](https://en.westlake.edu.cn/) (西湖大学生命科学学院), advised by chair professor [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html). I am also the Ph.D. student of [Artificial Intelligence and Computational Biology (AICB) Lab (人工智能与计算生物学实验室)](https://aicb.lab.westlake.edu.cn/) at the Department of Artificial Intelligence, [School of Engineering](https://en-soe.westlake.edu.cn/) (西湖大学工学院人工智能系), co-advised by professor [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 
+Hi! I am Lei Hu (胡磊), the second year Ph.D. candidate of Cell Biology Lab (细胞生物学实验室) at [School of Life Sciences](https://sls.westlake.edu.cn/en/), [Westlake University](https://en.westlake.edu.cn/) (西湖大学生命科学学院), advised by chair professor [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html). I am also the Ph.D. student of [Artificial Intelligence and Computational Biology (AICB) Lab (人工智能与计算生物学实验室)](https://aicb.lab.westlake.edu.cn/) at the Department of Artificial Intelligence, [School of Engineering](https://en-soe.westlake.edu.cn/) (西湖大学工学院人工智能系), co-advised by professor [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 
 
 Previously, I received B.E. in Automation and B.S. in Biotechnology from [University of Science and Technology Beijing](http://en.ustb.edu.cn/) (北京科技大学高等工程师学院/化学与生物工程学院). I also studied at [Central South University](https://en.csu.edu.cn//) (中南大学自动化学院) as an exchange student.
 
 My main research interest focus on **AI for Life Sciences**, supported by the Fundamental Research Project for Young Ph.D. Students from NSFC (国家自然科学基金青年学生基础研究项目(博士研究生)).
 
 ## 💬 Recent News
+  * *June,* *2025*. Ph.D. student → Ph.D. candidate.
   * *December,* *2024*. I am honored to be supported by the **Fundamental Research Project for Young Ph.D. Students from NSFC (国家自然科学基金青年学生基础研究项目(博士研究生))**.
   * *October,* *2024*. I am honored to receive the **National Scholarship !**
   * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to **Department of Automation, Tsinghua University !**
