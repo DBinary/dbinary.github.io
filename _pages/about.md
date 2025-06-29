@@ -119,5 +119,6 @@ Roshan, Yuanyan Xiong<sup>#</sup>, Hongwu Du<sup>#</sup>, Tongbiao Zhao<sup>#</s
   * Peiran Lin (undergraduate student at SDU → Westlake University)
   * [Xuting Zhang](https://lxzcpro.github.io/) (undergraduate student at Westlake University)
   * Sheng Mao (undergraduate student at Westlake University)
+  * Zedong Jiao (master student at XTU)
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
