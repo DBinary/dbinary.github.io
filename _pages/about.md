@@ -66,11 +66,11 @@ Roshan, Yuanyan Xiong<sup>#</sup>, Hongwu Du<sup>#</sup>, Tongbiao Zhao<sup>#</s
 
   [1] Yapeng Ji, Junyao Jiang, **Lei Hu**, Peng Lin, Mingshan Zhou, Minkai Wang, Yuchen Ji, Xianzhi Liu, Dongming Yan, Adwait Sathe, Bret Evers, Chao Xing, Xuelian Luo, Qi Xie, Weike Pei, Zhenyu Zhang, Song Hu, Yang Guo, Hongtao Yu, **Targeting necrotic lipid release in tumors enhances immunosurveillance and cancer immunotherapy of glioblastoma**. (Cell Research, accepted)
 
-  [1] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng, Hongwu Du, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**. (iMetaOmics, major revision)
+  [2] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng, Hongwu Du, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**. (iMetaOmics, major revision)
 
-  [2] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
+  [3] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
 
-  [3] Yushuai Wu, Ting Zhang, Hao Zhou, Hainan Wu, Hanwen Sunchu, **Lei Hu**, Xiaofang Chen, Suyuan Zhao, Gaochao Liu, Chao Sun, Jiahuan Zhang, Yizhen Luo, Peng Liu, Zaiqing Nie, Yushuai Wu, **DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation**, *arXiv preprint arXiv:2403.03768, 2024.* [[arXiv](https://arxiv.org/abs/2403.03768)]
+  [4] Yushuai Wu, Ting Zhang, Hao Zhou, Hainan Wu, Hanwen Sunchu, **Lei Hu**, Xiaofang Chen, Suyuan Zhao, Gaochao Liu, Chao Sun, Jiahuan Zhang, Yizhen Luo, Peng Liu, Zaiqing Nie, Yushuai Wu, **DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation**, *arXiv preprint arXiv:2403.03768, 2024.* [[arXiv](https://arxiv.org/abs/2403.03768)]
   
   
 ## 📖 Education
