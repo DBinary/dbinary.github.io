@@ -36,7 +36,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
     </td>
     <td style="border: 1px solid black; padding: 10px;">
       <b><i>OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing.</i></b><br>
-      Zehua Zeng*<sup>,#</sup>, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing<sup>#</sup>, Yuanyan Xiong<sup>#</sup>, Hongwu Du<sup>#</sup>.<br>
+      Zehua Zeng*<sup>,✉</sup>, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>.<br>
       <b>Nature Communications</b>, 15, 5983 (2024).<br>
       <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
       <span><a href="https://www.nature.com/articles/s41467-024-50194-3">Paper</a>, <a href="https://doi.org/10.1101/2023.06.06.543913">Biorxiv</a></span><br>
@@ -50,8 +50,8 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
     </td>
     <td style="border: 1px solid black; padding: 10px;">
       <b><i>scLTNN: an innovative tool for automatically visualizing single-cell trajectories.</i></b><br>
-      Cengcan Xing*, Zehua Zeng*<sup>,#</sup>, <b>Lei Hu*</b>, Jianing Kang, Shah 
-Roshan, Yuanyan Xiong<sup>#</sup>, Hongwu Du<sup>#</sup>, Tongbiao Zhao<sup>#</sup>.<br>
+      Cengcan Xing*, Zehua Zeng*<sup>,✉</sup>, <b>Lei Hu*</b>, Jianing Kang, Shah 
+Roshan, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>, Tongbiao Zhao<sup>✉</sup>.<br>
       <b>Bioinformatics Advances</b>, vbaf033.<br>
       <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
       <span><a href="https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf033/8043205">Paper</a>, <a href="https://doi.org/10.1101/2022.09.28.510020">Biorxiv</a></span><br>
@@ -64,13 +64,15 @@ Roshan, Yuanyan Xiong<sup>#</sup>, Hongwu Du<sup>#</sup>, Tongbiao Zhao<sup>#</s
 
 ## 📝 Preprints
 
-  [1] Yapeng Ji, Junyao Jiang, **Lei Hu**, Peng Lin, Mingshan Zhou, Minkai Wang, Yuchen Ji, Xianzhi Liu, Dongming Yan, Adwait Sathe, Bret Evers, Chao Xing, Xuelian Luo, Qi Xie, Weike Pei, Zhenyu Zhang, Song Hu, Yang Guo, Hongtao Yu, **Targeting necrotic lipid release in tumors enhances immunosurveillance and cancer immunotherapy of glioblastoma**. (Cell Research, accepted)
+  [1] **Lei Hu\***, Shichen Zhang\*, Xuting Zhang\*, Yihai Luo\*, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, **STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data**, *bioRxiv, 2025: 2025.08 21.671434.* [[BioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v1)]
 
-  [2] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng, Hongwu Du, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**. (iMetaOmics, major revision)
+  [2] Yapeng Ji, Junyao Jiang, **Lei Hu**, Peng Lin, Mingshan Zhou, Minkai Wang, Yuchen Ji, Xianzhi Liu, Dongming Yan, Adwait Sathe, Bret Evers, Chao Xing, Xuelian Luo, Qi Xie, Weike Pei, Zhenyu Zhang, Song Hu, Yang Guo, Hongtao Yu<sup>✉</sup>, **Targeting necrotic lipid release in tumors enhances immunosurveillance and cancer immunotherapy of glioblastoma**. (Cell Research, accepted)
 
-  [3] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
+  [3] **Lei Hu\***, Peng Liu\*, Zheming Zhang\*, Yihan Zhao\*, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng<sup>✉</sup>, Hongwu Du<sup>✉</sup>, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**. (iMetaOmics, major revision)
 
-  [4] Yushuai Wu, Ting Zhang, Hao Zhou, Hainan Wu, Hanwen Sunchu, **Lei Hu**, Xiaofang Chen, Suyuan Zhao, Gaochao Liu, Chao Sun, Jiahuan Zhang, Yizhen Luo, Peng Liu, Zaiqing Nie, Yushuai Wu, **DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation**, *arXiv preprint arXiv:2403.03768, 2024.* [[arXiv](https://arxiv.org/abs/2403.03768)]
+  [4] Yihan Zhao\*, Peng Liu\*, **Lei Hu\***, Mingxi Ke, Nan Min, Zehua Zeng<sup>✉</sup>, Hongwu Du<sup>✉</sup>, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
+
+  [5] Yushuai Wu, Ting Zhang, Hao Zhou, Hainan Wu, Hanwen Sunchu, **Lei Hu**, Xiaofang Chen, Suyuan Zhao, Gaochao Liu, Chao Sun, Jiahuan Zhang, Yizhen Luo, Peng Liu, Zaiqing Nie<sup>✉</sup>, Yushuai Wu<sup>✉</sup>, **DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation**, *arXiv preprint arXiv:2403.03768, 2024.* [[arXiv](https://arxiv.org/abs/2403.03768)]
   
   
 ## 📖 Education
