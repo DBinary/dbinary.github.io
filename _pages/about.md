@@ -29,37 +29,21 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
   }
 </style>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: 1px solid black; padding: 10px;">
-      <img src="../images/omicverse.png" width="700" />
-    </td>
-    <td style="border: 1px solid black; padding: 10px;">
-      <b><i>OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing.</i></b><br>
-      Zehua Zeng*<sup>,✉</sup>, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>.<br>
-      <b>Nature Communications</b>, 15, 5983 (2024).<br>
-      <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-      <span><a href="https://www.nature.com/articles/s41467-024-50194-3">Paper</a>, <a href="https://doi.org/10.1101/2023.06.06.543913">Biorxiv</a></span><br>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature ommunications</div><img src='../images/omicverse.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3)
+Zehua Zeng*<sup>,✉</sup>, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>.<br>. <b>Nature Communications</b>, 15, 5983 (2024).<br>
+<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://www.nature.com/articles/s41467-024-50194-3">Paper</a>, <a href="https://doi.org/10.1101/2023.06.06.543913">Biorxiv</a></span><br>
       <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
       <span><a href="https://github.com/Starlitnightly/omicverse">Code</a>, <a href="https://github.com/Starlitnightly/omicverse-reproducibility">Reproducibility</a>, <a href="https://starlitnightly.github.io/omicverse/">Tutorials</a></span><br>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 10px;">
-      <img src="../images/scltnn.png" width="700" />
-    </td>
-    <td style="border: 1px solid black; padding: 10px;">
-      <b><i>scLTNN: an innovative tool for automatically visualizing single-cell trajectories.</i></b><br>
-      Cengcan Xing*, Zehua Zeng*<sup>,✉</sup>, <b>Lei Hu*</b>, Jianing Kang, Shah 
-Roshan, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>, Tongbiao Zhao<sup>✉</sup>.<br>
-      <b>Bioinformatics Advances</b>, vbaf033.<br>
-      <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-      <span><a href="https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf033/8043205">Paper</a>, <a href="https://doi.org/10.1101/2022.09.28.510020">Biorxiv</a></span><br>
-      <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-      <span><a href="https://github.com/Starlitnightly/scLTNN">Code</a>, <a href="https://scltnn.readthedocs.io/en/latest/index.html">Tutorials</a></span><br>
-    </td>
-  </tr>
-</table>
+</div>
+</div>
+
+
 
 
 ## 📝 Preprints
