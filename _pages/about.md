@@ -30,7 +30,6 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 </style>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='../images/omicverse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
