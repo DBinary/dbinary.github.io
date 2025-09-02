@@ -35,7 +35,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 <div class='paper-box-text' markdown="1">
 
 [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3)
-Zehua Zeng*<sup>,✉</sup>, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>.<br>. <b>Nature Communications</b>, 15, 5983 (2024).<br>
+Zehua Zeng<sup>†,✉</sup>, Yuqing Ma<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>.<br>. <b>Nature Communications</b>, 15, 5983 (2024).<br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://www.nature.com/articles/s41467-024-50194-3">Paper</a>, <a href="https://doi.org/10.1101/2023.06.06.543913">Biorxiv</a></span><br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -47,7 +47,7 @@ Zehua Zeng*<sup>,✉</sup>, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yix
 <div class='paper-box-text' markdown="1">
 
 [scLTNN: an innovative tool for automatically visualizing single-cell trajectories](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf033/8043205)
-Cengcan Xing*, Zehua Zeng*<sup>,✉</sup>, <b>Lei Hu*</b>, Jianing Kang, Shah 
+Cengcan Xing<sup>†</sup>, Zehua Zeng<sup>†,✉</sup>, <b>Lei Hu<sup>†</sup></b>, Jianing Kang, Shah 
 Roshan, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>, Tongbiao Zhao<sup>✉</sup>.<br>. <b>Bioinformatics Advances</b>, vbaf033 (2025).<br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf033/8043205">Paper</a>, <a href="https://doi.org/10.1101/2022.09.28.510020">Biorxiv</a></span><br>
