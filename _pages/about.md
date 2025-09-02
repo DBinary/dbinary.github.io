@@ -115,15 +115,17 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 
 ## 🔗 Co-working Students
 (*I am working with some visiting/undergraduate/doctoral students and postdocs at Westlake University with chair professor Hongtao Yu and professor Jianyang Zeng*)
-  * Peng Liu (undergraduate student at USTB → THU)
-  * Yihan Zhao (undergraduate student at USTB → FDU)
-  * Zheming Zhang (undergraduate student at CSU → CSSC)
-  * Fenglei Zhang (undergraduate student at SXU → NPU)
-  * [Zhaorui Jiang](https://zhaorui-bi.github.io/) (undergraduate student at OUC → PKU)
+  * Peng Liu (undergraduate student at USTB → master student at THU)
+  * Yihan Zhao (undergraduate student at USTB → master student at FDU)
+  * Zheming Zhang (undergraduate student at CSU → master student at CSSC)
+  * Fenglei Zhang (undergraduate student at SXU → master student at NPU)
+  * [Zhaorui Jiang](https://zhaorui-bi.github.io/) (undergraduate student at OUC → master student at PKU)
   * Haoteng Gu (undergraduate student at BJUT)
-  * Peiran Lin (undergraduate student at SDU → Westlake University)
+  * Peiran Lin (undergraduate student at SDU → Ph.D. student at Westlake University)
   * [Xuting Zhang](https://lxzcpro.github.io/) (undergraduate student at Westlake University)
   * Sheng Mao (undergraduate student at Westlake University)
   * Zedong Jiao (master student at XTU)
+  * Yuntian Shi (undergraduate student at Westlake University)
+  * Zimu Lin (undergraduate student at Westlake University)
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
