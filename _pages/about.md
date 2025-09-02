@@ -31,7 +31,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='../images/omicverse.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='../images/omicverse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3)
@@ -43,7 +43,7 @@ Zehua Zeng*<sup>,✉</sup>, Yuqing Ma*, <b>Lei Hu*</b>, Bowen Tan, Peng Liu, Yix
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics Advances</div><img src='../images/scltnn.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics Advances</div><img src='../images/scltnn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [scLTNN: an innovative tool for automatically visualizing single-cell trajectories](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf033/8043205)
