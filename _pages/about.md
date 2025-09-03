@@ -73,13 +73,11 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 
 ## 📝 Preprints
 
-  [1] Yapeng Ji, Junyao Jiang, **Lei Hu**, Peng Lin, Mingshan Zhou, Minkai Wang, Yuchen Ji, Xianzhi Liu, Dongming Yan, Adwait Sathe, Bret Evers, Chao Xing, Xuelian Luo, Qi Xie, Weike Pei, Zhenyu Zhang, Song Hu, Yang Guo, Hongtao Yu<sup>✉</sup>, **Targeting necrotic lipid release in tumors enhances immunosurveillance and cancer immunotherapy of glioblastoma**. (Cell Research, accepted)
+  [1] **Lei Hu<sup>†</sup>**, Peng Liu<sup>†</sup>, Zheming Zhang<sup>†</sup>, Yihan Zhao<sup>†</sup>, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng<sup>✉</sup>, Hongwu Du<sup>✉</sup>, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**. (iMetaOmics, major revision)
 
-  [2] **Lei Hu<sup>†</sup>**, Peng Liu<sup>†</sup>, Zheming Zhang<sup>†</sup>, Yihan Zhao<sup>†</sup>, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng<sup>✉</sup>, Hongwu Du<sup>✉</sup>, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**. (iMetaOmics, major revision)
+  [2] Yihan Zhao<sup>†</sup>, Peng Liu<sup>†</sup>, **Lei Hu<sup>†</sup>**, Mingxi Ke, Nan Min, Zehua Zeng<sup>✉</sup>, Hongwu Du<sup>✉</sup>, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
 
-  [3] Yihan Zhao<sup>†</sup>, Peng Liu<sup>†</sup>, **Lei Hu<sup>†</sup>**, Mingxi Ke, Nan Min, Zehua Zeng<sup>✉</sup>, Hongwu Du<sup>✉</sup>, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
-
-  [4] Yushuai Wu, Ting Zhang, Hao Zhou, Hainan Wu, Hanwen Sunchu, **Lei Hu**, Xiaofang Chen, Suyuan Zhao, Gaochao Liu, Chao Sun, Jiahuan Zhang, Yizhen Luo, Peng Liu, Zaiqing Nie<sup>✉</sup>, Yushuai Wu<sup>✉</sup>, **DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation**, *arXiv preprint arXiv:2403.03768, 2024.* [[arXiv](https://arxiv.org/abs/2403.03768)]
+  [3] Yushuai Wu, Ting Zhang, Hao Zhou, Hainan Wu, Hanwen Sunchu, **Lei Hu**, Xiaofang Chen, Suyuan Zhao, Gaochao Liu, Chao Sun, Jiahuan Zhang, Yizhen Luo, Peng Liu, Zaiqing Nie<sup>✉</sup>, Yushuai Wu<sup>✉</sup>, **DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation**, *arXiv preprint arXiv:2403.03768, 2024.* [[arXiv](https://arxiv.org/abs/2403.03768)]
   
   
 ## 📖 Education
