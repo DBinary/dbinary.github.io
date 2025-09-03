@@ -21,7 +21,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
   * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to **Department of Automation, Tsinghua University !**
   * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications !**
 
-## 📝 Recent Publications and Important Manuscripts
+## 📝 Recent Publications and Important Manuscripts (<sup>†</sup>: co-first author)
 <style>
   table, th, td {
     border: 1px solid black;
