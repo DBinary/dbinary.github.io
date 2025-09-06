@@ -126,7 +126,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
   * Fenglei Zhang (undergraduate student at SXU → master student at NPU)
   * [Zhaorui Jiang](https://zhaorui-bi.github.io/) (undergraduate student at OUC → master student at PKU)
   * Haoteng Gu (undergraduate student at BJUT)
-  * Peiran Lin (undergraduate student at SDU → Ph.D. student at Westlake University)
+  * [Peiran Lin](https://ljzylinpr.github.io/) (undergraduate student at SDU → Ph.D. student at Westlake University)
   * [Xuting Zhang](https://lxzcpro.github.io/) (undergraduate student at Westlake University)
   * Sheng Mao (undergraduate student at Westlake University)
   * Zedong Jiao (master student at XTU)
