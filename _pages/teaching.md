@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
   + Westlake University, 2025 Fall, College buddy for Delta College.
+  + Westlake University, 2025 Fall, TA for Globalization and China Development.
   + Westlake University, 2025 Spring, TA for The Jounral Club.
   + Westlake University, 2024 Fall, TA for Development Biology.
   + Westlake University, 2024 Summer, TA for [PEBBLE BioFusion Summer Camp](https://cis.westlake.edu.cn/en/info/1033/1052.htm).
