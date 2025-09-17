@@ -565,7 +565,8 @@
 
   .mics-box .mics-box-image img {
     max-width: 600px; /* 1.5x larger than paper-box's 400px */
-    width: 150%; /* make images 1.5x larger */
+    width: auto; /* maintain aspect ratio */
+    height: auto; /* maintain aspect ratio */
     box-shadow: 3px 3px 6px #888;
     object-fit: cover;
     cursor: pointer;
@@ -598,14 +599,18 @@
     .mics-box .mics-box-image {
       justify-content: left;
       min-width: 200px;
-      max-width: 40%;
+      max-width: 100%; /* full width on mobile */
       order: 1;
+    }
+
+    .mics-box .mics-box-image img {
+      max-width: 100%; /* responsive sizing on mobile */
     }
 
     .mics-box .mics-box-text {
       justify-content: left;
-      padding-left: 2em;
-      max-width: 60%;
+      padding-left: 0;
+      max-width: 100%;
       order: 2;
     }
   }
