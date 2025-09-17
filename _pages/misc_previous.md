@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Miscellaneous"
-permalink: /misc/
+permalink: /misc_new/
 author_profile: true
 page_specific_css: /_pages/misc_style.css # <--- 添加这一行
 ---
