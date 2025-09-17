@@ -1,106 +1,94 @@
 ---
 layout: archive
 title: "Miscellaneous"
-permalink: /misc/
+permalink: /misc_new/
 author_profile: true
-page_specific_css: /_pages/misc_style.css # <--- 添加这一行
+page_specific_css: /_pages/misc_style.css
 ---
-<main class="misc-main">
-    <div class="misc-container">
-      <section class="gallery-wall">
-        <h2 class="section-title">
-          <span class="emoji">📷</span> <span class="text-glow">Gallery Wall (Graduation)</span>
-          <span class="subtitle">Scroll to see the moments I’ve captured from my graduation ceremony.</span>
-        </h2>
-        <div class="album-scroll">
-          <div class="album">
-            <h3>📍 Beijing — June 2023/2024</h3>
-            <div class="photo-collection">
-                <div class="photo-frame">
-                    <img src="../images/ustb_graduation_1.png" alt="USTB_1" />
-                    <div class="photo-tag">Graduating from USTB (2024).</div>
-                  </div>
-                  <div class="photo-frame">
-                    <img src="../images/ustb_graduation_2.jpg" alt="USTB_2" />
-                    <div class="photo-tag">Graduating from USTB (2024).</div>
-                  </div>
-                  <div class="photo-frame">
-                    <img src="../images/ustb_graduation_4.jpg" alt="USTB_4" />
-                    <div class="photo-tag">Graduating from USTB (2024).</div>
-                  </div>
-                  <div class="photo-frame">
-                    <img src="../images/ustb_graduation_3.jpg" alt="USTB_3" />
-                    <div class="photo-tag">Graduating from USTB (2023).</div>
-                  </div>
-                    <div class="photo-frame">
-                    <img src="../images/SXU_2023.jpg" alt="SXU" />
-                    <div class="photo-tag">In Shanxi University (2023).</div>
-                  </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
-      <section class="study-table">
-        <h2 class="section-title">
-            <span class="emoji">📷</span> <span class="text-glow">Gallery Wall (TA)</span>
-            <span class="subtitle">Scroll to see the moments with my friends at PEBBLE Summer Campus.</span>
-          </h2>
-        <div class="note-grid">
-          </div>
-        <div class="album-scroll">
-          <div class="album">
-            <h3>📍 Hangzhou — August 2024</h3>
-            <div class="photo-collection">
-                <div class="photo-frame">
-                    <img src="../images/PEBBLE_2024_1.jpg" alt="PEBBLE_1" />
-                    <div class="photo-tag">TA for PEBBLE.</div>
-                  </div>
-                  <div class="photo-frame">
-                    <img src="../images/PEBBLE_2024_2.jpg" alt="PEBBLE_2" />
-                    <div class="photo-tag">TA for PEBBLE.</div>
-                  </div>
-                  <div class="photo-frame">
-                    <img src="../images/PEBBLE_2024_3.jpg" alt="PEBBLE_3" />
-                    <div class="photo-tag">TA for PEBBLE.</div>
-                  </div>
-                  <div class="photo-frame">
-                    <img src="../images/PEBBLE_2024_4.jpg" alt="PEBBLE_4" />
-                    <div class="photo-tag">TA for PEBBLE.</div>
-                  </div>
-            </div>
-          </div>
-        </div>
-      </section>
+## 📷 Gallery Wall
 
-      <section class="study-table">
-        <h2 class="section-title">
-            <span class="emoji">📷</span> <span class="text-glow">Gallery Wall (Friends)</span>
-            <span class="subtitle">Scroll to see the moments with my friends.</span>
-          </h2>
-        <div class="note-grid">
-          </div>
-        <div class="album-scroll">
-          <div class="album">
-            <h3>📍 Anywhere in the world — 2021-now</h3>
-            <div class="photo-collection">
-                <div class="photo-frame">
-                    <img src="../images/csu_2103.jpg" alt="csu_2103" />
-                    <div class="photo-tag">Central South University with Class 2103 (2022).</div>
-                  </div>
-                  <div class="photo-frame">
-                    <img src="../images/westlake_bar.jpg" alt="westlake_bar" />
-                    <div class="photo-tag">Meet with my friends (2024).</div>
-                  </div>
-            </div>
-          </div>
-        </div>
-      </section>
-    </div>
-</main>
-<div id="photo-modal" class="modal">
-  <span class="modal-close">&times;</span>
-  <img class="modal-content" id="modal-img">
+### 🎓 Graduation Moments
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/ustb_graduation_1.png' alt="USTB Graduation 2024" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Graduating from USTB (2024)**
+A memorable moment from my graduation ceremony at University of Science and Technology Beijing. This represents the culmination of years of hard work and dedication to my studies.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/ustb_graduation_2.jpg' alt="USTB Graduation Celebration" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Graduating from USTB (2024)**
+Celebrating academic achievements with friends and classmates. These moments of shared joy and accomplishment are what make the academic journey truly special.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/ustb_graduation_4.jpg' alt="USTB Graduation Memories" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Graduating from USTB (2024)**
+Capturing the joy of completing my studies at USTB. The graduation ceremony was a perfect conclusion to an important chapter of my academic life.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Graduating from USTB (2023)**
+An earlier graduation moment from my academic journey. Each graduation represents growth and new beginnings in my educational path.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/SXU_2023.jpg' alt="Shanxi University" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**In Shanxi University (2023)**
+Academic activities and memories from my time at SXU. The beautiful campus provided an inspiring environment for learning and research.
+</div>
+</div>
+
+### 👨‍🏫 Teaching Assistant Experience
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/PEBBLE_2024_1.jpg' alt="PEBBLE TA Experience" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**TA for PEBBLE Summer Campus (August 2024)**
+Teaching and mentoring students at the PEBBLE summer program in Hangzhou. This was an incredible opportunity to share knowledge and guide the next generation of researchers.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/PEBBLE_2024_2.jpg' alt="PEBBLE Teaching" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**TA for PEBBLE**
+Engaging with students and sharing knowledge during the summer campus program. The interactive learning environment fostered great discussions and academic growth.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/PEBBLE_2024_3.jpg' alt="PEBBLE Collaboration" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**TA for PEBBLE**
+Collaborative learning moments with participants from the summer school. Working together with students from diverse backgrounds enriched the teaching experience.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/PEBBLE_2024_4.jpg' alt="PEBBLE Connections" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**TA for PEBBLE**
+Building connections with students and fellow teaching assistants. The program created lasting academic relationships and friendships.
+</div>
+</div>
+
+### 👥 Friends and Memories
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/csu_2103.jpg' alt="Central South University Friends" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Central South University with Class 2103 (2022)**
+Cherished moments with classmates during my time at CSU. The bonds formed during university years create lifelong friendships and academic collaborations.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/westlake_bar.jpg' alt="Westlake University Friends" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Meet with my friends (2024)**
+Enjoying time with research colleagues and friends at Westlake University. These social moments provide balance to the rigorous academic life and foster collaborative relationships.
+</div>
 </div>
 
 <script src="/_pages/misc.js"></script>
