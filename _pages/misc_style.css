@@ -556,10 +556,10 @@
   }
 
   .mics-box .mics-box-image {
-    justify-content: center;
+    justify-content: left; /* align image to left */
     display: flex;
     width: 100%;
-    order: 2;
+    order: 1; /* image first on the left */
     position: relative; /* for badge positioning */
   }
 
@@ -574,7 +574,8 @@
 
   .mics-box .mics-box-text {
     max-width: 100%;
-    order: 1;
+    order: 2; /* text second on the right */
+    padding-left: 2em; /* add spacing between image and text */
   }
 
   /* Badge styling for titles */
@@ -591,6 +592,33 @@
     z-index: 10;
   }
 
+  /* Desktop layout - image on left, text on right */
+  @media (min-width: 769px) {
+    .mics-box {
+      flex-direction: row; /* side by side layout */
+      align-items: flex-start; /* align items to top */
+    }
+
+    .mics-box .mics-box-image {
+      justify-content: left;
+      min-width: 200px;
+      max-width: 40%; /* image takes 40% width */
+      order: 1;
+    }
+
+    .mics-box .mics-box-image img {
+      max-width: 100%; /* fit within container */
+    }
+
+    .mics-box .mics-box-text {
+      justify-content: left;
+      padding-left: 2em; /* spacing between image and text */
+      max-width: 60%; /* text takes 60% width */
+      order: 2;
+    }
+  }
+
+  /* Mobile layout - stack vertically */
   @media (max-width: 768px) {
     .mics-box {
       flex-direction: column;
