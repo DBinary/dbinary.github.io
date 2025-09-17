@@ -10,16 +10,14 @@ page_specific_css: /_pages/misc_style.css
 
 ### 🎓 Graduation Moments
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/ustb_graduation_1.png' alt="USTB Graduation 2024" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USTB Graduation 2024</div><img src='../images/ustb_graduation_1.png' alt="USTB Graduation 2024" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**Graduating from USTB (2024)**
 A memorable moment from my graduation ceremony at University of Science and Technology Beijing. This represents the culmination of years of hard work and dedication to my studies.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/ustb_graduation_2.jpg' alt="USTB Graduation Celebration" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USTB Celebration 2024</div><img src='../images/ustb_graduation_2.jpg' alt="USTB Graduation Celebration" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**Graduating from USTB (2024)**
 Celebrating academic achievements with friends and classmates. These moments of shared joy and accomplishment are what make the academic journey truly special.
 </div>
 </div>
