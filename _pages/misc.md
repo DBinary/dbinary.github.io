@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Miscellaneous"
-permalink: /misc_new/
+permalink: /misc/
 author_profile: true
 page_specific_css: /_pages/misc_style.css
 ---
