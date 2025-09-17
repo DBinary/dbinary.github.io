@@ -42,9 +42,8 @@ Academic activities and memories from my time at SXU. The beautiful campus provi
 
 ### 👨‍🏫 Teaching Assistant Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/PEBBLE_2024_1.jpg' alt="PEBBLE TA Experience" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PEBBLE Summer Campus 2024</div><img src='../images/PEBBLE_2024_1.jpg' alt="PEBBLE TA Experience" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**TA for PEBBLE Summer Campus (August 2024)**
 Teaching and mentoring students at the PEBBLE summer program in Hangzhou. This was an incredible opportunity to share knowledge and guide the next generation of researchers.
 </div>
 </div>
