@@ -22,23 +22,20 @@ Celebrating academic achievements with friends and classmates. These moments of 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/ustb_graduation_4.jpg' alt="USTB Graduation Memories" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USTB Memories 2024</div><img src='../images/ustb_graduation_4.jpg' alt="USTB Graduation Memories" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**Graduating from USTB (2024)**
 Capturing the joy of completing my studies at USTB. The graduation ceremony was a perfect conclusion to an important chapter of my academic life.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USTB Graduation 2023</div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**Graduating from USTB (2023)**
 An earlier graduation moment from my academic journey. Each graduation represents growth and new beginnings in my educational path.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/SXU_2023.jpg' alt="Shanxi University" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SXU Campus 2023</div><img src='../images/SXU_2023.jpg' alt="Shanxi University" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**In Shanxi University (2023)**
 Academic activities and memories from my time at SXU. The beautiful campus provided an inspiring environment for learning and research.
 </div>
 </div>
@@ -52,41 +49,71 @@ Teaching and mentoring students at the PEBBLE summer program in Hangzhou. This w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/PEBBLE_2024_2.jpg' alt="PEBBLE Teaching" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PEBBLE Teaching 2024</div><img src='../images/PEBBLE_2024_2.jpg' alt="PEBBLE Teaching" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**TA for PEBBLE**
 Engaging with students and sharing knowledge during the summer campus program. The interactive learning environment fostered great discussions and academic growth.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/PEBBLE_2024_3.jpg' alt="PEBBLE Collaboration" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PEBBLE Collaboration 2024</div><img src='../images/PEBBLE_2024_3.jpg' alt="PEBBLE Collaboration" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**TA for PEBBLE**
 Collaborative learning moments with participants from the summer school. Working together with students from diverse backgrounds enriched the teaching experience.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/PEBBLE_2024_4.jpg' alt="PEBBLE Connections" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PEBBLE Connections 2024</div><img src='../images/PEBBLE_2024_4.jpg' alt="PEBBLE Connections" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**TA for PEBBLE**
 Building connections with students and fellow teaching assistants. The program created lasting academic relationships and friendships.
 </div>
 </div>
 
 ### 👥 Friends and Memories
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/csu_2103.jpg' alt="Central South University Friends" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSU Class 2103 2022</div><img src='../images/csu_2103.jpg' alt="Central South University Friends" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**Central South University with Class 2103 (2022)**
 Cherished moments with classmates during my time at CSU. The bonds formed during university years create lifelong friendships and academic collaborations.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/westlake_bar.jpg' alt="Westlake University Friends" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Westlake Friends 2024</div><img src='../images/westlake_bar.jpg' alt="Westlake University Friends" width="150%" style="cursor: pointer;" onclick="openModal(this)"></div></div>
 <div class='paper-box-text' markdown="1">
-**Meet with my friends (2024)**
 Enjoying time with research colleagues and friends at Westlake University. These social moments provide balance to the rigorous academic life and foster collaborative relationships.
 </div>
 </div>
 
+<div id="photo-modal" class="modal">
+  <span class="modal-close">&times;</span>
+  <img class="modal-content" id="modal-img">
+</div>
+
 <script src="/_pages/misc.js"></script>
+<script>
+function openModal(img) {
+    const modal = document.getElementById('photo-modal');
+    const modalImg = document.getElementById('modal-img');
+    if (modal && modalImg) {
+        modal.style.display = "block";
+        modalImg.src = img.src;
+    }
+}
+
+// Ensure modal close functionality
+document.addEventListener('DOMContentLoaded', function() {
+    const modal = document.getElementById('photo-modal');
+    const closeBtn = document.querySelector('.modal-close');
+
+    if (closeBtn) {
+        closeBtn.onclick = function() {
+            modal.style.display = "none";
+        };
+    }
+
+    if (modal) {
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        };
+    }
+});
+</script>
