@@ -543,3 +543,69 @@
   .section-title:hover .text-glow {
     animation: glowPulse 1.2s ease-in-out infinite alternate;
   }
+
+  /* Custom mics-box class for enlarged images similar to paper-box */
+  .mics-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+  }
+
+  .mics-box .mics-box-image {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    order: 2;
+    position: relative; /* for badge positioning */
+  }
+
+  .mics-box .mics-box-image img {
+    max-width: 600px; /* 1.5x larger than paper-box's 400px */
+    width: 150%; /* make images 1.5x larger */
+    box-shadow: 3px 3px 6px #888;
+    object-fit: cover;
+    cursor: pointer;
+  }
+
+  .mics-box .mics-box-text {
+    max-width: 100%;
+    order: 1;
+  }
+
+  /* Badge styling for titles */
+  .mics-box .badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #0072ff;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    z-index: 10;
+  }
+
+  @media (max-width: 768px) {
+    .mics-box {
+      flex-direction: column;
+    }
+
+    .mics-box .mics-box-image {
+      justify-content: left;
+      min-width: 200px;
+      max-width: 40%;
+      order: 1;
+    }
+
+    .mics-box .mics-box-text {
+      justify-content: left;
+      padding-left: 2em;
+      max-width: 60%;
+      order: 2;
+    }
+  }
