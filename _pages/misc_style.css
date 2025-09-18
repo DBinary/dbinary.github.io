@@ -613,7 +613,7 @@
     .mics-box .mics-box-text {
       justify-content: left;
       padding-left: 2em; /* spacing between image and text */
-      max-width: 60%; /* text takes 60% width */
+      max-width: 40%; /* text takes 60% width */
       order: 2;
     }
   }
