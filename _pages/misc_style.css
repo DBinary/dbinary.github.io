@@ -638,7 +638,7 @@
     .mics-box .mics-box-text {
       justify-content: left;
       padding-left: 0;
-      max-width: 100%;
+      max-width: 150%;
       order: 2;
     }
   }
