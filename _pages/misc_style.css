@@ -573,7 +573,7 @@
   }
 
   .mics-box .mics-box-text {
-    max-width: 100%;
+    max-width: 50%;
     order: 2; /* text second on the right */
     padding-left: 2em; /* add spacing between image and text */
   }
