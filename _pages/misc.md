@@ -10,27 +10,42 @@ page_specific_css: /_pages/misc_style.css
 
 ### 🎓 Graduation Moments
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation 2024</div><img src='../images/ustb_graduation_1.png' alt="USTB Graduation 2024" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_1.png' alt="USTB Graduation 2024" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-A memorable moment from my graduation ceremony at University of Science and Technology Beijing. This represents the culmination of years of hard work and dedication to my studies.
+📅: June, 2024<br>
+
+🧑: Me and my friends of Class 2024 of School of Advanced Engineering<br>
+
+📍: University of Science and Technology Beijing, Beijing, China
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Celebration 2024</div><img src='../images/ustb_graduation_2.jpg' alt="USTB Graduation Celebration" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_2.jpg' alt="USTB Graduation Celebration" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-Celebrating academic achievements with friends and classmates. These moments of shared joy and accomplishment are what make the academic journey truly special.
+📅: June, 2024<br>
+
+🧑: Me and my friends of the same undergraduate laboratory<br>
+
+📍: University of Science and Technology Beijing, Beijing, China
+</div>
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_4.jpg' alt="USTB Graduation Memories" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: June, 2024<br>
+
+🧑: Me<br>
+
+📍: University of Science and Technology Beijing, Beijing, China
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Memories 2024</div><img src='../images/ustb_graduation_4.jpg' alt="USTB Graduation Memories" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-Capturing the joy of completing my studies at USTB. The graduation ceremony was a perfect conclusion to an important chapter of my academic life.
-</div>
-</div>
+📅: June, 2023<br>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation 2023</div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" onclick="openModal(this)"></div></div>
-<div class='mics-box-text' markdown="1">
-An earlier graduation moment from my academic journey. Each graduation represents growth and new beginnings in my educational path.
+🧑: Me and Professor Renshu Yang, the president<br>
+
+📍: University of Science and Technology Beijing, Beijing, China
 </div>
 </div>
 
