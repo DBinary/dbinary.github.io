@@ -564,7 +564,7 @@
   }
 
   .mics-box .mics-box-image img {
-    max-width: 600px; /* 1.5x larger than paper-box's 400px */
+    max-width: 900px; /* 1.5x larger than paper-box's 400px */
     width: auto; /* maintain aspect ratio */
     height: auto; /* maintain aspect ratio */
     box-shadow: 3px 3px 6px #888;
