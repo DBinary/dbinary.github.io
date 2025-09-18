@@ -28,6 +28,7 @@ page_specific_css: /_pages/misc_style.css
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
+</div>
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_4.jpg' alt="USTB Graduation Memories" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
