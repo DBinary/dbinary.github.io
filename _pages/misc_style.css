@@ -602,7 +602,7 @@
     .mics-box .mics-box-image {
       justify-content: left;
       min-width: 200px;
-      max-width: 40%; /* image takes 40% width */
+      max-width: 60%; /* image takes 40% width */
       order: 1;
     }
 
