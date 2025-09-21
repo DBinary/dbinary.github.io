@@ -44,15 +44,19 @@ page_specific_css: /_pages/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2023<br>
 
-🧑: Me and Professor Renshu Yang, the president<br>
+🧑: The president of USTB and me <br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">SXU Campus 2023</div><img src='../images/SXU_2023.jpg' alt="Shanxi University" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Shanxi University 2023</div><img src='../images/SXU_2023.jpg' alt="Shanxi University" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-Academic activities and memories from my time at SXU. The beautiful campus provided an inspiring environment for learning and research.
+📅: June, 2023<br>
+
+🧑: Me and my friends <br>
+
+📍: Shanxi University, Taiyuan, Shanxi Province, China
 </div>
 </div>
 
@@ -60,25 +64,43 @@ Academic activities and memories from my time at SXU. The beautiful campus provi
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">PEBBLE Summer Campus 2024</div><img src='../images/PEBBLE_2024_1.jpg' alt="PEBBLE TA Experience" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-Teaching and mentoring students at the PEBBLE summer program in Hangzhou. This was an incredible opportunity to share knowledge and guide the next generation of researchers.
+📅: August, 2024<br>
+
+🧑: Me (TA) and my friends of the PEBBLE summer campus <br>
+
+📍: Huzhou, Zhejiang Province, China
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">PEBBLE Teaching 2024</div><img src='../images/PEBBLE_2024_2.jpg' alt="PEBBLE Teaching" onclick="openModal(this)"></div></div>
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">PEBBLE Summer Campus 2024</div><img src='../images/PEBBLE_2024_2.jpg' alt="PEBBLE Teaching" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-Engaging with students and sharing knowledge during the summer campus program. The interactive learning environment fostered great discussions and academic growth.
+📅: August, 2024<br>
+
+🧑: Me (TA) and my friends of the PEBBLE summer campus <br>
+
+📍: Westlake University, Hangzhou, Zhejiang Province, China
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">PEBBLE Collaboration 2024</div><img src='../images/PEBBLE_2024_3.jpg' alt="PEBBLE Collaboration" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">PEBBLE Summer Campus 2024</div><img src='../images/PEBBLE_2024_3.jpg' alt="PEBBLE Collaboration" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-Collaborative learning moments with participants from the summer school. Working together with students from diverse backgrounds enriched the teaching experience.
+📅: August, 2024<br>
+
+🧑: Me (TA) and my friends of the PEBBLE summer campus <br>
+
+📍: Shaoxing, Zhejiang Province, China
 </div>
 </div>
+
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">PEBBLE Connections 2024</div><img src='../images/PEBBLE_2024_4.jpg' alt="PEBBLE Connections" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-Building connections with students and fellow teaching assistants. The program created lasting academic relationships and friendships.
+📅: August, 2024<br>
+
+🧑: Me (TA) and my friends of the PEBBLE summer campus <br>
+
+📍: Shaoxing, Zhejiang Province, China
 </div>
 </div>
 
@@ -86,15 +108,24 @@ Building connections with students and fellow teaching assistants. The program c
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Class 2103 2022</div><img src='../images/csu_2103.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-Cherished moments with classmates during my time at CSU. The bonds formed during university years create lifelong friendships and academic collaborations.
+📅: January, 2022<br>
+
+🧑: Me and my friends of the class 2103 of automation and electrical appliances. <br>
+
+📍: Central South University, Changsha, Hunan Province, China
 </div>
 </div>
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">Westlake Friends 2024</div><img src='../images/westlake_bar.jpg' alt="Westlake University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-Enjoying time with research colleagues and friends at Westlake University. These social moments provide balance to the rigorous academic life and foster collaborative relationships.
+📅: June, 2024<br>
+
+🧑: Me and my friends (Peng Liu and Zhaorui Jiang). <br>
+
+📍: Westlake University, Hangzhou, Zhejiang Province, China
 </div>
 </div>
+
 
 <div id="photo-modal" class="modal">
   <span class="modal-close">&times;</span>
