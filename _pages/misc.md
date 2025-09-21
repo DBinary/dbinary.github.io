@@ -110,7 +110,7 @@ page_specific_css: /_pages/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: January, 2022<br>
 
-🧑: Me and my friends of the class 2103 of automation and electrical appliances. <br>
+🧑: Me and my friends of the Class 2103 of Automation and Electrical Appliances (Central South University, School of Automation). <br>
 
 📍: Central South University, Changsha, Hunan Province, China
 </div>
