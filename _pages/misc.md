@@ -8,17 +8,17 @@ page_specific_css: /_pages/misc_style.css
 
 ## 📷 Gallery Wall
 
-<!-- Tab Navigation -->
-<div class="tab-container" style="margin-bottom: 2em;">
-    <a href="#" class="tab-link active" id="tab-graduation" onclick="showTab('graduation'); return false;">🎓 Graduation Moments</a>
-    <span class="tab-separator">/</span>
-    <a href="#" class="tab-link" id="tab-teaching" onclick="showTab('teaching'); return false;">👨‍🏫 Teaching Assistant Experience</a>
-    <span class="tab-separator">/</span>
-    <a href="#" class="tab-link" id="tab-friends" onclick="showTab('friends'); return false;">👥 Friends and Memories</a>
+<!-- filter Navigation -->
+<div class="filter-container" style="margin-bottom: 2em;">
+    <a href="#" class="filter-link active" id="filter-graduation" onclick="showTopic('graduation'); return false;">🎓 Graduation Moments</a>
+    <span class="filter-separator">/</span>
+    <a href="#" class="filter-link" id="filter-teaching" onclick="showTopic('teaching'); return false;">👨‍🏫 Teaching Assistant Experience</a>
+    <span class="filter-separator">/</span>
+    <a href="#" class="filter-link" id="filter-friends" onclick="showTopic('friends'); return false;">👥 Friends and Memories</a>
 </div>
 
-<!-- Graduation Moments Tab Content -->
-<div id="section-graduation" class="tab-section">
+<!-- Graduation Moments filter Content -->
+<div id="section-graduation" class="filter-section">
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_6.jpg' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
@@ -92,8 +92,8 @@ page_specific_css: /_pages/misc_style.css
 
 </div>
 
-<!-- Teaching Assistant Experience Tab Content -->
-<div id="section-teaching" class="tab-section hidden">
+<!-- Teaching Assistant Experience filter Content -->
+<div id="section-teaching" class="topic-section hidden">
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">PEBBLE Summer Campus 2024</div><img src='../images/PEBBLE_2024_1.jpg' alt="PEBBLE TA Experience" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
@@ -139,8 +139,8 @@ page_specific_css: /_pages/misc_style.css
 
 </div>
 
-<!-- Friends and Memories Tab Content -->
-<div id="section-friends" class="tab-section hidden">
+<!-- Friends and Memories filter Content -->
+<div id="section-friends" class="topic-section hidden">
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Class 2103 2022</div><img src='../images/csu_2103.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
@@ -184,11 +184,11 @@ function openModal(img) {
 <script>
     function showTopic(topicId) {
         // Remove active class from all filter links
-        const filterLinks = document.querySelectorAll('.tab-link');
+        const filterLinks = document.querySelectorAll('.filter-link');
         filterLinks.forEach(link => link.classList.remove('active'));
 
         // Add active class to selected topic
-        document.getElementById('tab-' + topicId).classList.add('active');
+        document.getElementById('filter-' + topicId).classList.add('active');
 
         // Hide all sections first
         const sections = document.querySelectorAll('.topic-section');
@@ -204,45 +204,4 @@ function openModal(img) {
     });
 </script>
 
-// Tab switching functionality
-function showTab(tabName) {
-    // Hide all sections
-    const sections = document.querySelectorAll('.tab-section');
-    sections.forEach(section => {
-        section.classList.add('hidden');
-    });
-
-    // Remove active class from all tabs
-    const tabs = document.querySelectorAll('.tab-link');
-    tabs.forEach(tab => {
-        tab.classList.remove('active');
-    });
-
-    // Show selected section and activate corresponding tab
-    document.getElementById('section-' + tabName).classList.remove('hidden');
-    document.getElementById('tab-' + tabName).classList.add('active');
-}
-
-// Ensure modal close functionality and initialize tabs
-document.addEventListener('DOMContentLoaded', function() {
-    const modal = document.getElementById('photo-modal');
-    const closeBtn = document.querySelector('.modal-close');
-
-    if (closeBtn) {
-        closeBtn.onclick = function() {
-            modal.style.display = "none";
-        };
-    }
-
-    if (modal) {
-        window.onclick = function(event) {
-            if (event.target == modal) {
-                modal.style.display = "none";
-            }
-        };
-    }
-
-    // Initialize with graduation section shown by default
-    showTab('graduation');
-});
 </script>
