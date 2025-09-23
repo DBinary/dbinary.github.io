@@ -10,7 +10,7 @@ page_specific_css: /_pages/misc_style.css
 
 <!-- filter Navigation -->
 <div class="filter-container" style="margin-bottom: 2em;">
-    <a href="#" class="filter-link active" id="filter-graduation" onclick="showTopic('graduation'); return false;">🎓 Graduation (USTB)</a>
+    <a href="#" class="filter-link active" id="filter-graduation" onclick="showTopic('graduation'); return false;">🎓 Graduation (USTB 11)</a>
     <span class="filter-separator">/</span>
     <a href="#" class="filter-link" id="filter-graduationCSU" onclick="showTopic('graduationCSU'); return false;">🎓 Graduation (CSU)</a>
     <span class="filter-separator">/</span>
