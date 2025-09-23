@@ -10,11 +10,13 @@ page_specific_css: /_pages/misc_style.css
 
 <!-- filter Navigation -->
 <div class="filter-container" style="margin-bottom: 2em;">
-    <a href="#" class="filter-link active" id="filter-graduation" onclick="showTopic('graduation'); return false;">🎓 Graduation Moments</a>
+    <a href="#" class="filter-link active" id="filter-graduation" onclick="showTopic('graduation'); return false;">🎓 Graduation (USTB)</a>
     <span class="filter-separator">/</span>
-    <a href="#" class="filter-link" id="filter-teaching" onclick="showTopic('teaching'); return false;">👨‍🏫 Teaching Assistant Experience</a>
+    <a href="#" class="filter-link active" id="filter-graduationCSU" onclick="showTopic('graduationCSU'); return false;">🎓 Graduation (CSU)</a>
     <span class="filter-separator">/</span>
-    <a href="#" class="filter-link" id="filter-friends" onclick="showTopic('friends'); return false;">👥 Friends and Memories</a>
+    <a href="#" class="filter-link" id="filter-teaching" onclick="showTopic('teaching'); return false;">👨‍🏫 TA Experience</a>
+    <span class="filter-separator">/</span>
+    <a href="#" class="filter-link" id="filter-friends" onclick="showTopic('friends'); return false;">👥 Friends</a>
 </div>
 
 <!-- Graduation Moments filter Content -->
@@ -87,6 +89,31 @@ page_specific_css: /_pages/misc_style.css
 🧑: Me and my friends <br>
 
 📍: Shanxi University, Taiyuan, Shanxi Province, China
+</div>
+</div>
+
+</div>
+
+<!-- GraduationCSU Moments filter Content -->
+<div id="section-graduationCSU" class="topic-section hidden">
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Class 2103 2022</div><img src='../images/csu_2103.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: January, 2022<br>
+
+🧑: Me and my friends of the Class 2103 of Automation and Electrical Appliances (Central South University, School of Automation). <br>
+
+📍: Central South University, Changsha, Hunan Province, China
+</div>
+</div>
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Westlake Friends 2024</div><img src='../images/westlake_bar.jpg' alt="Westlake University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: June, 2024<br>
+
+🧑: Me and my friends (Peng Liu and Zhaorui Jiang). <br>
+
+📍: Westlake University, Hangzhou, Zhejiang Province, China
 </div>
 </div>
 
