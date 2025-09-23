@@ -7,10 +7,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // 检查模态框的基本元素是否存在
     if (modal && modalImg && closeBtn) {
-        document.querySelectorAll('.photo-frame img, .intro-photo').forEach(img => {
+        // 修复选择器以匹配实际的HTML结构
+        document.querySelectorAll('.mics-box img, .mics-box-image img').forEach(img => {
             img.addEventListener('click', function () {
                 modal.style.display = "block";
-                modalImg.src = this.src; 
+                modalImg.src = this.src;
             });
         });
 
