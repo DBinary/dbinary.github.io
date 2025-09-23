@@ -10,7 +10,7 @@ page_specific_css: /_pages/misc_style.css
 
 <!-- filter Navigation -->
 <div class="filter-container" style="margin-bottom: 2em;">
-    <a href="#" class="filter-link.active" id="filter-graduation" onclick="showTopic('graduation'); return false;">🎓 Graduation Moments 142</a>
+    <a href="#" class="filter-link active" id="filter-graduation" onclick="showTopic('graduation'); return false;">🎓 Graduation Moments</a>
     <span class="filter-separator">/</span>
     <a href="#" class="filter-link" id="filter-teaching" onclick="showTopic('teaching'); return false;">👨‍🏫 Teaching Assistant Experience</a>
     <span class="filter-separator">/</span>
@@ -198,9 +198,9 @@ function openModal(img) {
         document.getElementById('section-' + topicId).classList.remove('hidden');
     }
 
-    // Initialize with LLM section shown by default
+    // Initialize with graduation section shown by default
     document.addEventListener('DOMContentLoaded', function() {
-        showTopic('llm');
+        showTopic('graduation');
     });
 </script>
 
