@@ -34,7 +34,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 
 [STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2) **Lei Hu<sup>†</sup>**, Shichen Zhang<sup>†</sup>, Xuting Zhang<sup>†</sup>, Yihai Luo<sup>†</sup>, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>. *<b>BioRxiv</b>*, 2025.08 21.671434 (2025).<br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2">Biorxiv (under review in a very important journal of Nature Portfolio)</a></span><br>
+<span><a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2">Biorxiv</a></span><br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span> <a href="https://starnet-tutorials.readthedocs.io/en/latest">Tutorials</a></span><br>
 </div>
