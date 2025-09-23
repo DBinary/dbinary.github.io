@@ -227,6 +227,7 @@ function openModal(img) {
         modalImg.src = img.src;
     }
 }
+</script>
 
 <script>
     function showTopic(topicId) {
@@ -249,6 +250,4 @@ function openModal(img) {
     document.addEventListener('DOMContentLoaded', function() {
         showTopic('graduation');
     });
-<script>
-
 </script>
