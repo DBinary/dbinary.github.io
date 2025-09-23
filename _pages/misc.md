@@ -10,7 +10,7 @@ page_specific_css: /_pages/misc_style.css
 
 <!-- filter Navigation -->
 <div class="filter-container" style="margin-bottom: 2em;">
-    <a href="#" class="filter-link.active" id="filter-graduation" onclick="showTopic('graduation'); return false;">🎓 Graduation Moments 11</a>
+    <a href="#" class="filter-link.active" id="filter-graduation" onclick="showTopic('graduation'); return false;">🎓 Graduation Moments 112</a>
     <span class="filter-separator">/</span>
     <a href="#" class="filter-link" id="filter-teaching" onclick="showTopic('teaching'); return false;">👨‍🏫 Teaching Assistant Experience</a>
     <span class="filter-separator">/</span>
@@ -18,7 +18,7 @@ page_specific_css: /_pages/misc_style.css
 </div>
 
 <!-- Graduation Moments filter Content -->
-<div id="section-graduation" class="filter-section">
+<div id="section-graduation" class="topic-section">
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_6.jpg' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
