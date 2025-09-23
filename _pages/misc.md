@@ -8,7 +8,17 @@ page_specific_css: /_pages/misc_style.css
 
 ## 📷 Gallery Wall
 
-### 🎓 Graduation Moments
+<!-- Tab Navigation -->
+<div class="tab-container" style="margin-bottom: 2em;">
+    <a href="#" class="tab-link active" id="tab-graduation" onclick="showTab('graduation'); return false;">🎓 Graduation Moments</a>
+    <span class="tab-separator">|</span>
+    <a href="#" class="tab-link" id="tab-teaching" onclick="showTab('teaching'); return false;">👨‍🏫 Teaching Assistant Experience</a>
+    <span class="tab-separator">|</span>
+    <a href="#" class="tab-link" id="tab-friends" onclick="showTab('friends'); return false;">👥 Friends and Memories</a>
+</div>
+
+<!-- Graduation Moments Tab Content -->
+<div id="section-graduation" class="tab-section">
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_6.jpg' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
@@ -80,7 +90,10 @@ page_specific_css: /_pages/misc_style.css
 </div>
 </div>
 
-### 👨‍🏫 Teaching Assistant Experience
+</div>
+
+<!-- Teaching Assistant Experience Tab Content -->
+<div id="section-teaching" class="tab-section hidden">
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">PEBBLE Summer Campus 2024</div><img src='../images/PEBBLE_2024_1.jpg' alt="PEBBLE TA Experience" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
@@ -124,7 +137,10 @@ page_specific_css: /_pages/misc_style.css
 </div>
 </div>
 
-### 👥 Friends and Memories
+</div>
+
+<!-- Friends and Memories Tab Content -->
+<div id="section-friends" class="tab-section hidden">
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Class 2103 2022</div><img src='../images/csu_2103.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
@@ -146,7 +162,9 @@ page_specific_css: /_pages/misc_style.css
 </div>
 </div>
 
+</div>
 
+<!-- Modal for photo viewing -->
 <div id="photo-modal" class="modal">
   <span class="modal-close">&times;</span>
   <img class="modal-content" id="modal-img">
@@ -161,6 +179,25 @@ function openModal(img) {
         modal.style.display = "block";
         modalImg.src = img.src;
     }
+}
+
+// Tab switching functionality
+function showTab(tabName) {
+    // Hide all sections
+    const sections = document.querySelectorAll('.tab-section');
+    sections.forEach(section => {
+        section.classList.add('hidden');
+    });
+
+    // Remove active class from all tabs
+    const tabs = document.querySelectorAll('.tab-link');
+    tabs.forEach(tab => {
+        tab.classList.remove('active');
+    });
+
+    // Show selected section and activate corresponding tab
+    document.getElementById('section-' + tabName).classList.remove('hidden');
+    document.getElementById('tab-' + tabName).classList.add('active');
 }
 
 // Ensure modal close functionality

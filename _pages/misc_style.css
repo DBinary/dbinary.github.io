@@ -642,3 +642,61 @@
       order: 2;
     }
   }
+}
+
+/* Tab Navigation Styles - Based on research publications filter styling */
+.tab-container {
+  margin: 20px 0;
+  padding: 10px 0;
+  border-bottom: 2px solid #f0f0f0;
+  text-align: center;
+}
+
+.tab-link {
+  color: #0066cc;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.tab-link:hover {
+  background-color: #f0f0f0;
+}
+
+.tab-link.active {
+  background-color: #0066cc;
+  color: white;
+}
+
+.tab-separator {
+  margin: 0 10px;
+  color: #666;
+}
+
+/* Tab Content Sections */
+.tab-section {
+  margin: 20px 0;
+}
+
+.tab-section.hidden {
+  display: none;
+}
+
+/* Smooth fade-in animation for tab transitions */
+.tab-section {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
