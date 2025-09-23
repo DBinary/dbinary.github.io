@@ -217,7 +217,6 @@ page_specific_css: /_pages/misc_style.css
   <img class="modal-content" id="modal-img">
 </div>
 
-<script src="/_pages/misc.js"></script>
 <script>
 function openModal(img) {
     const modal = document.getElementById('photo-modal');
@@ -250,4 +249,7 @@ function openModal(img) {
     document.addEventListener('DOMContentLoaded', function() {
         showTopic('graduation');
     });
+
+<script src="/_pages/misc.js"></script>
+
 </script>
