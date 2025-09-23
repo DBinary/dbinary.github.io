@@ -11,9 +11,9 @@ page_specific_css: /_pages/misc_style.css
 <!-- Tab Navigation -->
 <div class="tab-container" style="margin-bottom: 2em;">
     <a href="#" class="tab-link active" id="tab-graduation" onclick="showTab('graduation'); return false;">🎓 Graduation Moments</a>
-    <span class="tab-separator">|</span>
+    <span class="tab-separator">/</span>
     <a href="#" class="tab-link" id="tab-teaching" onclick="showTab('teaching'); return false;">👨‍🏫 Teaching Assistant Experience</a>
-    <span class="tab-separator">|</span>
+    <span class="tab-separator">/</span>
     <a href="#" class="tab-link" id="tab-friends" onclick="showTab('friends'); return false;">👥 Friends and Memories</a>
 </div>
 
@@ -200,7 +200,7 @@ function showTab(tabName) {
     document.getElementById('tab-' + tabName).classList.add('active');
 }
 
-// Ensure modal close functionality
+// Ensure modal close functionality and initialize tabs
 document.addEventListener('DOMContentLoaded', function() {
     const modal = document.getElementById('photo-modal');
     const closeBtn = document.querySelector('.modal-close');
@@ -218,5 +218,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         };
     }
+
+    // Initialize with graduation section shown by default
+    showTab('graduation');
 });
 </script>
