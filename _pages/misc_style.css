@@ -644,15 +644,15 @@
   }
 }
 
-/* Tab Navigation Styles - Based on research publications filter styling */
-.tab-container {
+/* filter Navigation Styles - Based on research publications filter styling */
+.filter-container {
   margin: 20px 0;
   padding: 10px 0;
   border-bottom: 2px solid #f0f0f0;
   text-align: center;
 }
 
-.tab-link {
+.filter-link {
   color: #0066cc;
   text-decoration: none;
   cursor: pointer;
@@ -662,31 +662,31 @@
   transition: background-color 0.3s;
 }
 
-.tab-link:hover {
+.filter-link:hover {
   background-color: #f0f0f0;
 }
 
-.tab-link.active {
+.filter-link.active {
   background-color: #0066cc;
   color: white;
 }
 
-.tab-separator {
+.filter-separator {
   margin: 0 10px;
   color: #666;
 }
 
-/* Tab Content Sections */
-.tab-section {
+/* filter Content Sections */
+.filter-section {
   margin: 20px 0;
 }
 
-.tab-section.hidden {
+.filter-section.hidden {
   display: none;
 }
 
-/* Smooth fade-in animation for tab transitions */
-.tab-section {
+/* Smooth fade-in animation for filter transitions */
+.filter-section {
   animation: fadeIn 0.3s ease-in-out;
 }
 
