@@ -251,4 +251,4 @@ function openModal(img) {
     });
 </script>
 
-``<script src="/_pages/misc.js"></script>``
+<script src="/_pages/misc.js"></script>
