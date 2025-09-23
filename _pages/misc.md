@@ -181,6 +181,29 @@ function openModal(img) {
     }
 }
 
+<script>
+    function showTopic(topicId) {
+        // Remove active class from all filter links
+        const filterLinks = document.querySelectorAll('.tab-link');
+        filterLinks.forEach(link => link.classList.remove('active'));
+
+        // Add active class to selected topic
+        document.getElementById('tab-' + topicId).classList.add('active');
+
+        // Hide all sections first
+        const sections = document.querySelectorAll('.topic-section');
+        sections.forEach(section => section.classList.add('hidden'));
+
+        // Show selected section
+        document.getElementById('section-' + topicId).classList.remove('hidden');
+    }
+
+    // Initialize with LLM section shown by default
+    document.addEventListener('DOMContentLoaded', function() {
+        showTopic('llm');
+    });
+</script>
+
 // Tab switching functionality
 function showTab(tabName) {
     // Hide all sections
