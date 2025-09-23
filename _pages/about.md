@@ -32,7 +32,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BioRxiv</div><img src='../images/starnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2) **Lei Hu<sup>†</sup>**, Shichen Zhang<sup>†</sup>, Xuting Zhang<sup>†</sup>, Yihai Luo<sup>†</sup>, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>. *<b>BioRxiv (now under review in Nature Methods)</b>*, 2025.08 21.671434 (2025).<br>
+[STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2) **Lei Hu<sup>†</sup>**, Shichen Zhang<sup>†</sup>, Xuting Zhang<sup>†</sup>, Yihai Luo<sup>†</sup>, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>. *<b>BioRxiv (now under peer review in Nature Methods)</b>*, 2025.08 21.671434 (2025).<br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2">Biorxiv</a></span><br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -96,16 +96,16 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 ## 👑 Awards and Honors
   + 2025: Outstanding Youth League Members of Hangzhou Education Bureau System (杭州教育系统优秀共青团员)
   + 2024: National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生))
-  + 2024: National Scholarship
+  + 2024: National Scholarship, Ministry of Education
   + 2024: Innovation Awards, Westlake University
-  + 2023: Dean Award (Top Award of Undergraduate Students)
-  + 2023: "San Hao" Graduate
+  + 2023: Dean Award, School of Advanced Engineering, USTB (Top Award of Undergraduate Students)
+  + 2023: "San Hao" Graduate, USTB
   + 2023: Outstanding Graduation Thesis of USTB
-  + 2022: Zhongtian Steel Scholarship
-  + 2022: Huawei Intelligent Base Scholarship
-  + 2021: Tongda Scholarship (1/146)
-  + 2021: Outstanding "San Hao" Student 
-  + 2020: People Scholarship (First Class)
+  + 2022: Zhongtian Steel Scholarship, USTB
+  + 2022: Huawei Intelligent Base Scholarship, USTB
+  + 2021: Tongda Scholarship (1/146), USTB
+  + 2021: Outstanding "San Hao" Student, USTB
+  + 2020: People Scholarship (First Class), USTB
 
 ## 🎤 Talks
   + Spatiotemporal Mapping of Gene Regulatory Networks using Spatial Multi-omics Data, Systems and Synthetic Biology Program ECR Seminar, School of Life Sciences, Westlake University, June 2025.
