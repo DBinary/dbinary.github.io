@@ -97,11 +97,31 @@ page_specific_css: /_pages/misc_style.css
 <!-- GraduationCSU Moments filter Content -->
 <div id="section-graduationCSU" class="topic-section hidden">
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Class 2103 2022</div><img src='../images/csu_2103.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Graduation</div><img src='../images/CSU_graduation_1.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-📅: January, 2022<br>
+📅: June, 2025<br>
 
 🧑: Me and my friends of the Class 2103 of Automation and Electrical Appliances (Central South University, School of Automation). <br>
+
+📍: Central South University, Changsha, Hunan Province, China
+</div>
+</div>
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Graduation</div><img src='../images/CSU_graduation_2.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: June, 2025<br>
+
+🧑: Me and my friends of the Class 2103 of Automation and Electrical Appliances (Central South University, School of Automation). <br>
+
+📍: Central South University, Changsha, Hunan Province, China
+</div>
+</div>
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Graduation</div><img src='../images/CSU_graduation_3.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: June, 2025<br>
+
+🧑: Me and my friend (Zheming Zhang). <br>
 
 📍: Central South University, Changsha, Hunan Province, China
 </div>
@@ -169,7 +189,7 @@ page_specific_css: /_pages/misc_style.css
 <!-- Friends and Memories filter Content -->
 <div id="section-friends" class="topic-section hidden">
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Class 2103 2022</div><img src='../images/csu_2103.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Class 2103</div><img src='../images/csu_2103.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: January, 2022<br>
 
@@ -179,7 +199,7 @@ page_specific_css: /_pages/misc_style.css
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Westlake Friends 2024</div><img src='../images/westlake_bar.jpg' alt="Westlake University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Westlake Friends</div><img src='../images/westlake_bar.jpg' alt="Westlake University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2024<br>
 
