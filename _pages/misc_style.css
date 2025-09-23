@@ -677,11 +677,11 @@
 }
 
 /* filter Content Sections */
-.filter-section {
+.topic-section {
   margin: 20px 0;
 }
 
-.filter-section.hidden {
+.topic-section.hidden {
   display: none;
 }
 
