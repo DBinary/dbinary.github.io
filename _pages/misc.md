@@ -10,21 +10,21 @@ page_specific_css: /_pages/misc_style.css
 
 ### 🎓 Graduation Moments
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_6.png' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_6.jpg' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2025<br>
 
-🧑: Me, Yihan Zhao and Peng Liu<br>
+🧑: Me and my friends of the same undergraduate laboratory (Peng Liu and Yihan Zhao)<br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_5.png' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_5.jpg' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2025<br>
 
-🧑: Me and Peng Liu<br>
+🧑:  Me and my friend of the same undergraduate laboratory (Peng Liu)<br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
@@ -44,7 +44,7 @@ page_specific_css: /_pages/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2024<br>
 
-🧑: Me and my friends of the same undergraduate laboratory<br>
+🧑: Me and my friends of the same undergraduate laboratory (Peng Liu and Yihan Zhao)<br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
