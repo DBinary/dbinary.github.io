@@ -16,7 +16,7 @@ page_specific_css: /assets/css/misc_style.css
     <span class="filter-separator">/</span>
     <a href="#" class="filter-link" id="filter-graduationOther" onclick="showTopic('graduationOther'); return false;">Graduation (Other)</a>
     <span class="filter-separator">/</span>
-    <a href="#" class="filter-link" id="filter-teaching" onclick="showTopic('teaching'); return false;">TA Story</a>
+    <a href="#" class="filter-link" id="filter-teaching" onclick="showTopic('teaching'); return false;">TA Experience</a>
     <span class="filter-separator">/</span>
     <a href="#" class="filter-link" id="filter-friends" onclick="showTopic('friends'); return false;">Friends</a>
 </div>
@@ -28,7 +28,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2025<br>
 
-🧑: Me and my friends of the same undergraduate laboratory (Peng Liu and Yihan Zhao)<br>
+🧑: Me and my friends of the same undergraduate laboratory (Peng Liu and Yihan Zhao). <br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
@@ -38,7 +38,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2025<br>
 
-🧑:  Me and my friend of the same undergraduate laboratory (Peng Liu)<br>
+🧑:  Me and my friend of the same undergraduate laboratory (Peng Liu). <br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
@@ -48,7 +48,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2024<br>
 
-🧑: Me and my friends of Class 2024 of School of Advanced Engineering<br>
+🧑: Me and my friends of Class 2024 of School of Advanced Engineering. <br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
@@ -58,7 +58,27 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2024<br>
 
-🧑: Me and my friends of the same undergraduate laboratory (Peng Liu and Yihan Zhao)<br>
+🧑: Me and my friends of the same undergraduate laboratory (Peng Liu and Yihan Zhao). <br>
+
+📍: University of Science and Technology Beijing, Beijing, China
+</div>
+</div>
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation with Friends</div><img src='../images/ustb_graduation_0.jpg' alt="USTB Graduation Memories" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: June, 2024<br>
+
+🧑: Me and my friends of the same major. <br>
+
+📍: University of Science and Technology Beijing, Beijing, China
+</div>
+</div>
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation with Friends</div><img src='../images/ustb_graduation_-1.jpg' alt="USTB Graduation Memories" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: June, 2024<br>
+
+🧑: Me and my friends of the same major.<br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
@@ -68,7 +88,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2024<br>
 
-🧑: Me<br>
+🧑: Me.<br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
@@ -78,7 +98,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2023<br>
 
-🧑: The president of USTB and me <br>
+🧑: The president of USTB and me.<br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
@@ -128,7 +148,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2023<br>
 
-🧑: Me and my friends <br>
+🧑: Me and my friends. <br>
 
 📍: Shanxi University, Taiyuan, Shanxi Province, China
 </div>
@@ -138,7 +158,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2023<br>
 
-🧑: Me and my friends <br>
+🧑: Me and my friends of PKU and THU. <br>
 
 📍: Tsinghua University, Beijing, China
 </div>
@@ -148,7 +168,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2023<br>
 
-🧑: Me and my friends <br>
+🧑: Me and my friends of PKU and THU. <br>
 
 📍: Peking University, Beijing, China
 </div>
@@ -163,7 +183,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: August, 2024<br>
 
-🧑: Me (TA) and my friends of the PEBBLE summer campus <br>
+🧑: Me (TA) and my friends of the PEBBLE summer campus.<br>
 
 📍: Huzhou, Zhejiang Province, China
 </div>
@@ -174,7 +194,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: August, 2024<br>
 
-🧑: Me (TA) and my friends of the PEBBLE summer campus <br>
+🧑: Me (TA) and my friends of the PEBBLE summer campus.<br>
 
 📍: Westlake University, Hangzhou, Zhejiang Province, China
 </div>
@@ -184,7 +204,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: August, 2024<br>
 
-🧑: Me (TA) and my friends of the PEBBLE summer campus <br>
+🧑: Me (TA) and my friends of the PEBBLE summer campus.<br>
 
 📍: Shaoxing, Zhejiang Province, China
 </div>
@@ -195,7 +215,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: August, 2024<br>
 
-🧑: Me (TA) and my friends of the PEBBLE summer campus <br>
+🧑: Me (TA) and my friends of the PEBBLE summer campus.<br>
 
 📍: Shaoxing, Zhejiang Province, China
 </div>
