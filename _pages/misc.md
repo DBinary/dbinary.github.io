@@ -248,6 +248,5 @@ function openModal(img) {
     document.addEventListener('DOMContentLoaded', function() {
         showTopic('graduation');
     });
-</script>
-
+    
 <script src="/_pages/misc.js"></script>
