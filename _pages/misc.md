@@ -78,7 +78,7 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2024<br>
 
-🧑: Me and my friends of the same major.<br>
+🧑: Me and my friends of the same major. <br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
@@ -88,17 +88,17 @@ page_specific_css: /assets/css/misc_style.css
 <div class='mics-box-text' markdown="1">
 📅: June, 2024<br>
 
-🧑: Me.<br>
+🧑: Me. <br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation< with President/div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation< with President</div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2023<br>
 
-🧑: The president of USTB and me.<br>
+🧑: The president of USTB and me. <br>
 
 📍: University of Science and Technology Beijing, Beijing, China
 </div>
