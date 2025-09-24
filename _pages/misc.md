@@ -66,7 +66,7 @@ page_specific_css: /assets/css/misc_style.css
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation with Friends</div><img src='../images/ustb_graduation_0.png' alt="USTB Graduation Memories" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-📅: June, 2024<br>
+📅: June, 2023<br>
 
 🧑: Me and my friends of the same major. <br>
 
@@ -76,7 +76,7 @@ page_specific_css: /assets/css/misc_style.css
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation with Friends</div><img src='../images/ustb_graduation_-1.jpg' alt="USTB Graduation Memories" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-📅: June, 2024<br>
+📅: June, 2023<br>
 
 🧑: Me and my friends of the same major. <br>
 
@@ -86,7 +86,7 @@ page_specific_css: /assets/css/misc_style.css
 
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_4.jpg' alt="USTB Graduation Memories" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
-📅: June, 2024<br>
+📅: June, 2023<br>
 
 🧑: Me. <br>
 
