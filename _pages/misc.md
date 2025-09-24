@@ -123,22 +123,6 @@ page_specific_css: /assets/css/misc_style.css
 
 🧑: Me and my friend (Zheming Zhang). <br>
 
-📍: Central South University, Changsha, Hunan Province, China
-</div>
-</div>
-
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Westlake Friends 2024</div><img src='../images/westlake_bar.jpg' alt="Westlake University Friends" onclick="openModal(this)"></div></div>
-<div class='mics-box-text' markdown="1">
-📅: June, 2024<br>
-
-🧑: Me and my friends (Peng Liu and Zhaorui Jiang). <br>
-
-📍: Westlake University, Hangzhou, Zhejiang Province, China
-</div>
-</div>
-
-</div>
-
 <!-- Teaching Assistant Experience filter Content -->
 <div id="section-teaching" class="topic-section hidden">
 
