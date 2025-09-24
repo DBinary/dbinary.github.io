@@ -24,7 +24,7 @@ page_specific_css: /assets/css/misc_style.css
 <!-- Graduation Moments filter Content -->
 <div id="section-graduation" class="topic-section">
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_6.jpg' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation with Friends</div><img src='../images/ustb_graduation_6.jpg' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2025<br>
 
@@ -34,7 +34,7 @@ page_specific_css: /assets/css/misc_style.css
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_5.jpg' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation with Bosom Friend</div><img src='../images/ustb_graduation_5.jpg' alt="USTB Graduation 2025" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2025<br>
 
@@ -44,7 +44,7 @@ page_specific_css: /assets/css/misc_style.css
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_1.png' alt="USTB Graduation 2024" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation with Friends</div><img src='../images/ustb_graduation_1.png' alt="USTB Graduation 2024" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2024<br>
 
@@ -54,7 +54,7 @@ page_specific_css: /assets/css/misc_style.css
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_2.jpg' alt="USTB Graduation Celebration" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation with Friends</div><img src='../images/ustb_graduation_2.jpg' alt="USTB Graduation Celebration" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2024<br>
 
@@ -94,7 +94,7 @@ page_specific_css: /assets/css/misc_style.css
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation</div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation< with President/div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2023<br>
 
@@ -109,7 +109,7 @@ page_specific_css: /assets/css/misc_style.css
 <!-- GraduationCSU Moments filter Content -->
 <div id="section-graduationCSU" class="topic-section hidden">
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Graduation</div><img src='../images/CSU_graduation_1.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Graduation with Friends</div><img src='../images/CSU_graduation_1.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2025<br>
 
@@ -119,7 +119,7 @@ page_specific_css: /assets/css/misc_style.css
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Graduation</div><img src='../images/CSU_graduation_2.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Graduation with Friends</div><img src='../images/CSU_graduation_2.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2025<br>
 
@@ -129,7 +129,7 @@ page_specific_css: /assets/css/misc_style.css
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Graduation</div><img src='../images/CSU_graduation_3.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Graduation with Bosom Friend</div><img src='../images/CSU_graduation_3.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2025<br>
 
