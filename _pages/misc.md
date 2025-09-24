@@ -123,6 +123,8 @@ page_specific_css: /assets/css/misc_style.css
 
 🧑: Me and my friend (Zheming Zhang). <br>
 
+</div>
+
 <!-- Teaching Assistant Experience filter Content -->
 <div id="section-teaching" class="topic-section hidden">
 
