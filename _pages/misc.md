@@ -3,7 +3,7 @@ layout: archive
 title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
-page_specific_css: /_pages/misc_style.css
+page_specific_css: /assets/css/misc_style.css
 ---
 
 ## 📷 Gallery Wall
@@ -211,42 +211,4 @@ page_specific_css: /_pages/misc_style.css
 
 </div>
 
-<!-- Modal for photo viewing -->
-<div id="photo-modal" class="modal">
-  <span class="modal-close">&times;</span>
-  <img class="modal-content" id="modal-img">
-</div>
-
-<script>
-function openModal(img) {
-    const modal = document.getElementById('photo-modal');
-    const modalImg = document.getElementById('modal-img');
-    if (modal && modalImg) {
-        modal.style.display = "block";
-        modalImg.src = img.src;
-    }
-}
-
-function showTopic(topicId) {
-    // Remove active class from all filter links
-    const filterLinks = document.querySelectorAll('.filter-link');
-    filterLinks.forEach(link => link.classList.remove('active'));
-
-    // Add active class to selected topic
-    document.getElementById('filter-' + topicId).classList.add('active');
-
-    // Hide all sections first
-    const sections = document.querySelectorAll('.topic-section');
-    sections.forEach(section => section.classList.add('hidden'));
-
-    // Show selected section
-    document.getElementById('section-' + topicId).classList.remove('hidden');
-}
-
-// Initialize with graduation section shown by default
-document.addEventListener('DOMContentLoaded', function() {
-    showTopic('graduation');
-});
-</script>
-    
-<script src="/_pages/misc.js"></script>
+<script src="{{ '/assets/js/misc.js' | relative_url }}" defer></script>
