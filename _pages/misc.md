@@ -94,7 +94,7 @@ page_specific_css: /assets/css/misc_style.css
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation< with President</div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" onclick="openModal(this)"></div></div>
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">USTB Graduation with President</div><img src='../images/ustb_graduation_3.jpg' alt="USTB Graduation 2023" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: June, 2023<br>
 
