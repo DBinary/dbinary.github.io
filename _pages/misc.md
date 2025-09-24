@@ -179,6 +179,26 @@ page_specific_css: /assets/css/misc_style.css
 <!-- Friends and Memories filter Content -->
 <div id="section-friends" class="topic-section hidden">
 
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Westlake University Delta College</div><img src='../images/delta_college_2025_1.jpg' alt="Westlake University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: September, 2025<br>
+
+🧑: Me and my friends of the new undergraduates of Delta College. <br>
+
+📍: Westlake University, Hangzhou, Zhejiang Province, China
+</div>
+</div>
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Westlake University Delta College</div><img src='../images/delta_college_2025_2.jpg' alt="Westlake University Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: August, 2025<br>
+
+🧑: Me and my friends of the new undergraduates of Delta College. <br>
+
+📍: Westlake University, Hangzhou, Zhejiang Province, China
+</div>
+</div>
+
 <div class='mics-box'><div class='mics-box-image'><div><div class="badge">CSU Class 2103</div><img src='../images/csu_2103.jpg' alt="Central South University Friends" onclick="openModal(this)"></div></div>
 <div class='mics-box-text' markdown="1">
 📅: January, 2022<br>
@@ -186,6 +206,16 @@ page_specific_css: /assets/css/misc_style.css
 🧑: Me and my friends of the Class 2103 of Automation and Electrical Appliances (Central South University, School of Automation). <br>
 
 📍: Central South University, Changsha, Hunan Province, China
+</div>
+</div>
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">My Friend</div><img src='../images/Songjinhan.jpg' alt="Friends" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: August, 2023<br>
+
+🧑: Me and my friend. <br>
+
+📍: Qingdao, Shandong Province, China
 </div>
 </div>
 

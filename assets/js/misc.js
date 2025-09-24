@@ -1,20 +1,47 @@
-// Expose functions globally so inline onclick still works
+// Robust modal + topic filter script for /misc page
+// - Exposes openModal and showTopic globally for inline onclick compatibility
+// - Adds delegated click handlers so inline onclick can be removed safely
+// - Safely initializes and even creates the modal markup if missing
+
 (function () {
-  function openModal(img) {
-    const modal = document.getElementById('photo-modal');
-    const modalImg = document.getElementById('modal-img');
+  // Ensure modal elements exist; create if missing
+  function ensureModal() {
+    let modal = document.getElementById('photo-modal');
+    let modalImg = document.getElementById('modal-img');
+
+    if (!modal) {
+      modal = document.createElement('div');
+      modal.id = 'photo-modal';
+      modal.className = 'modal';
+      modal.innerHTML = `
+        <span class="modal-close">&times;</span>
+        <img class="modal-content" id="modal-img">
+      `;
+      document.body.appendChild(modal);
+      modalImg = document.getElementById('modal-img');
+    }
+
+    const closeBtn = modal.querySelector('.modal-close');
+    return { modal, modalImg, closeBtn };
+  }
+
+  // Global: open image modal
+  window.openModal = function (img) {
+    const { modal, modalImg } = ensureModal();
     if (modal && modalImg && img && img.src) {
       modal.style.display = 'block';
       modalImg.src = img.src;
+      modalImg.alt = img.alt || '';
     }
-  }
+  };
 
-  function showTopic(topicId) {
+  // Global: filter topic sections
+  window.showTopic = function (topicId) {
     // Remove active class from all filter links
     const filterLinks = document.querySelectorAll('.filter-link');
     filterLinks.forEach(link => link.classList.remove('active'));
 
-    // Add active class to selected topic
+    // Add active class to selected topic (guard if element not found)
     const activeLink = document.getElementById('filter-' + topicId);
     if (activeLink) activeLink.classList.add('active');
 
@@ -25,60 +52,45 @@
     // Show selected section
     const sectionEl = document.getElementById('section-' + topicId);
     if (sectionEl) sectionEl.classList.remove('hidden');
-  }
+  };
 
-  // Attach to window
-  window.openModal = openModal;
-  window.showTopic = showTopic;
-})();
+  document.addEventListener('DOMContentLoaded', function () {
+    const { modal, modalImg, closeBtn } = ensureModal();
 
-// Modal interactions and default init
-document.addEventListener('DOMContentLoaded', function () {
-  const modal = document.getElementById('photo-modal');
-  const modalImg = document.getElementById('modal-img');
-  const closeBtn = document.querySelector('.modal-close');
+    // Event delegation for images (works even without inline onclick)
+    document.addEventListener('click', function (e) {
+      // Click on any image inside .mics-box or .mics-box-image, or with data-modal attribute
+      const img = e.target.closest('.mics-box img, .mics-box-image img, img[data-modal]');
+      if (img) {
+        window.openModal(img);
+        return;
+      }
 
-  // Bind click on images (works even if inline onclick is removed)
-  if (modal && modalImg && closeBtn) {
-    document
-      .querySelectorAll('.mics-box img, .mics-box-image img')
-      .forEach(img => {
-        img.addEventListener('click', function () {
-          modal.style.display = 'block';
-          modalImg.src = this.src;
-        });
-      });
-
-    closeBtn.onclick = function () {
-      modal.style.display = 'none';
-    };
-
-    window.addEventListener('click', function (event) {
-      if (event.target === modal) {
+      // Close when clicking close button or backdrop
+      if (e.target === modal || e.target === closeBtn) {
         modal.style.display = 'none';
       }
     });
-  } else {
-    console.warn(
-      'Modal elements (#photo-modal, #modal-img, .modal-close) not all found. ' +
-        'Image click functionality might be affected. Ensure these elements exist in your HTML.'
-    );
-  }
 
-  // Initialize with graduation section shown by default
-  if (typeof window.showTopic === 'function') {
-    window.showTopic('graduation');
-  }
-});
+    // ESC to close modal
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && modal && modal.style.display === 'block') {
+        modal.style.display = 'none';
+      }
+    });
 
-// --- 菜单切换逻辑（保留原有功能） ---
-const menuToggle = document.getElementById('menu-toggle');
-const navLinks = document.querySelector('.nav-links');
-
-if (menuToggle && navLinks) {
-  menuToggle.addEventListener('click', () => {
-    navLinks.classList.toggle('active');
+    // Initialize default section safely
+    if (typeof window.showTopic === 'function') {
+      window.showTopic('graduation');
+    }
   });
-} else {
-  // console.log('Menu toggle elements not found on this page (expected on some pages).');
-}
+
+  // Menu toggle logic (no-op if elements absent)
+  const menuToggle = document.getElementById('menu-toggle');
+  const navLinks = document.querySelector('.nav-links');
+  if (menuToggle && navLinks) {
+    menuToggle.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+    });
+  }
+})();
