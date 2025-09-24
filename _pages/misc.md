@@ -16,7 +16,7 @@ page_specific_css: /assets/css/misc_style.css
     <span class="filter-separator">/</span>
     <a href="#" class="filter-link" id="filter-graduationOther" onclick="showTopic('graduationOther'); return false;">🎓 Graduation (Other)</a>
     <span class="filter-separator">/</span>
-    <a href="#" class="filter-link" id="filter-teaching" onclick="showTopic('teaching'); return false;">👨‍🏫 TA Experience</a>
+    <a href="#" class="filter-link" id="filter-teaching" onclick="showTopic('teaching'); return false;">👨‍🏫 TA Story</a>
     <span class="filter-separator">/</span>
     <a href="#" class="filter-link" id="filter-friends" onclick="showTopic('friends'); return false;">👥 Friends</a>
 </div>
