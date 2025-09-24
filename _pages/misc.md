@@ -14,6 +14,8 @@ page_specific_css: /assets/css/misc_style.css
     <span class="filter-separator">/</span>
     <a href="#" class="filter-link" id="filter-graduationCSU" onclick="showTopic('graduationCSU'); return false;">🎓 Graduation (CSU)</a>
     <span class="filter-separator">/</span>
+    <a href="#" class="filter-link" id="filter-graduationOther" onclick="showTopic('graduationOther'); return false;">🎓 Graduation (Other)</a>
+    <span class="filter-separator">/</span>
     <a href="#" class="filter-link" id="filter-teaching" onclick="showTopic('teaching'); return false;">👨‍🏫 TA Experience</a>
     <span class="filter-separator">/</span>
     <a href="#" class="filter-link" id="filter-friends" onclick="showTopic('friends'); return false;">👥 Friends</a>
@@ -82,16 +84,6 @@ page_specific_css: /assets/css/misc_style.css
 </div>
 </div>
 
-<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Shanxi University 2023</div><img src='../images/SXU_2023.jpg' alt="Shanxi University" onclick="openModal(this)"></div></div>
-<div class='mics-box-text' markdown="1">
-📅: June, 2023<br>
-
-🧑: Me and my friends <br>
-
-📍: Shanxi University, Taiyuan, Shanxi Province, China
-</div>
-</div>
-
 </div>
 
 <!-- GraduationCSU Moments filter Content -->
@@ -124,6 +116,21 @@ page_specific_css: /assets/css/misc_style.css
 🧑: Me and my friend (Zheming Zhang). <br>
 
 📍: Central South University, Changsha, Hunan Province, China
+</div>
+</div>
+
+</div>
+
+<!-- GraduationOther Moments filter Content -->
+<div id="section-graduationOther" class="topic-section hidden">
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Shanxi University 2023</div><img src='../images/SXU_2023.jpg' alt="Shanxi University" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: June, 2023<br>
+
+🧑: Me and my friends <br>
+
+📍: Shanxi University, Taiyuan, Shanxi Province, China
 </div>
 </div>
 
