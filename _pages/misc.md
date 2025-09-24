@@ -134,6 +134,26 @@ page_specific_css: /assets/css/misc_style.css
 </div>
 </div>
 
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Tsinghua University 2023</div><img src='../images/Top2_2023_1.jpg' alt="Shanxi University" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: June, 2023<br>
+
+🧑: Me and my friends <br>
+
+📍: Tsinghua University, Beijing, China
+</div>
+</div>
+
+<div class='mics-box'><div class='mics-box-image'><div><div class="badge">Peking University 2023</div><img src='../images/Top2_2023_2.jpg' alt="Shanxi University" onclick="openModal(this)"></div></div>
+<div class='mics-box-text' markdown="1">
+📅: June, 2023<br>
+
+🧑: Me and my friends <br>
+
+📍: Peking University, Beijing, China
+</div>
+</div>
+
 </div>
 
 <!-- Teaching Assistant Experience filter Content -->
