@@ -226,7 +226,6 @@ function openModal(img) {
         modalImg.src = img.src;
     }
 }
-</script>
 
 <script>
     function showTopic(topicId) {
