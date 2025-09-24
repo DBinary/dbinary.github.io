@@ -232,7 +232,7 @@ page_specific_css: /assets/css/misc_style.css
 
 🧑: Me and my friends of the new undergraduates of Delta College. <br>
 
-📍: Westlake University, Hangzhou, Zhejiang Province, China
+📍: Hangzhou, Zhejiang Province, China
 </div>
 </div>
 
