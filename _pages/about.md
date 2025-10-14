@@ -133,5 +133,6 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
   * Yuntian Shi (undergraduate student at Westlake University)
   * Zimu Lin (undergraduate student at Westlake University)
   * Zimo Zhang (undergraduate student at Westlake University)
-
+  * Aoxin Wan (undergraduate student at Westlake University)
+  
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
