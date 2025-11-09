@@ -108,6 +108,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
   + 2020: People Scholarship (First Class), USTB
 
 ## 🎤 Talks
+  + [Inferring Spatial Gene Regulatory Networks from Multi-Omics Data](https://mp.weixin.qq.com/s/1lGVbU2clciPbuP_BLlPaw), College of Future Technology, Peking University, November 2025.
   + Spatiotemporal Mapping of Gene Regulatory Networks using Spatial Multi-omics Data, Systems and Synthetic Biology Program ECR Seminar, School of Life Sciences, Westlake University, June 2025.
   + [New functions and progress of OmicVerse, the python based framework for transcriptome data analysis](https://mp.weixin.qq.com/s/JX0BKKMCkBkDO-JRq7lKpA), BiolinkX, Zhejiang University, September 2024.
   + [OmicVerse - Introduction to the python based framework for transcriptome data analysis](https://mp.weixin.qq.com/s/PHE8vePsRMs9HouJTGsf9Q), BiolinkX, Online, September 2023.
