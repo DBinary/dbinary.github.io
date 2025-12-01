@@ -8,11 +8,9 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-      <!-- 修改：增加 id 和统一 class -->
-    	<img id="profile-avatar" src="{{ author.avatar }}" class="author__avatar-img" alt="{{ author.name }}">
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-      <!-- 修改：增加 id 和统一 class -->
-    	<img id="profile-avatar" src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar-img" alt="{{ author.name }}">
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
 
@@ -20,29 +18,6 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
-
-  {%- comment -%}
-    新增：Research Interests 区块
-    推荐在 _config.yml 的 author 段添加一个 research_interests 数组，例如：
-    
-    author:
-      name: ...
-      avatar: ...
-      research_interests:
-        - Natural Language Processing
-        - Machine Learning for Systems
-        - Large Language Models & Tools
-  {%- endcomment -%}
-  {% if author.research_interests %}
-  <div class="author__research">
-    <h4 class="author__research-title">Research Interests</h4>
-    <ul class="author__research-list">
-      {% for item in author.research_interests %}
-        <li class="author__research-item">{{ item }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
@@ -142,7 +117,7 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-      {% endif %}
+{% endif %}
     </ul>
   </div>
 </div>
