@@ -324,3 +324,68 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* 头像基础样式：改为方形 + 轻微悬停放大 */
+.author__avatar-img {
+  display: block;
+  width: 120px;           /* 可按需要调节 */
+  height: 120px;          /* 保持方形 */
+  object-fit: cover;
+  border-radius: 0;       /* 关键：取消圆形，变为方形 */
+  transition: transform 0.2s ease-out;
+  cursor: zoom-in;
+}
+
+/* 悬停时略微放大一点点（视觉反馈） */
+.author__avatar-img:hover {
+  transform: scale(1.03);
+}
+
+/* Research Interests 区块样式 */
+.author__research {
+  margin-top: 0.75rem;
+}
+
+.author__research-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 0 0 0.25rem;
+}
+
+.author__research-list {
+  margin: 0;
+  padding-left: 1.1rem;
+  font-size: 0.9rem;
+}
+
+.author__research-item {
+  line-height: 1.4;
+}
+
+/* 点击放大用的遮罩层和大图样式 */
+.avatar-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar-modal.is-active {
+  display: flex;
+}
+
+.avatar-modal__backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.avatar-modal__image {
+  position: relative;
+  max-width: 80vw;
+  max-height: 80vh;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.35);
+  border-radius: 0; /* 放大后的依然是方形，如果想略有圆角就改成 8px */
+}
