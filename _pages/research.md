@@ -26,4 +26,4 @@ author_profile: true
 &emsp; Research Intern at [APM](http://www.apm.cas.cn), advised by Prof. [Fuchun Lin](https://people.ucas.edu.cn/~linfuchun). 2021.07 - 2022.07
 
 <img src="../images/ustb.png" alt="USTB" style="width: 50px; height: 50px;" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/)  
-&emsp; Research Intern at [Metall](https://metall.ustb.edu.cn/), advised by Lecturer [Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm) . 2020.09 - 2021.09
+&emsp; Research Intern at [Metall](https://metall.ustb.edu.cn/), advised by Associate Professor [Rongbin Li](https://metall.ustb.edu.cn/szdw/jsjs/83d7b380b378434f83e47d12040d40c4.htm) . 2020.09 - 2021.09
