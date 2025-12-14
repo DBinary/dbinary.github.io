@@ -32,7 +32,7 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BioRxiv</div><img src='../images/starnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2) **Lei Hu<sup>†</sup>**, Shichen Zhang<sup>†</sup>, Xuting Zhang<sup>†</sup>, Yihai Luo<sup>†</sup>, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>. *<b>BioRxiv (Under Review in Nature Research Journal)</b>*, 2025.08 21.671434 (2025).<br>
+[STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2) **Lei Hu<sup>†</sup>**, Shichen Zhang<sup>†</sup>, Xuting Zhang<sup>†</sup>, Yihai Luo<sup>†</sup>, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>. *<b>BioRxiv (In Revision in Nature Research Journal)</b>*, 2025.08 21.671434 (2025).<br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2">Biorxiv</a></span><br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -69,16 +69,6 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://www.nature.com/articles/s41422-025-01155-y">Paper</a></span><br>
 </div>
-</div>
-
-## 📝 Preprints
-
-  [1] **Lei Hu<sup>†</sup>**, Peng Liu<sup>†</sup>, Zheming Zhang<sup>†</sup>, Yihan Zhao<sup>†</sup>, Yanchun Wang, Xin Zhang, Shuli Sang, Xiaopeng Cao, Sheng Yao, Yang Fei, Feide Liu, Chunjie Liu, Zehua Zeng<sup>✉</sup>, Hongwu Du<sup>✉</sup>, **ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in *Helicobacter Pylori* Infection**. (iMetaOmics, major revision)
-
-  [2] Yihan Zhao<sup>†</sup>, Peng Liu<sup>†</sup>, **Lei Hu<sup>†</sup>**, Mingxi Ke, Nan Min, Zehua Zeng<sup>✉</sup>, Hongwu Du<sup>✉</sup>, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
-
-  [3] Yushuai Wu, Ting Zhang, Hao Zhou, Hainan Wu, Hanwen Sunchu, **Lei Hu**, Xiaofang Chen, Suyuan Zhao, Gaochao Liu, Chao Sun, Jiahuan Zhang, Yizhen Luo, Peng Liu, Zaiqing Nie<sup>✉</sup>, Yushuai Wu<sup>✉</sup>, **DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation**, *arXiv preprint arXiv:2403.03768, 2024.* [[arXiv](https://arxiv.org/abs/2403.03768)]
-  
   
 ## 📖 Education
   <img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)                           
