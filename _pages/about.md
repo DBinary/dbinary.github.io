@@ -69,7 +69,8 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://www.nature.com/articles/s41422-025-01155-y">Paper</a></span><br>
 </div>
-  
+</div>
+
 ## 📖 Education
   <img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)                           
   &emsp; Ph.D. student in Biology, School of Life Sciences, advised by Prof. [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html) and Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 2023.08 - Present
