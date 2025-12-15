@@ -12,11 +12,12 @@ Hi! I am Lei Hu (胡磊), the third year Ph.D. candidate of Cell Biology Lab (�
 
 Previously, I received B.E. in Automation and B.S. in Biotechnology from [University of Science and Technology Beijing](http://en.ustb.edu.cn/) (北京科技大学高等工程师学院/化学与生物工程学院). I also studied at [Central South University](https://en.csu.edu.cn//) (中南大学自动化学院) as an exchange student.
 
-My main research interest focus on **AI for Life Sciences**, supported by the National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生)).
+My main research interest focus on **AI for Life Sciences**, supported by National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生)) and Doctoral Student Special Program of the CAST Young Science and Technology Talents Cultivation Project (中国科协青年科技人才培育工程博士生专项计划).
 
 ## 💬 Recent News
+  * *December,* *2025*. I am honored to be supported by **Doctoral Student Special Program of the CAST Young Science and Technology Talents Cultivation Project (中国科协青年科技人才培育工程博士生专项计划).**
   * *June,* *2025*. Ph.D. student → Ph.D. candidate.
-  * *December,* *2024*. I am honored to be supported by the **National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生))**.
+  * *December,* *2024*. I am honored to be supported by **National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生)).**
   * *October,* *2024*. I am honored to receive the **National Scholarship !**
   * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to **Department of Automation, Tsinghua University !**
   * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications !**
@@ -85,7 +86,8 @@ My main research interest focus on **AI for Life Sciences**, supported by the Na
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
 ## 👑 Awards and Honors
-  + 2025: Outstanding Youth League Members of Hangzhou Education Bureau System (杭州教育系统优秀共青团员)
+  + 2025: Doctoral Student Special Program of the 2025 CAST Young Science and Technology Talents Cultivation Project (中国科协青年科技人才培育工程博士生专项计划)
+  + 2025: Outstanding Youth League Members of Hangzhou Education Bureau System (杭州市教育系统优秀共青团员)
   + 2024: National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生))
   + 2024: National Scholarship, Ministry of Education
   + 2024: Innovation Awards, Westlake University
