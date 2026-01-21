@@ -72,7 +72,7 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In peer review</div><img src='../images/ProMeta_Figure1.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In peer review</div><img src='../images/ProMeta_Figure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics. Han Li<sup>†,✉</sup>, *Haoteng Gu<sup>†</sup>*, <b>Lei Hu<sup>†</sup><b>, *Zimo Zhang*, *Yongji Lv*, Peng Gao, Johnathan Cooper-Knock, Yaosen Min<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, Sai Zhang<sup>✉</sup>. (2026).
