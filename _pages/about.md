@@ -76,8 +76,6 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 <div class='paper-box-text' markdown="1">
 
 ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics. Han Li<sup>†,✉</sup>, *Haoteng Gu<sup>†</sup>*, <b>Lei Hu<sup>†</sup></b>, *Zimo Zhang*, *Yongji Lv*, Peng Gao, Johnathan Cooper-Knock, Yaosen Min<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, Sai Zhang<sup>✉</sup>. (2026).
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://www.nature.com/articles/s41422-025-01155-y">Paper</a></span><br>
 </div>
 </div>
 
