@@ -22,7 +22,7 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
   * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to **Department of Automation, Tsinghua University !**
   * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications !**
 
-## 📝 Recent Publications and Important Manuscripts (<sup>†</sup>: co-first author)
+## 📝 Recent Publications and Important Manuscripts (<sup>†</sup>: co-first author, *co-working student*)
 <style>
   table, th, td {
     border: 1px solid black;
@@ -75,7 +75,7 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In peer review</div><img src='../images/ProMeta_Figure1.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics. Han Li<sup>†,✉</sup>, Haoteng Gu<sup>†</sup>, <b>Lei Hu<sup>†</sup><b>, Zimo Zhang, Yongji Lv, Peng Gao, Johnathan Cooper-Knock, Yaosen Min<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, Sai Zhang<sup>✉</sup>. (2026).<br>
+ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics. Han Li<sup>†,✉</sup>, *Haoteng Gu<sup>†</sup>*, <b>Lei Hu<sup>†</sup><b>, *Zimo Zhang*, *Yongji Lv*, Peng Gao, Johnathan Cooper-Knock, Yaosen Min<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, Sai Zhang<sup>✉</sup>. (2026).
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://www.nature.com/articles/s41422-025-01155-y">Paper</a></span><br>
 </div>
