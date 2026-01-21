@@ -33,7 +33,7 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BioRxiv</div><img src='../images/starnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2) **Lei Hu<sup>†</sup>**, Shichen Zhang<sup>†</sup>, Xuting Zhang<sup>†</sup>, Yihai Luo<sup>†</sup>, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>. *<b>BioRxiv (In Revision in Nature Research Journal)</b>*, 2025.08 21.671434 (2025).<br>
+[STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2) **Lei Hu<sup>†</sup>**, Shichen Zhang<sup>†</sup>, *Xuting Zhang<sup>†</sup>*, Yihai Luo<sup>†</sup>, *Haoteng Gu*, *Peng Liu*, *Sheng Mao*, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>. *<b>BioRxiv (In Revision in Nature Research Journal)</b>*, 2025.08 21.671434 (2025).<br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2">Biorxiv</a></span><br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -44,7 +44,7 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='../images/omicverse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) Zehua Zeng<sup>†,✉</sup>, Yuqing Ma<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Bowen Tan, Peng Liu, Yixuan Wang, Cencan Xing<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>. *<b>Nature Communications</b>*, 15, 5983 (2024).<br>
+[OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) Zehua Zeng<sup>†,✉</sup>, Yuqing Ma<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Bowen Tan, *Peng Liu*, Yixuan Wang, Cencan Xing<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>. *<b>Nature Communications</b>*, 15, 5983 (2024).<br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://www.nature.com/articles/s41467-024-50194-3">Paper</a>, <a href="https://doi.org/10.1101/2023.06.06.543913">Biorxiv</a></span><br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -75,7 +75,7 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In peer review</div><img src='../images/ProMeta_Figure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics. Han Li<sup>†,✉</sup>, *Haoteng Gu<sup>†</sup>*, <b>Lei Hu<sup>†</sup><b>, *Zimo Zhang*, *Yongji Lv*, Peng Gao, Johnathan Cooper-Knock, Yaosen Min<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, Sai Zhang<sup>✉</sup>. (2026).
+ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics. Han Li<sup>†,✉</sup>, *Haoteng Gu<sup>†</sup>*, <b>Lei Hu<sup>†</sup></b>, *Zimo Zhang*, *Yongji Lv*, Peng Gao, Johnathan Cooper-Knock, Yaosen Min<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, Sai Zhang<sup>✉</sup>. (2026).
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://www.nature.com/articles/s41422-025-01155-y">Paper</a></span><br>
 </div>
