@@ -95,6 +95,7 @@ ProMeta: A meta-learning framework for robust disease diagnosis and prediction f
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
 ## 👑 Awards and Honors
+  + 2025: Outstanding Graduate Student Award, Exploration Award, Westlake University 
   + 2025: Doctoral Student Special Program of the 2025 CAST Young Science and Technology Talents Cultivation Project (中国科协青年科技人才培育工程博士生专项计划)
   + 2025: Outstanding Youth League Members of Hangzhou Education Bureau System (杭州市教育系统优秀共青团员)
   + 2024: National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生))
