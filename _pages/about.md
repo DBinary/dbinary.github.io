@@ -140,4 +140,8 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
   * Aoxin Wan (undergraduate student at Westlake University)
   * Yongji Lv (undergraduate student at Westlake University)  
   
+## 🤗 Academic Service
+  * Reviewer, ISMB 2026
+  * Editor assistant, Protein Cell
+
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
