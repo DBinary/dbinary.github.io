@@ -140,7 +140,8 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
   * Zimo Zhang (undergraduate student at Westlake University)
   * Aoxin Wan (undergraduate student at Westlake University)
   * Yongji Lv (undergraduate student at Westlake University)  
-  
+  * Bowen Guo (8-years M.D. student at Westlake University and Southern Medical University)  
+
 ## 🤗 Academic Service
   * Reviewer, ISMB 2026
   * Editor assistant, Protein Cell
