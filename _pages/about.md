@@ -68,9 +68,10 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 <div class='paper-box-text' markdown="1">
 
 [ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics](https://www.biorxiv.org/content/10.64898/2026.01.28.702242v1.abstract). Han Li<sup>†,✉</sup>, *Haoteng Gu<sup>†</sup>*, <b>Lei Hu<sup>†</sup></b>, *Zimo Zhang*, *Yongji Lv*, Peng Gao, Johnathan Cooper-Knock, Yaosen Min<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, Sai Zhang<sup>✉</sup>. Intelligent Systems for Molecular Biology (ISMB) 2026 / Bioinformatics (Conditional Acceptance) (2026).<br>
+<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://www.biorxiv.org/content/10.64898/2026.01.28.702242v1.abstract">Biorxiv</a></span><br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/DBinary/ProMeta">Code</a></span><br>
-<span><a href="https://www.biorxiv.org/content/10.64898/2026.01.28.702242v1.abstract">Biorxiv</a></span><br>
 </div>
 </div>
 
