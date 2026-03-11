@@ -64,6 +64,16 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 </div>
 </div>
 
+<div class='paper-box'>><div class='paper-box-image'><div><div class="badge">ISMB 2026 / Bioinformatics</div><img src='../images/ProMeta_Figure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics](https://www.biorxiv.org/content/10.64898/2026.01.28.702242v1.abstract). Han Li<sup>†,✉</sup>, *Haoteng Gu<sup>†</sup>*, <b>Lei Hu<sup>†</sup></b>, *Zimo Zhang*, *Yongji Lv*, Peng Gao, Johnathan Cooper-Knock, Yaosen Min<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, Sai Zhang<sup>✉</sup>. Intelligent Systems for Molecular Biology (ISMB) 2026 / Bioinformatics (Conditional Acceptance) (2026).<br>
+<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://github.com/DBinary/ProMeta">Code</a></span><br>
+<span><a href="https://www.biorxiv.org/content/10.64898/2026.01.28.702242v1.abstract">Biorxiv</a></span><br>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Research</div><img src='../images/cellresearch_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,14 +83,6 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMB 2026 / Bioinformatics</div><img src='../images/ProMeta_Figure1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics](https://www.biorxiv.org/content/10.64898/2026.01.28.702242v1.abstract). Han Li<sup>†,✉</sup>, *Haoteng Gu<sup>†</sup>*, <b>Lei Hu<sup>†</sup></b>, *Zimo Zhang*, *Yongji Lv*, Peng Gao, Johnathan Cooper-Knock, Yaosen Min<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, Sai Zhang<sup>✉</sup>. Intelligent Systems for Molecular Biology (ISMB) 2026 / Bioinformatics (Conditional Acceptance) (2026).<br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://github.com/DBinary/ProMeta">Code</a></span><br>
-</div>
-</div>
 
 ## 📖 Education
   <img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)                           
