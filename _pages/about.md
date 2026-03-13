@@ -16,12 +16,13 @@ Previously, I received B.E. in Automation and B.S. in Biotechnology from [Univer
 My main research interest focus on **AI for Life Sciences**, supported by National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生)) and Doctoral Student Special Program of the CAST Young Science and Technology Talents Cultivation Project (中国科协青年科技人才培育工程博士生专项计划).
 
 ## 💬 Recent News
+  * *March,* *2026*. Congratulations to Sheng Mao on being admitted to the **Ph.D. program at Stanford University**.
   * *December,* *2025*. I am honored to be supported by **Doctoral Student Special Program of the CAST Young Science and Technology Talents Cultivation Project (中国科协青年科技人才培育工程博士生专项计划).**
   * *June,* *2025*. Ph.D. student → Ph.D. candidate.
   * *December,* *2024*. I am honored to be supported by **National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生)).**
-  * *October,* *2024*. I am honored to receive the **National Scholarship !**
-  * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to **Department of Automation, Tsinghua University !**
-  * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications !**
+  * *October,* *2024*. I am honored to receive the **National Scholarship.**
+  * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to **Department of Automation, Tsinghua University.**
+  * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications.**
 
 ## 📝 Recent Publications and Important Manuscripts (<sup>†</sup>: co-first author, *co-working student*)
 <style>
@@ -137,7 +138,7 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
   * [Peiran Lin](https://ljzylinpr.github.io/) (undergraduate student at SDU → Ph.D. student at Westlake University)
   * Haoteng Gu (undergraduate student at BJUT)
   * [Xuting Zhang](https://lxzcpro.github.io/) (undergraduate student at Westlake University)
-  * Sheng Mao (undergraduate student at Westlake University )
+  * Sheng Mao (undergraduate student at Westlake University → incoming Ph.D. student at Stanford University)
   * Zedong Jiao (master student at XTU)
   * Yuntian Shi (undergraduate student at Westlake University)
   * Zimu Lin (undergraduate student at Westlake University)
