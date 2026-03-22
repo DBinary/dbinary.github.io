@@ -98,10 +98,10 @@
   @include notice($danger-color);
 }
 .research-highlight {
-  margin: 0.85em 0 0.95em !important;
-  padding: 0.78em 1.0em 0.78em 0.88em;
+  margin: 0.85em 0 0.85em !important;
+  padding: 0.78em 0.88em 0.78em 0.88em;
   background-color: mix(#fff, #2f63c9, 95%);
-  border-left: 3px solid #2f63c9;
+  border-left: 4px solid #2f63c9;
   border-radius: 0;
 }
 
