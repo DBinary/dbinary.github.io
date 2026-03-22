@@ -331,27 +331,7 @@
 }
 
 
-#main:not(.main--home) {
-  @include breakpoint($large) {
-    display: grid;
-    grid-template-columns: 22.5% minmax(0, 1fr);
-    column-gap: 5%;
-    align-items: start;
-  }
-}
-
-#main:not(.main--home) .sidebar,
-#main:not(.main--home) .page {
-  @include breakpoint($large) {
-    float: none;
-    width: auto;
-    margin: 0;
-    padding: 0;
-    min-width: 0;
-  }
-}
-
-.main--home {
+.main--with-sidebar {
   @include breakpoint($large) {
     display: grid;
     grid-template-columns: 22.5% minmax(0, 1fr);
@@ -366,8 +346,9 @@
   }
 }
 
-.main--home .sidebar--home,
-.main--home .page--home {
+.main--with-sidebar .sidebar,
+.main--with-sidebar .page,
+.main--with-sidebar .archive {
   @include breakpoint($large) {
     float: none;
     width: auto;
@@ -377,28 +358,30 @@
   }
 }
 
-.main--home .author-profile--featured .author__name {
+.main--with-sidebar .author-profile--featured .author__name {
   font-size: 1.10em;
 }
 
-.main--home .author-profile--featured .author__title {
+.main--with-sidebar .author-profile--featured .author__title {
   font-size: 0.9em;
 }
 
-.main--home .author-profile--featured .author__affiliation,
-.main--home .author-profile--featured .author__meta,
-.main--home .author-profile--featured .author__research-text,
-.main--home .author-profile--featured .author__inline-links {
+.main--with-sidebar .author-profile--featured .author__affiliation,
+.main--with-sidebar .author-profile--featured .author__meta,
+.main--with-sidebar .author-profile--featured .author__research-text,
+.main--with-sidebar .author-profile--featured .author__inline-links {
   font-size: 0.9em;
 }
 
-.main--home .author-profile--featured .author__research-title {
+.main--with-sidebar .author-profile--featured .author__research-title {
   font-size: 0.9em;
 }
 
-
-.main--home .page--home .page__content p,
-.main--home .page--home .page__content li,
-.main--home .page--home .page__content dl {
+.main--with-sidebar .page__content p,
+.main--with-sidebar .page__content li,
+.main--with-sidebar .page__content dl,
+.main--with-sidebar .archive p,
+.main--with-sidebar .archive li,
+.main--with-sidebar .archive dl {
   font-size: 0.9em;
 }

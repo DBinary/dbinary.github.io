@@ -14,7 +14,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main"{% if page.url == "/" %} class="main--home"{% endif %}>
+<div id="main" role="main"{% if page.author_profile or layout.author_profile or page.sidebar %} class="main--with-sidebar{% if page.url == "/" %} main--home{% endif %}"{% elsif page.url == "/" %} class="main--home"{% endif %}>
   {% include sidebar.html %}
 
   <article class="page{% if page.url == "/" %} page--home{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
