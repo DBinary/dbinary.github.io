@@ -340,9 +340,9 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: 1900px;
-    padding-left: 0.2em;
-    padding-right: 0.2em;
+    max-width: 1800px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
   }
 }
 
