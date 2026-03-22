@@ -333,6 +333,12 @@
     align-items: flex-start;
     gap: 5%;
   }
+
+  @include breakpoint($x-large) {
+    max-width: 1600px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
 }
 
 .main--home .sidebar--home {
@@ -340,21 +346,25 @@
     float: none;
     width: 22.5%;
     flex: 0 0 22.5%;
+    margin-left: 0;
+    margin-right: 0;
     margin-bottom: 0;
   }
 }
 
 .main--home .page--home {
   @include breakpoint($large) {
+    @include prefix(0 of 12);
+    @include suffix(0 of 12);
     float: none;
     width: auto;
     flex: 1 1 auto;
     min-width: 0;
     margin-left: 0;
+    margin-right: 0;
     padding-left: 0;
   }
 }
-
 
 .main--home .author-profile--featured .author__name {
   font-size: 0.88em;
