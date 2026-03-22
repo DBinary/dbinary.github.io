@@ -97,3 +97,15 @@
 .notice--danger {
   @include notice($danger-color);
 }
+.research-highlight {
+  margin: 1.85em 0 2.1em !important;
+  padding: 1.35em 1.55em;
+  background-color: mix(#fff, #2f63c9, 95%);
+  border-left: 5px solid #2f63c9;
+  border-radius: 0;
+}
+
+.page__content .research-highlight p {
+  margin: 0;
+  line-height: 1.75;
+}

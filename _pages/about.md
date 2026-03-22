@@ -13,7 +13,9 @@ Hi! I am Lei Hu (胡磊), the third year Ph.D. candidate of Cell Biology Lab (�
 
 Previously, I received B.E. in Automation and B.S. in Biotechnology from [University of Science and Technology Beijing](http://en.ustb.edu.cn/) (北京科技大学高等工程师学院/化学与生物工程学院). I also studied at [Central South University](https://en.csu.edu.cn//) (中南大学自动化学院) as an exchange student.
 
+<div class="research-highlight" markdown="1">
 My main research interest focus on **AI for Life Sciences**, supported by National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生)) and Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划).
+</div>
 
 ## 💬 Recent News
   * *March,* *2026*. Congratulations to Sheng Mao on being admitted to the **Ph.D. program at Stanford University**.
