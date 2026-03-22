@@ -331,6 +331,26 @@
 }
 
 
+#main:not(.main--home) {
+  @include breakpoint($large) {
+    display: grid;
+    grid-template-columns: 22.5% minmax(0, 1fr);
+    column-gap: 5%;
+    align-items: start;
+  }
+}
+
+#main:not(.main--home) .sidebar,
+#main:not(.main--home) .page {
+  @include breakpoint($large) {
+    float: none;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    min-width: 0;
+  }
+}
+
 .main--home {
   @include breakpoint($large) {
     display: grid;
