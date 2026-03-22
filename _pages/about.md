@@ -99,11 +99,12 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
   <img src="../images/ustb.png" alt="westlake" style="zoom:28%; float: left" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/)    
   &emsp; B.S. in Biotechnology, School of Chem. and Bio. Engineering. 2020.09-2023.06
 
+
   <img src="../images/csu.jpg" alt="westlake" style="zoom:24%; float: left" />&emsp; [Central South University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）   
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
 ## 👑 Awards and Honors
-  + 2025: Outstanding Graduate Student Award, Exploration Award, Westlake University 
+  + 2025: Outstanding Graduate Student Award, Exploration Award, Westlake University
   + 2025: Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划)
   + 2025: Outstanding Youth League Members of Hangzhou Education Bureau System (杭州市教育系统优秀共青团员)
   + 2024: National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生))
