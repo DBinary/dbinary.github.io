@@ -83,7 +83,15 @@ author:
   name             : "Lei Hu (胡磊)"
   avatar           : "2025_jingshan_temple.jpg"
   bio              : "Third year Ph.D. candidate at Westlake University."
-  location         : "Hangzhou, China"
+  profile_title    : "Ph.D. candidate"
+  profile_affiliation_life_label        : "School of Life Sciences"
+  profile_affiliation_life_url          : "https://sls.westlake.edu.cn/en/"
+  profile_affiliation_engineering_label : "Department of Artificial Intelligence, School of Engineering"
+  profile_affiliation_engineering_url   : "https://engineering.westlake.edu.cn/Research/Programs/"
+  profile_affiliation_university_label  : "Westlake University"
+  profile_affiliation_university_url    : "https://en.westlake.edu.cn/"
+  research_themes  : "Computational Biology, Spatial Multi-omics, AI for Life Sciences"
+  location         : "Hangzhou, Zhejiang, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=AmbiOvQAAAAJ"
