@@ -331,7 +331,7 @@
 }
 
 
-#main.main--home {
+.main--home {
   @include breakpoint($large) {
     display: grid;
     grid-template-columns: 22.5% minmax(0, 1fr);
