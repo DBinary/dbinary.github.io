@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(3.2 of 12);
+    @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -323,5 +323,33 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+}
+
+
+.main--home {
+  @include breakpoint($large) {
+    display: flex;
+    align-items: flex-start;
+    gap: 3.5%;
+  }
+}
+
+.main--home .sidebar--home {
+  @include breakpoint($large) {
+    float: none;
+    width: 27%;
+    flex: 0 0 27%;
+    margin-bottom: 0;
+  }
+}
+
+.main--home .page--home {
+  @include breakpoint($large) {
+    float: none;
+    width: 69.5%;
+    flex: 0 0 69.5%;
+    margin-left: 0;
+    padding-left: 0;
   }
 }
