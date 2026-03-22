@@ -335,7 +335,7 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: 1600px;
+    max-width: 1680px;
     padding-left: 0.5em;
     padding-right: 0.5em;
   }
@@ -367,7 +367,7 @@
 }
 
 .main--home .author-profile--featured .author__name {
-  font-size: 0.88em;
+  font-size: 1.10em;
 }
 
 .main--home .author-profile--featured .author__title {
