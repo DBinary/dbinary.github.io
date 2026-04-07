@@ -141,7 +141,7 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
   * [Peiran Lin](https://ljzylinpr.github.io/) (undergraduate student at SDU → Ph.D. student at Westlake University)
   * Haoteng Gu (undergraduate student at BJUT)
   * [Xuting Zhang](https://lxzcpro.github.io/) (undergraduate student at Westlake University)
-  * Sheng Mao (undergraduate student at Westlake University → incoming Ph.D. student at Stanford University)
+  * [Sheng Mao](https://chrismao0325.github.io/) (undergraduate student at Westlake University → incoming Ph.D. student at Stanford University)
   * Zedong Jiao (master student at XTU)
   * Yuntian Shi (undergraduate student at Westlake University)
   * Zimu Lin (undergraduate student at Westlake University)
