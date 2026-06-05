@@ -56,6 +56,15 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In review</div><img src='../images/fetal_brain_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Region-specific 3D transcriptional dynamics during human fetal brain development. Song Hu<sup>†</sup>, Zhenkun Zhuang<sup>†</sup>, Cuiyu Yang<sup>†</sup>, Tao Zhou<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Yibin Pan<sup>†</sup>, Rujin Zhuang<sup>†</sup>, Fubaoqian Huang<sup>†</sup>, Haibo Jia<sup>✉</sup>, Xuelian He<sup>✉</sup>, Songying Zhang<sup>✉</sup>, Shiping Liu<sup>✉</sup>, Hongtao Yu<sup>✉</sup>. *<b>Nature Neuroscience in review</b>* (2026).<br>
+<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://github.com/DBinary/FetalBrain_GRN_2026">Code</a></span><br>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics Advances</div><img src='../images/scltnn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
