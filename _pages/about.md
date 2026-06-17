@@ -65,6 +65,17 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BioRxiv</div><img src='../images/omicos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmicOS: A Comprehensive Omics Ecosystem Infrastructure and Agent System for the AI Era](https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1) Zehua Zeng<sup>†,✉</sup>, Xu Meng<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Chen Li<sup>†</sup>, Peng Liu, Yu Shi, Xuejiao Ma, Lianchong Gao, Xuehai Wang, Zhi Luo, Yawen Zheng, Jieshen Xian, Ziheng Lin, Haoliang Zhu, Zhaorui Jiang, Sheng Mao, Yifan Lu, Wenzhuo Tang, Qiangwei Peng, Yuqing Ma, Liping Zhou, Cencan Xing, Xuegong Zhang<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>. *<b>BioRxiv</b>*, 2026.06.11.731775 (2026).<br>
+<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1">Biorxiv</a></span><br>
+<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://github.com/omicverse/omicverse">Code</a></span><br>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics Advances</div><img src='../images/scltnn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
