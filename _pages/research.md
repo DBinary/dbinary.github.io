@@ -150,6 +150,7 @@ author_profile: true
   <ul class="research-timeline">
     <li>
       <div class="research-institution">
+        <img src="../images/westlake_logo.png" alt="Westlake University">
         <a href="https://www.westlake.edu.cn/" target="_blank">Westlake University</a>
       </div>
       <div class="research-role">Ph.D. Student Rotation Program, advised by Prof. <a href="https://www.westlake.edu.cn/faculty/jian-yang.html" target="_blank">Jian Yang</a></div>
