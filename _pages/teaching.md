@@ -174,17 +174,6 @@ author_profile: true
   </ul>
 </div>
 
-<div class="teaching-section lecturer">
-  <h2><span class="section-badge"></span> Lecturer</h2>
-  <ul class="teaching-timeline">
-    <li>
-      <div class="teaching-meta">2020 Fall – 2023 Summer</div>
-      <div class="teaching-role">Lecturer for <em>Mechanical Drawing</em></div>
-      <div class="teaching-place">Center for Student Learning and Development, University of Science and Technology Beijing</div>
-    </li>
-  </ul>
-</div>
-
 <div class="teaching-section leadership">
   <h2><span class="section-badge"></span> Student Association Leadership</h2>
   <ul class="teaching-timeline">
@@ -192,6 +181,17 @@ author_profile: true
       <div class="teaching-meta">2023 Fall – 2027 Summer</div>
       <div class="teaching-role">Staff, Minister, Member of the Presidium of Graduate Student Association</div>
       <div class="teaching-place">Westlake University</div>
+    </li>
+  </ul>
+</div>
+
+<div class="teaching-section lecturer">
+  <h2><span class="section-badge"></span> Lecturer</h2>
+  <ul class="teaching-timeline">
+    <li>
+      <div class="teaching-meta">2020 Fall – 2023 Summer</div>
+      <div class="teaching-role">Lecturer for <em>Mechanical Drawing</em></div>
+      <div class="teaching-place">Center for Student Learning and Development, University of Science and Technology Beijing</div>
     </li>
   </ul>
 </div>
