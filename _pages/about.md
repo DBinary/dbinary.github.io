@@ -8,70 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-  :root {
-    --a-black: #1a1a1a;
-    --a-blue: #0969da;
-    --a-orange: #f97316;
-  }
-
-  .about-section {
-    margin-bottom: 2rem;
-    padding: 1rem 1.25rem;
-    border-radius: 6px;
-    background: #fff;
-    border: 1px solid #e9e9e9;
-    border-left-width: 4px;
-  }
-  .about-section.about-blue {
-    border-left-color: var(--a-blue);
-  }
-  .about-section.about-orange {
-    border-left-color: var(--a-orange);
-  }
-
-  .about-section h2 {
-    font-size: 1.25rem;
-    font-weight: 700;
-    color: var(--a-black);
-    margin: 0 0 1rem 0;
-    padding-bottom: 0.5rem;
-    border-bottom: 2px solid var(--a-black);
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  .about-section.about-blue h2 {
-    border-bottom-color: var(--a-blue);
-  }
-  .about-section.about-orange h2 {
-    border-bottom-color: var(--a-orange);
-  }
-
-  .section-badge {
-    display: inline-block;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-  .about-section.about-blue .section-badge {
-    background: var(--a-blue);
-  }
-  .about-section.about-orange .section-badge {
-    background: var(--a-orange);
-  }
-
-  .about-section a {
-    color: var(--a-blue);
-    text-decoration: none;
-  }
-  .about-section a:hover {
-    color: var(--a-orange);
-    text-decoration: underline;
-  }
-</style>
-
 Hi! I am Lei Hu (胡磊), the third year Ph.D. candidate of Cell Biology Lab (细胞生物学实验室) at [School of Life Sciences](https://sls.westlake.edu.cn/en/), [Westlake University](https://en.westlake.edu.cn/) (西湖大学生命科学学院), advised by chair professor [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html). I am also the Ph.D. student of [Artificial Intelligence and Computational Biology (AICB) Lab (人工智能与计算生物学实验室)](https://aicb.lab.westlake.edu.cn/) at the Department of Artificial Intelligence, [School of Engineering](https://en-soe.westlake.edu.cn/) (西湖大学工学院人工智能系), co-advised by professor [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). Additionally, I am actively collaborating with assistant professor [Sai Zhang](https://sai-zhang.com/) at [Yale University](https://medicine.yale.edu/biomedical-informatics-data-science/) and assistant professor [Han Li](https://lihan97.github.io/) at [Nankai University](http://en.math.nankai.edu.cn/).
 
 
@@ -81,8 +17,7 @@ Previously, I received B.E. in Automation and B.S. in Biotechnology from [Univer
 My main research interest focus on **AI for Life Sciences**, supported by National Natural Science Foundation Basic Research Grants Program for Doctoral Students (国家自然科学基金青年学生基础研究项目(博士研究生)) and Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划).
 </div>
 
-<div class="about-section about-blue" markdown="1">
-## <span class="section-badge"></span> 💬 Recent News
+## 💬 Recent News
   * *March,* *2026*. Congratulations to Sheng Mao on being admitted to the **Ph.D. program at Stanford University**.
   * *December,* *2025*. I am honored to be supported by **Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划).**
   * *June,* *2025*. Ph.D. student → Ph.D. candidate.
@@ -90,10 +25,8 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
   * *October,* *2024*. I am honored to receive the **National Scholarship.**
   * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to **Department of Automation, Tsinghua University.**
   * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications.**
-</div>
 
-<div class="about-section about-blue" markdown="1">
-## <span class="section-badge"></span> 📝 Recent Publications and Important Manuscripts (<sup>†</sup>: co-first author, *co-working student*)
+## 📝 Recent Publications and Important Manuscripts (<sup>†</sup>: co-first author, *co-working student*)
 <style>
   table, th, td {
     border: 1px solid black;
@@ -174,10 +107,9 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
 <span><a href="https://www.nature.com/articles/s41422-025-01155-y">Paper</a></span><br>
 </div>
 </div>
-</div>
 
-<div class="about-section about-blue" markdown="1">
-## <span class="section-badge"></span> 📖 Education
+
+## 📖 Education
   <img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)                           
   &emsp; Ph.D. student in Biology, School of Life Sciences, advised by Prof. [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html) and Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 2023.08 - Present
 
@@ -190,10 +122,8 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
 
   <img src="../images/csu.jpg" alt="westlake" style="zoom:24%; float: left" />&emsp; [Central South University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）   
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
-</div>
 
-<div class="about-section about-orange" markdown="1">
-## <span class="section-badge"></span> 👑 Awards and Honors
+## 👑 Awards and Honors
   + 2025: Outstanding Graduate Student Award, Exploration Award, Westlake University
   + 2025: Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划)
   + 2025: Outstanding Youth League Members of Hangzhou Education Bureau System (杭州市教育系统优秀共青团员)
@@ -208,26 +138,20 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
   + 2021: Tongda Scholarship (1/146), USTB
   + 2021: Outstanding "San Hao" Student, USTB
   + 2020: People Scholarship (First Class), USTB
-</div>
 
-<div class="about-section about-orange" markdown="1">
-## <span class="section-badge"></span> 🎤 Talks
+## 🎤 Talks
   + [Inferring Spatial Gene Regulatory Networks from Multi-Omics Data](https://mp.weixin.qq.com/s/1lGVbU2clciPbuP_BLlPaw), College of Future Technology, Peking University, November 2025.
   + Spatiotemporal Mapping of Gene Regulatory Networks using Spatial Multi-omics Data, Systems and Synthetic Biology Program ECR Seminar, School of Life Sciences, Westlake University, June 2025.
   + [New functions and progress of OmicVerse, the python based framework for transcriptome data analysis](https://mp.weixin.qq.com/s/JX0BKKMCkBkDO-JRq7lKpA), BiolinkX, Zhejiang University, September 2024.
   + [OmicVerse - Introduction to the python based framework for transcriptome data analysis](https://mp.weixin.qq.com/s/PHE8vePsRMs9HouJTGsf9Q), BiolinkX, Online, September 2023.
-</div>
 
-<div class="about-section about-orange" markdown="1">
-## <span class="section-badge"></span> 💻 Internships
+## 💻 Internships
   * 2023.03 - 2023.07 Research Intern at [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Zaiqing Nie](https://air.tsinghua.edu.cn/info/1046/1203.htm) and Postdoc [Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm).
   * 2021.11 - 2023.08 Research Intern at [112Lab](https://112lab.asia/people), University of Science and Techonology Beijing, advised by Ph.D. Student [Zehua Zeng](https://github.com/Starlitnightly).
   * 2021.07 - 2022.07 Research Intern at [APM](http://www.apm.cas.cn), Chinese Academy of Science, advised by Prof. [Fuchun Lin](https://people.ucas.edu.cn/~linfuchun). 
   * 2020.09 - 2021.09 Research Intern at [Metall](https://metall.ustb.edu.cn/), University of Science and Techonology Beijing, advised by Associate Professor [Rongbin Li](https://metall.ustb.edu.cn/szdw/jsjs/83d7b380b378434f83e47d12040d40c4.htm). 
-</div>
 
-<div class="about-section about-orange" markdown="1">
-## <span class="section-badge"></span> 🔗 Co-working Students
+## 🔗 Co-working Students
 (*I am working with some visiting/undergraduate/doctoral students and postdocs at Westlake University with chair professor Hongtao Yu and professor Jianyang Zeng*)
   * Peng Liu (undergraduate student at USTB → master student at THU)
   * Yihan Zhao (undergraduate student at USTB → master student at FDU)
@@ -245,12 +169,9 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
   * Aoxin Wan (undergraduate student at Westlake University)
   * Yongji Lv (undergraduate student at Westlake University)  
   * Bowen Guo (8-years M.D. student at Westlake University and Southern Medical University)  
-</div>
 
-<div class="about-section about-blue" markdown="1">
-## <span class="section-badge"></span> 🤗 Academic Service
+## 🤗 Academic Service
   * Reviewer, ISMB 2026
   * Editor assistant, Protein Cell
-</div>
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
