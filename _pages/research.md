@@ -15,6 +15,17 @@ author_profile: true
 
   .research-section {
     margin-bottom: 2.5rem;
+    padding: 1rem 1.25rem;
+    border-radius: 6px;
+    background: #fff;
+    border: 1px solid #e9e9e9;
+    border-left-width: 4px;
+  }
+  .research-section.current {
+    border-left-color: var(--r-blue);
+  }
+  .research-section.past {
+    border-left-color: var(--r-orange);
   }
   .research-section h2 {
     font-size: 1.1rem;
