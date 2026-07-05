@@ -156,7 +156,7 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
   * Peng Liu (undergraduate student at USTB → master student at THU)
   * Yihan Zhao (undergraduate student at USTB → master student at FDU)
   * Zheming Zhang (undergraduate student at CSU → master student at CSSC)
-  * Fenglei Zhang (undergraduate student at SXU → master student at NPU → incoming Ph.D. student at NPU)
+  * Fenglei Zhang (undergraduate student at SXU → Ph.D. student at NPU)
   * [Zhaorui Jiang](https://zhaorui-bi.github.io/) (undergraduate student at OUC → master student at PKU)
   * [Peiran Lin](https://ljzylinpr.github.io/) (undergraduate student at SDU → Ph.D. student at Westlake University)
   * Haoteng Gu (undergraduate student at BJUT)
