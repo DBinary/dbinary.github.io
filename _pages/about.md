@@ -26,88 +26,37 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
   * *September,* *2024*. Congratulations! My collaborator, Peng Liu has been admitted to **Department of Automation, Tsinghua University.**
   * *Jun,* *2024*. [OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) accepted to **Nature Communications.**
 
-## 📝 Recent Publications and Important Manuscripts (<sup>†</sup>: co-first author, *co-working student*)
+## 📝 Recent Publications and Important Manuscripts (<sup>*</sup>: co-first author)
+
 <style>
-  table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
+  .publication-list {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  .publication-list li {
+    display: grid;
+    grid-template-columns: 2.8rem minmax(0, 1fr);
+    column-gap: 0.25rem;
+    align-items: start;
+    margin-bottom: 0.9rem;
+  }
+
+  .publication-number {
+    font-weight: 700;
   }
 </style>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BioRxiv</div><img src='../images/starnet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2) **Lei Hu<sup>†</sup>**, Shichen Zhang<sup>†</sup>, *Xuting Zhang<sup>†</sup>*, Yihai Luo<sup>†</sup>, *Haoteng Gu*, *Peng Liu*, *Sheng Mao*, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>. *<b>BioRxiv (In Revision in Nature Methods)</b>*, 2025.08 21.671434 (2025).<br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2">Biorxiv</a></span><br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-<span> <a href="https://starnet-tutorials.readthedocs.io/en/latest">Tutorials</a></span><br>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='../images/omicverse.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell Sequencing](https://www.nature.com/articles/s41467-024-50194-3) Zehua Zeng<sup>†,✉</sup>, Yuqing Ma<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Bowen Tan, *Peng Liu*, Yixuan Wang, Cencan Xing<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>. *<b>Nature Communications</b>*, 15, 5983 (2024).<br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://www.nature.com/articles/s41467-024-50194-3">Paper</a>, <a href="https://doi.org/10.1101/2023.06.06.543913">Biorxiv</a></span><br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://github.com/Starlitnightly/omicverse">Code</a>, <a href="https://github.com/Starlitnightly/omicverse-reproducibility">Reproducibility</a>, <a href="https://starlitnightly.github.io/omicverse/">Tutorials</a></span><br>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In review</div><img src='../images/fetal_brain_2026.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Region-specific 3D transcriptional dynamics during human fetal brain development. Song Hu<sup>†</sup>, Zhenkun Zhuang<sup>†</sup>, Cuiyu Yang<sup>†</sup>, Tao Zhou<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Yibin Pan<sup>†</sup>, Rujin Zhuang<sup>†</sup>, Fubaoqian Huang<sup>†</sup>, ..., Haibo Jia<sup>✉</sup>, Xuelian He<sup>✉</sup>, Songying Zhang<sup>✉</sup>, Shiping Liu<sup>✉</sup>, Hongtao Yu<sup>✉</sup>. *<b>Nature Neuroscience in review</b>* (2026).<br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://github.com/DBinary/FetalBrain_GRN_2026">Code</a></span><br>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BioRxiv</div><img src='../images/omicos.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OmicOS: A Comprehensive Omics Ecosystem Infrastructure and Agent System for the AI Era](https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1) Zehua Zeng<sup>†,✉</sup>, Xu Meng<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Chen Li<sup>†</sup>, ..., Xuegong Zhang<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>. *<b>BioRxiv</b>*, 2026.06.11.731775 (2026).<br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1">Biorxiv</a></span><br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://github.com/omicverse/omicverse">Code</a></span><br>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMB 2026 / Bioinformatics</div><img src='../images/ProMeta_Figure1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics](https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag267/8726356). Han Li<sup>†,✉</sup>, *Haoteng Gu<sup>†</sup>*, <b>Lei Hu<sup>†</sup></b>, *Zimo Zhang*, *Yongji Lv*, Peng Gao, Johnathan Cooper-Knock, Yaosen Min<sup>✉</sup>, Jianyang Zeng<sup>✉</sup>, Sai Zhang<sup>✉</sup>. *<b>Bioinformatics</b>*, 42(Supplement_1), btag267 (2026).<br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag267/8726356">Paper</a>, <a href="https://www.biorxiv.org/content/10.64898/2026.01.28.702242v1.abstract">Biorxiv</a></span><br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://github.com/DBinary/ProMeta">Code</a></span><br>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics Advances</div><img src='../images/scltnn.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[scLTNN: an innovative tool for automatically visualizing single-cell trajectories](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf033/8043205) Cengcan Xing<sup>†</sup>, Zehua Zeng<sup>†,✉</sup>, <b>Lei Hu<sup>†</sup></b>, Jianing Kang, Shah Roshan, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>, Tongbiao Zhao<sup>✉</sup>. *<b>Bioinformatics Advances</b>*, vbaf033 (2025).<br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf033/8043205">Paper</a>, <a href="https://doi.org/10.1101/2022.09.28.510020">Biorxiv</a></span><br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://github.com/Starlitnightly/scLTNN">Code</a>, <a href="https://scltnn.readthedocs.io/en/latest/index.html">Tutorials</a></span><br>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Research</div><img src='../images/cellresearch_2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Targeting necrotic lipid release in tumors enhances immunosurveillance and cancer immunotherapy of glioblastoma](https://www.nature.com/articles/s41422-025-01155-y) Yapeng Ji, Junyao Jiang, <b>Lei Hu</b>, Peng Lin, Mingshan Zhou, Song Hu, Minkai Wang, Yuchen Ji, Xianzhi Liu, Dongming Yan, Yang Guo, Adwait Amod Sathe, Bret M. Evers, Chao Xing, Xuelian Luo, Qi Xie, Weike Pei, Zhenyu Zhang<sup>✉</sup>, Hongtao Yu<sup>✉</sup>. *<b>Cell Research</b>*, (2025).<br>
-<img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://www.nature.com/articles/s41422-025-01155-y">Paper</a></span><br>
-</div>
-</div>
-
+<ol class="publication-list">
+  <li><span class="publication-number">[1]</span><span><strong>Hu L*</strong>, Zhang S*, Zhang X*, et al. (2025). <strong>STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data</strong>. <em>Nature Methods in review</em>.</span></li>
+  <li><span class="publication-number">[2]</span><span>Zeng Z*, Ma Y*, <strong>Hu L*</strong>, et al. (2024). <strong>OmicVerse: a framework for bridging and deepening insights across bulk and single-cell sequencing</strong>. <em>Nature Communications</em>, Vol. 15, Issue 1, pp. 5983.</span></li>
+  <li><span class="publication-number">[3]</span><span>Xing C*, Zeng Z*, <strong>Hu L*</strong>, et al. (2025). <strong>scLTNN: an innovative tool for automatically visualizing single-cell trajectories</strong>. <em>Bioinformatics Advances</em>, Vol. 5, Issue 1, pp. vbaf033.</span></li>
+  <li><span class="publication-number">[4]</span><span><strong>Hu L*</strong>, Zhang X*, Liu P*, et al. <strong>ScRNA-seq and Spatial Transcriptome of Gastric Mucosa Discovers the Immune Suppressive Mechanisms in Helicobacter Pylori Infection</strong>. (Submitted)</span></li>
+  <li><span class="publication-number">[5]</span><span>Zhao Y*, Liu P*, <strong>Hu L*</strong>, et al. (2023). <strong>Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution</strong>. <em>bioRxiv</em>, pp. 2023.05.10.540147.</span></li>
+  <li><span class="publication-number">[6]</span><span>Ji Y, Jiang J, <strong>Hu L</strong>, et al. <strong>Targeting necrotic lipid release in tumors enhances immunosurveillance and cancer immunotherapy of glioblastoma</strong>. (Cell Research in review)</span></li>
+  <li><span class="publication-number">[7]</span><span>Wu Y, Zhang T, Zhou H, Wu H, Sunchu H, <strong>Hu L</strong>, et al. (2024). <strong>DeepCRE: Transforming Drug R&amp;D via AI-Driven Cross-drug Response Evaluation</strong>. <em>arXiv preprint arXiv:2403.03768</em>.</span></li>
+</ol>
 
 ## 📖 Education
   <img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)                           
@@ -172,6 +121,6 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
 
 ## 🤗 Academic Service
   * Reviewer, ISMB 2026
-  * Editor assistant, Protein Cell
+  * Editor assistant, Cell Research
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
