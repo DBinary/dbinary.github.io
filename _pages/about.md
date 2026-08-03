@@ -167,7 +167,7 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
   * Zimu Lin (undergraduate student at Westlake University)
   * Zimo Zhang (undergraduate student at Westlake University)
   * Aoxin Wan (undergraduate student at Westlake University)
-  * Yongji Lv (undergraduate student at Westlake University)  
+  * [Yongji Lv](https://memory-source.github.io/) (undergraduate student at Westlake University)  
   * Bowen Guo (8-years M.D. student at Westlake University and Southern Medical University)  
 
 ## 🤗 Academic Service
