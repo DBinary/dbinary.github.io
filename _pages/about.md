@@ -124,6 +124,7 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
 ## 👑 Awards and Honors
+  + 2026: Zhejiang Provincial Outstanding Graduate Student Affairs Counselor Award (浙江省普通高校三助一辅之星)
   + 2025: Outstanding Graduate Student Award, Exploration Award, Westlake University
   + 2025: Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划)
   + 2025: Outstanding Youth League Members of Hangzhou Education Bureau System (杭州市教育系统优秀共青团员)
