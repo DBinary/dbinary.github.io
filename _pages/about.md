@@ -59,7 +59,7 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In review</div><img src='../images/fetal_brain_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Region-specific 3D transcriptional dynamics during human fetal brain development. Song Hu<sup>†</sup>, Zhenkun Zhuang<sup>†</sup>, Cuiyu Yang<sup>†</sup>, Tao Zhou<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Yibin Pan<sup>†</sup>, Rujin Zhuang<sup>†</sup>, Fubaoqian Huang<sup>†</sup>, ..., Haibo Jia<sup>✉</sup>, Xuelian He<sup>✉</sup>, Songying Zhang<sup>✉</sup>, Shiping Liu<sup>✉</sup>, Hongtao Yu<sup>✉</sup>. *<b>Nature Neuroscience in review</b>* (2026).<br>
+Region-specific 3D transcriptional dynamics during human fetal brain development. Song Hu<sup>†</sup>, Zhenkun Zhuang<sup>†</sup>, Cuiyu Yang<sup>†</sup>, Tao Zhou<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Yibin Pan<sup>†</sup>, Rujin Zhuang<sup>†</sup>, Fubaoqian Huang<sup>†</sup>, ..., Haibo Jia<sup>✉</sup>, Xuelian He<sup>✉</sup>, Songying Zhang<sup>✉</sup>, Shiping Liu<sup>✉</sup>, Hongtao Yu<sup>✉</sup>. *<b>(In Revision in Vita)</b>* (2026).<br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/DBinary/FetalBrain_GRN_2026">Code</a></span><br>
 </div>
@@ -70,7 +70,7 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
 
 [OmicOS: A Comprehensive Omics Ecosystem Infrastructure and Agent System for the AI Era](https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1) Zehua Zeng<sup>†,✉</sup>, Xu Meng<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Chen Li<sup>†</sup>, ..., Xuegong Zhang<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>. *<b>BioRxiv</b>*, 2026.06.11.731775 (2026).<br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1">Biorxiv</a></span><br>
+<span><a href="https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1">Biorxiv (Under Peer Review in Cell)</a></span><br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/omicverse/omicverse">Code</a></span><br>
 </div>
@@ -124,6 +124,7 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
 ## 👑 Awards and Honors
+  + 2026: Zhejiang Provincial Outstanding Graduate Student Affairs Counselor Award (浙江省普通高校三助一辅之星)
   + 2025: Outstanding Graduate Student Award, Exploration Award, Westlake University
   + 2025: Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划)
   + 2025: Outstanding Youth League Members of Hangzhou Education Bureau System (杭州市教育系统优秀共青团员)
@@ -167,8 +168,12 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
   * Zimu Lin (undergraduate student at Westlake University)
   * Zimo Zhang (undergraduate student at Westlake University)
   * Aoxin Wan (undergraduate student at Westlake University)
-  * Yongji Lv (undergraduate student at Westlake University)  
+  * [Yongji Lv](https://memory-source.github.io/) (undergraduate student at Westlake University)  
   * Bowen Guo (8-years M.D. student at Westlake University and Southern Medical University)  
+  * Haoran Tang (undergraduate student at Westlake University)
+  * Tianren Xue (undergraduate student at Westlake University)
+  * Jiaqi Li (undergraduate student at Westlake University)
+  * Siyu Jiang (undergraduate student at Westlake University)
 
 ## 🤗 Academic Service
   * Reviewer, ISMB 2026
