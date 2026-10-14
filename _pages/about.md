@@ -18,6 +18,7 @@ My main research interest focus on **AI for Life Sciences**, supported by Nation
 </div>
 
 ## 💬 Recent News
+  * *October,* *2026*. I am honored to receive the **Dean award and Suwu Scholarship.**
   * *March,* *2026*. Congratulations to Sheng Mao on being admitted to the **Ph.D. program at Stanford University**.
   * *December,* *2025*. I am honored to be supported by **Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划).**
   * *June,* *2025*. Ph.D. student → Ph.D. candidate.
@@ -68,9 +69,9 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BioRxiv</div><img src='../images/omicos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OmicOS: A Comprehensive Omics Ecosystem Infrastructure and Agent System for the AI Era](https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1) Zehua Zeng<sup>†,✉</sup>, Xu Meng<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Chen Li<sup>†</sup>, ..., Xuegong Zhang<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>. *<b>BioRxiv</b>*, 2026.06.11.731775 (2026).<br>
+[OmicOS: A Comprehensive Omics Ecosystem Infrastructure and Agent System for the AI Era](https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1) Zehua Zeng<sup>†,✉</sup>, Xu Meng<sup>†</sup>, <b>Lei Hu<sup>†</sup></b>, Chen Li<sup>†</sup>, ..., Xuegong Zhang<sup>✉</sup>, Yuanyan Xiong<sup>✉</sup>, Hongwu Du<sup>✉</sup>. *<b>BioRxiv </b> (Under Peer Review in <b>Cell</b>)*, 2026.06.11.731775 (2026).<br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1">Biorxiv (Under Peer Review in Cell)</a></span><br>
+<span><a href="https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1">Biorxiv</a></span><br>
 <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/omicverse/omicverse">Code</a></span><br>
 </div>
@@ -124,6 +125,9 @@ Region-specific 3D transcriptional dynamics during human fetal brain development
   &emsp; Exchange Student, School of Automation, 2021.09-2022.01
 
 ## 👑 Awards and Honors
+  + 2026: Dean Award, School of Life Sciences, Westlake University (Top Award of Doctoral Students)
+  + 2026: Suwu Scholarship, Westlake University
+  + 2026: Outstanding Graduate Student Award, Innovation Award, Westlake University
   + 2026: Zhejiang Provincial Outstanding Graduate Student Affairs Counselor Award (浙江省普通高校三助一辅之星)
   + 2025: Outstanding Graduate Student Award, Exploration Award, Westlake University
   + 2025: Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划)
