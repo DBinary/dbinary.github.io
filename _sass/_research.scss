@@ -44,9 +44,18 @@
 
     &__body {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(unquote("min(100%, 18rem)"), 1fr));
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
       gap: calc(var(--research-space) * 1.5);
       align-items: start;
+
+      // Match the reference page: stack only at its 480px small-screen cutoff.
+      @media screen and (max-width: 480px) {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    &__publications {
+      min-width: 0;
     }
 
     &__overview {

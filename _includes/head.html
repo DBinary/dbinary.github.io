@@ -16,7 +16,7 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
 
 {% comment %} --- 开始添加的代码 --- {% endcomment %}
 {% if page.page_specific_css %}
