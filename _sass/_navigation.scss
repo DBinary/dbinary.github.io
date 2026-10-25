@@ -199,6 +199,11 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+
+    &:focus-visible {
+      outline: 2px solid #fff;
+      outline-offset: 2px;
+    }
   }
 
   @media screen and (max-width: 600px) {

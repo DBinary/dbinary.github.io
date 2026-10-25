@@ -1,0 +1,170 @@
+# Research themes and selected publications.
+# Author lists are abbreviated in source order, retaining Lei Hu.
+# Review status follows _pages/about.md and is separate from publication venue.
+- id: spatial-biology
+  title: Spatial Biology and Gene Regulation
+  description: >-
+    I study spatially resolved gene regulatory networks and transcriptional programs using
+    spatial multi-omics data. My work connects computational methods for regulatory network
+    inference with the study of tissue organization and human brain development.
+  image: /images/starnet.png
+  image_alt: Overview of the STARNet framework for spatial gene regulatory network inference
+  image_width: 1702
+  image_height: 952
+  works:
+  - title: STARNet enables spatially resolved inference of gene regulatory networks from spatial
+      multi-omics data
+    short_title: STARNet
+    authors:
+    - name: Lei Hu
+      equal: true
+    - name: Shichen Zhang
+      equal: true
+    - name: Xuting Zhang
+      equal: true
+    paper_url: https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2
+    venue: bioRxiv preprint
+    year: 2025
+    links:
+    - label: Preprint
+      url: https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2
+    - label: Tutorials
+      url: https://starnet-tutorials.readthedocs.io/en/latest
+    doi: 10.1101/2025.08.21.671434
+    authors_truncated: true
+    review_status: In revision at Nature Methods
+  - title: Region-specific 3D transcriptional dynamics during human fetal brain development
+    short_title: the fetal brain study
+    authors:
+    - name: Song Hu
+      equal: true
+    - name: Zhenkun Zhuang
+      equal: true
+    - name: …
+    - name: Lei Hu
+      equal: true
+    venue: Manuscript
+    year: 2026
+    links:
+    - label: Code
+      url: https://github.com/DBinary/FetalBrain_GRN_2026
+    authors_truncated: true
+    review_status: In revision at Vita
+- id: ai-agents
+  title: AI and Agents for Life Sciences
+  description: >-
+    I develop AI methods for analyzing biological data and studying human health. My work
+    includes meta-learning for disease diagnosis and prediction from plasma proteomics, and
+    tools for bulk and single-cell omics analysis. I am interested in combining biological
+    knowledge with machine learning to improve interpretability and adaptation to new research
+    questions.
+  description_details: >-
+    Another focus is the infrastructure that enables AI agents to use biological analysis
+    tools. OmicVerse provides reusable omics methods, while OmicOS connects this infrastructure
+    with an agent system. Across these projects, I explore how analytical capabilities and
+    agent-assisted workflows can make computational research easier to inspect and extend.
+  image: /images/omicos.png
+  image_alt: Overview of the OmicOS omics ecosystem infrastructure and agent system
+  image_width: 1407
+  image_height: 816
+  works:
+  - title: 'OmicVerse: A Framework for Bridging and Deepening Insights Across Bulk and Single-Cell
+      Sequencing'
+    short_title: OmicVerse
+    authors:
+    - name: Zehua Zeng
+      equal: true
+      corresponding: true
+    - name: Yuqing Ma
+      equal: true
+    - name: Lei Hu
+      equal: true
+    paper_url: https://www.nature.com/articles/s41467-024-50194-3
+    venue: Nature Communications
+    year: 2024
+    links:
+    - label: Paper
+      url: https://www.nature.com/articles/s41467-024-50194-3
+    - label: Code
+      url: https://github.com/Starlitnightly/omicverse
+    - label: Tutorials
+      url: https://starlitnightly.github.io/omicverse/
+    volume: '15'
+    article_number: '5983'
+    doi: 10.1038/s41467-024-50194-3
+    authors_truncated: true
+  - title: 'OmicOS: A Comprehensive Omics Ecosystem Infrastructure and Agent System for the
+      AI Era'
+    short_title: OmicOS
+    authors:
+    - name: Zehua Zeng
+      equal: true
+      corresponding: true
+    - name: Xu Meng
+      equal: true
+    - name: Lei Hu
+      equal: true
+    paper_url: https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1
+    venue: bioRxiv preprint
+    year: 2026
+    links:
+    - label: Preprint
+      url: https://www.biorxiv.org/content/10.64898/2026.06.11.731775v1
+    - label: Code
+      url: https://github.com/omicverse/omicverse
+    doi: 10.64898/2026.06.11.731775
+    authors_truncated: true
+    review_status: Under peer review at Cell
+  - title: 'ProMeta: A meta-learning framework for robust disease diagnosis and prediction
+      from plasma proteomics'
+    short_title: ProMeta
+    authors:
+    - name: Han Li
+      equal: true
+      corresponding: true
+    - name: Haoteng Gu
+      equal: true
+    - name: Lei Hu
+      equal: true
+    paper_url: https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag267/8726356
+    venue: Bioinformatics
+    year: 2026
+    links:
+    - label: Paper
+      url: https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag267/8726356
+    - label: Code
+      url: https://github.com/DBinary/ProMeta
+    volume: '42'
+    issue: Supplement_1
+    article_number: btag267
+    doi: 10.1093/bioinformatics/btag267
+    authors_truncated: true
+- id: integrative-bioinformatics
+  title: Integrative Bioinformatics
+  description: >-
+    My collaborative research uses bioinformatics to investigate biological processes and
+    disease mechanisms. This work connects molecular data analysis with biological questions,
+    including tumor immunosurveillance and cancer immunotherapy in glioblastoma.
+  image: /images/cellresearch_2025.png
+  image_alt: Figure from the study of glioblastoma immunosurveillance and cancer immunotherapy
+  image_width: 1713
+  image_height: 948
+  works:
+  - title: Targeting necrotic lipid release in tumors enhances immunosurveillance and cancer
+      immunotherapy of glioblastoma
+    short_title: the glioblastoma study
+    authors:
+    - name: Yapeng Ji
+    - name: Junyao Jiang
+    - name: Lei Hu
+    paper_url: https://www.nature.com/articles/s41422-025-01155-y
+    venue: Cell Research
+    year: 2025
+    links:
+    - label: Paper
+      url: https://www.nature.com/articles/s41422-025-01155-y
+    volume: '35'
+    issue: '11'
+    pages: 859–875
+    doi: 10.1038/s41422-025-01155-y
+    authors_truncated: true

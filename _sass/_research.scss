@@ -1,0 +1,137 @@
+/* Research themes: scoped to the overview, keeping the site shell intact. */
+.research-overview {
+  --research-accent: #{$westlake-color};
+  --research-text: #{$text-color};
+  --research-muted: #525c65;
+  --research-border: #{$border-color};
+  --research-space: 1.25rem;
+
+  color: var(--research-text);
+  overflow-wrap: anywhere;
+
+  a {
+    color: var(--research-accent);
+    text-underline-offset: 0.16em;
+
+    &:hover {
+      text-decoration-thickness: 2px;
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--research-accent);
+      outline-offset: 4px;
+      border-radius: 2px;
+    }
+  }
+
+  &__notes {
+    color: var(--research-muted);
+    line-height: 1.6;
+  }
+
+  .research-area {
+    margin-bottom: calc(var(--research-space) * 3);
+    scroll-margin-top: 1.5rem;
+
+    &__title {
+      margin: 0 0 var(--research-space);
+      padding-bottom: 0.65rem;
+      color: var(--research-accent);
+      font-size: 1.2em;
+      line-height: 1.35;
+      border-bottom: 2px solid var(--research-border);
+    }
+
+    &__body {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(unquote("min(100%, 18rem)"), 1fr));
+      gap: calc(var(--research-space) * 1.5);
+      align-items: start;
+    }
+
+    &__overview {
+      min-width: 0;
+
+      > p {
+        margin: 0;
+        line-height: 1.7;
+      }
+
+      > p + p {
+        margin-top: 0.8rem;
+      }
+    }
+
+    &__figure {
+      min-width: 0;
+      margin: var(--research-space) 0 0;
+
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+
+    }
+
+    &__works {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+  }
+
+  .research-work {
+    margin: 0;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--research-border);
+
+    &:first-child {
+      padding-top: 0;
+    }
+
+    &__title {
+      margin: 0 0 0.35rem;
+      font-size: 1em;
+      line-height: 1.5;
+    }
+
+    &__meta {
+      color: var(--research-muted);
+      font-size: 0.9em;
+      line-height: 1.6;
+    }
+
+    &__authors {
+      margin-bottom: 0.4rem;
+      font-size: 0.95em;
+      line-height: 1.65;
+    }
+
+    &__doi {
+      margin-top: 0.25rem;
+      font-size: 0.85em;
+      line-height: 1.6;
+    }
+
+    &__status {
+      margin-top: 0.25rem;
+      color: var(--research-accent);
+      font-size: 0.9em;
+      line-height: 1.6;
+    }
+
+    &__links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0 1rem;
+
+      a {
+        display: inline-flex;
+        align-items: center;
+        min-height: 44px;
+        font-size: 0.9em;
+      }
+    }
+  }
+}
